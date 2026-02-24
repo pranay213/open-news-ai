@@ -1,4 +1,4 @@
-name: gemini-ai-daily
+name: openrouter-ai-daily
 
 on:
   workflow_dispatch:
@@ -20,42 +20,34 @@ jobs:
 
       - run: mkdir -p notes
 
-      - run: npm init -y
-      - run: npm install @google/generative-ai
-
       - run: |
           cat << 'EOF' > generate.cjs
           const fs = require("fs")
-          const { GoogleGenerativeAI } = require("@google/generative-ai")
-
-          const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY)
-          const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" })
-
-          const topics = [
-            "AI Agents architecture",
-            "RAG production design",
-            "AI SaaS ideas",
-            "React AI UI patterns",
-            "LLM prompt patterns",
-            "Trending GitHub repos analysis",
-            "AI automation workflows",
-            "Open source AI tools",
-            "Future AI tech",
-            "AI system design"
-          ]
 
           async function run(){
-            for (let i = 0; i < 10; i++) {
-              const topic = topics[Math.floor(Math.random()*topics.length)]
+            const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+              method: "POST",
+              headers: {
+                "Authorization": "Bearer " + process.env.OPENROUTER_API_KEY,
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://github.com",
+                "X-Title": "daily-ai"
+              },
+              body: JSON.stringify({
+                model: "mistralai/mistral-7b-instruct:free",
+                messages: [
+                  {
+                    role: "user",
+                    content: "Write a concise markdown article about a trending AI or tech topic with tools and examples."
+                  }
+                ]
+              })
+            })
 
-              const result = await model.generateContent(
-                "Write a concise markdown tech note with examples and tools about: " + topic
-              )
+            const json = await res.json()
+            const text = json.choices?.[0]?.message?.content || "empty"
 
-              const text = result.response.text()
-
-              fs.writeFileSync(`notes/${Date.now()}-${i}.md`, text)
-            }
+            fs.writeFileSync(`notes/${Date.now()}.md`, text)
           }
 
           run()
@@ -63,7 +55,7 @@ jobs:
 
       - run: node generate.cjs
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
       - run: |
           git config user.name "github-actions[bot]"
@@ -73,7 +65,7 @@ jobs:
           for i in {1..10}
           do
             git add .
-            git commit -m "gemini ai update $i $(date +%s)" || true
+            git commit -m "openrouter ai update $i $(date +%s)" || true
           done
 
       - run: git push
