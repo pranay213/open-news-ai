@@ -1,4 +1,4 @@
-name: ai-trending-daily
+name: gemini-ai-daily
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  run:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,47 +17,45 @@ jobs:
       - run: mkdir -p notes
 
       - run: npm init -y
-      - run: npm install openai fs-extra
+      - run: npm install @google/generative-ai
 
       - run: |
           cat << 'EOF' > generate.js
           import fs from "fs"
-          import OpenAI from "openai"
+          import { GoogleGenerativeAI } from "@google/generative-ai"
 
-          const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
+          const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY)
+          const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" })
 
           const topics = [
-            "AI Agents",
-            "RAG Architecture",
-            "AI SaaS Ideas",
-            "React AI UI Patterns",
-            "LLM Prompt Engineering",
-            "Trending GitHub Repos Analysis",
-            "AI Automation Workflows",
-            "Open Source AI Tools",
-            "Future of AI Tech",
-            "AI System Design"
+            "AI Agents architecture",
+            "RAG production design",
+            "AI SaaS ideas",
+            "React AI UI patterns",
+            "LLM prompt patterns",
+            "Trending GitHub repos analysis",
+            "AI automation workflows",
+            "Open source AI tools",
+            "Future AI tech",
+            "AI system design"
           ]
 
           for (let i = 0; i < 10; i++) {
             const topic = topics[Math.floor(Math.random()*topics.length)]
 
-            const res = await client.chat.completions.create({
-              model: "gpt-4o-mini",
-              messages: [
-                { role: "system", content: "Write a concise markdown tech note with examples and tools." },
-                { role: "user", content: topic }
-              ]
-            })
+            const result = await model.generateContent(
+              "Write a concise markdown tech note with examples, tools, and code about: " + topic
+            )
 
-            const text = res.choices[0].message.content
-            fs.writeFileSync(\`notes/\${Date.now()}-\${i}.md\`, text)
+            const text = result.response.text()
+
+            fs.writeFileSync(`notes/${Date.now()}-${i}.md`, text)
           }
           EOF
 
       - run: node generate.js
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - run: |
           git config user.name "github-actions[bot]"
@@ -67,7 +65,7 @@ jobs:
           for i in {1..10}
           do
             git add .
-            git commit -m "ai trending update $i $(date +%s)" || true
+            git commit -m "gemini ai update $i $(date +%s)" || true
           done
 
       - run: git push
