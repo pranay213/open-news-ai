@@ -1,0 +1,73 @@
+name: ai-trending-daily
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: mkdir -p notes
+
+      - run: npm init -y
+      - run: npm install openai fs-extra
+
+      - run: |
+          cat << 'EOF' > generate.js
+          import fs from "fs"
+          import OpenAI from "openai"
+
+          const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
+
+          const topics = [
+            "AI Agents",
+            "RAG Architecture",
+            "AI SaaS Ideas",
+            "React AI UI Patterns",
+            "LLM Prompt Engineering",
+            "Trending GitHub Repos Analysis",
+            "AI Automation Workflows",
+            "Open Source AI Tools",
+            "Future of AI Tech",
+            "AI System Design"
+          ]
+
+          for (let i = 0; i < 10; i++) {
+            const topic = topics[Math.floor(Math.random()*topics.length)]
+
+            const res = await client.chat.completions.create({
+              model: "gpt-4o-mini",
+              messages: [
+                { role: "system", content: "Write a concise markdown tech note with examples and tools." },
+                { role: "user", content: topic }
+              ]
+            })
+
+            const text = res.choices[0].message.content
+            fs.writeFileSync(\`notes/\${Date.now()}-\${i}.md\`, text)
+          }
+          EOF
+
+      - run: node generate.js
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - run: |
+          for i in {1..10}
+          do
+            git add .
+            git commit -m "ai trending update $i $(date +%s)" || true
+          done
+
+      - run: git push
