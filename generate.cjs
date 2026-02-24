@@ -1,5 +1,25 @@
 const fs = require("fs")
 
+const topics = [
+  "AI Agents architecture",
+  "RAG production systems",
+  "AI SaaS ideas",
+  "React AI UI patterns",
+  "LLM prompt engineering patterns",
+  "Trending GitHub AI tools",
+  "Developer productivity with AI",
+  "Open source AI stack",
+  "Future of AI engineering",
+  "AI system design patterns",
+  "Vector databases explained",
+  "AI automation workflows",
+  "Multi agent systems",
+  "Edge AI applications",
+  "AI coding copilots"
+]
+
+const topic = topics[Math.floor(Math.random()*topics.length)]
+
 async function call(model){
   const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
@@ -12,7 +32,7 @@ async function call(model){
     body: JSON.stringify({
       model,
       messages: [
-        { role: "user", content: "Write a concise markdown article about a trending AI or tech topic with tools and examples." }
+        { role: "user", content: "Write a concise markdown article about: " + topic + " with tools and examples." }
       ]
     })
   })
@@ -36,7 +56,7 @@ async function run(){
   }
 
   if (!text){
-    text = "# AI Note\n\nFallback content.\n\nTopics:\n- AI agents\n- RAG\n- Dev productivity\n"
+    text = "# " + topic + "\n\nFallback content.\n"
   }
 
   fs.writeFileSync(`notes/${Date.now()}.md`, text)
