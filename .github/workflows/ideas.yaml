@@ -2,7 +2,7 @@ name: AI Ideas Generator
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -27,16 +27,25 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{
               "model": "gpt-oss:120b",
-              "prompt": "Give 5 NEW unique money-making ideas.Do NOT repeat common ideas like freelancing, blogging, or dropshipping.Focus on fresh, creative, and practical ideas.",
+              "prompt": "Give 5 NEW unique money-making ideas. Do NOT repeat common ideas like freelancing, blogging, or dropshipping. Focus on fresh, creative, and practical ideas.",
               "stream": false
             }')
 
           echo "$RESPONSE" | jq -r '.response' > notes/$(date +%Y-%m-%d-%H-%M).md
 
+      # 🔥 NEW STEP: Auto-generate index.md
+      - name: Update index page
+        run: |
+          echo "# 🧠 AI Money-Making Ideas" > index.md
+          echo "" >> index.md
+          echo "Updated every 2 hours 🚀" >> index.md
+          echo "" >> index.md
+          ls notes/*.md | sort -r | awk '{print "- [" $1 "](" $1 ")"}' >> index.md
+
       - name: Commit and Push
         run: |
           git config --global user.name "ai-bot"
           git config --global user.email "bot@users.noreply.github.com"
-          git add notes/
+          git add .
           git commit -m "New ideas $(date)" || echo "No changes"
           git push
