@@ -40,7 +40,24 @@ jobs:
           echo "" >> index.md
           echo "Updated every 2 hours 🚀" >> index.md
           echo "" >> index.md
-          ls notes/*.md | sort -r | awk '{print "- [" $1 "](" $1 ")"}' >> index.md
+      
+          # Get latest file
+          LATEST=$(ls notes/*.md | sort -r | head -n 1)
+      
+          echo "## 🆕 Latest Idea" >> index.md
+          echo "" >> index.md
+      
+          # Add latest file content
+          cat "$LATEST" >> index.md
+      
+          echo "" >> index.md
+          echo "---" >> index.md
+          echo "" >> index.md
+      
+          echo "## 📂 Previous Ideas" >> index.md
+      
+          # List all files
+          ls notes/*.md | sort -r | awk -F/ '{print "- [" $2 "](notes/" $2 ")"}' >> index.md
 
       - name: Commit and Push
         run: |
