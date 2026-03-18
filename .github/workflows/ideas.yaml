@@ -27,7 +27,7 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{
               "model": "gpt-oss:120b",
-              "prompt": "Give 5 NEW unique money-making ideas. Do NOT repeat common ideas like freelancing, blogging, or dropshipping. Focus on fresh, creative, and practical ideas.",
+              "prompt": "Give 5 NEW unique money-making ideas. Do NOT repeat common ideas like freelancing, blogging, or dropshipping. Focus on fresh, creative, and practical ideas. give me ideas in english and telugu language",
               "stream": false
             }')
 
