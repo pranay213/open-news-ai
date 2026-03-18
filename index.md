@@ -1,6 +1,8 @@
 # 🧠 AI Money-Making Ideas
 
-Updated every 2 hours 🚀
+Welcome to my auto-generated AI ideas blog 🚀  
+New ideas are generated every 2 hours.
 
-- [notes/2026-03-18-17-45.md](notes/2026-03-18-17-45.md)
-- [notes/2026-03-18-17-37.md](notes/2026-03-18-17-37.md)
+---
+
+⏳ Loading latest ideas...
