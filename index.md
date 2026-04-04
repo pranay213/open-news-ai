@@ -4,33 +4,142 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-## 5 Fresh‑And‑Practical Money‑Making Ideas  
-### (English ↔ తెలుగు)
+## 5 NEW 💡 Money‑Making Ideas  
+*(Each idea is explained in English and then in Telugu)*  
 
-| # | Idea (English) | How It Works – Quick Start Steps | Approx. earning potential* | Idea (Telugu) | ఎలా ప్రారంభించాలి – మినిమం స్టెప్స్ | సుమారు ఆదాయం (అంచనా) |
-|---|----------------|----------------------------------|---------------------------|--------------|-------------------------------|------------------------|
-| 1 | **“Home‑Appliance Micro‑Repair Subscription Box”** <br>Every month you ship a tiny, pre‑packed kit (e.g., gasket, seal, cleaning fluid, simple tools) for one specific common issue of a popular appliance (microwave door latch, washing‑machine hose leak, etc.). Subscribers get step‑by‑step video instructions and a QR code to a live‑chat support line. | 1️⃣ Identify 3‑5 high‑volume appliances with recurring minor failures (through online forums, repair shops). <br>2️⃣ Source inexpensive spare parts in bulk from OEM surplus or local distributors. <br>3️⃣ Record short “fix‑in‑5‑minutes” videos (phone camera is fine). <br>4️⃣ Build a simple subscription site (Shopify, Stripe). <br>5️⃣ Pilot with 20‑30 households, collect feedback, then scale. | ₹2,000‑₹6,000 per subscriber per year (₹150‑₹500/month) – 100 subscribers → ₹15‑30 Lakh annually. | **“హోమ్‑అప్లయెన్స్ మైקרో‑రిపేర్ సబ్‌స్క్రిప్షన్ బాక్స్”** <br>మాసా మాసం ఒక చిన్న బాక్స్ (గాస్కెట్, సీల్, శుభ్రత ద్రవం, సాధారణ పరికరాలు) ను ఒక ప్రముఖ అప్లయెన్స్ (మైక్రోవేవ్ డోర్ లాక్, వాషింగ్‑మషిన్ హోస్) చిన్న సమస్యకు పంపిస్తారు. వీడియో సూచనలతో QR‑కోడ్ ద్వారా లైవ్ చాట్ మద్దతు కూడా ఉంటుంది. | 1️⃣ 3‑5 సాధారణ యాంత్రిక దోషాలు ఉన్న అప్లయెన్సులను గుర్తించండి (ఆన్‌లైన్ ఫోరమ్‌లు, రిపేర్ షాపులు). <br>2️⃣ OEM శేష భాగాలను లేదా స్థానిక పంపిణీదారుల నుంచి చవకగా కొనుగోలు చేయండి. <br>3️⃣ “5‑నిమిషాల్లో రిపేర్” వీడియోలను రికార్డ్ చేయండి (ఫోన్ కెమెరా సరిపోతుంది). <br>4️⃣ సబ్‌స్క్రిప్షన్ సైట్ (Shopify, Stripe) ఏర్పరచండి. <br>5️⃣ 20‑30 కుటుంబాలతో పైనోట్, ఫీడ్బ్యాక్ సంపాదించి, విస్తరించండి. | రూ. 2,000‑ 6,000/సబ్‌స్క్రైబర్ సంవత్సరానికి (150‑500 ₹/మాస) – 100 సబ్‌స్క్రైబర్లు → 15‑30 లక్షలు/సంవత్సరం. |
-| 2 | **“Localized Augmented‑Reality (AR) Heritage Tours”** <br>Create short AR experiences for local historic spots (temples, forts, old markets). Visitors download a free app, point their phone at a monument, and see 3‑D reconstructions, “what‑if” stories, or hidden‑object games. Monetize via sponsorships from tourism boards, paid premium tours, or in‑app purchases. | 1️⃣ Map 5‑10 low‑profile heritage sites in your city/town. <br>2️⃣ Collaborate with local historians/archaeologists for authentic storytelling. <br>3️⃣ Use affordable AR platforms (ZapWorks, Unity AR Foundation) to build “point‑and‑see” layers. <br>4️⃣ Publish a lightweight Android/iOS app (or integrate with existing tourism apps). <br>5️⃣ Pitch sponsors (hotel chains, souvenir shops) and launch a “premium” version with extra quests. | ₹3,00,000‑₹12,00,000 per season (sponsor fees + in‑app sales). | **“లొకలైజ్డ్ ఆగ్మెంటెడ్‑రియాలిటీ (AR) హెరిటేజ్ టూర్స్”** <br>స్థానిక చారిత్రక స్థలాల (దేవాలయాలు, కోటలు, పాత మార్కెట్లు) కోసం చిన్న AR అనుభవాలు సృష్టించండి. సందర్శకులు ఫ్రీ యాప్ డౌన్‌లోడ్ చేసి, ఫోన్ను పుడమ చిహ్నంపై దారిచూపిస్తే 3‑డి రీకన్స్‌ట్రక్షన్, కథలు, గేమ్స్ కనిపిస్తాయి. టూరిజం బోర్డులు, హోటళ్లు, సౌవెనీర్ షాప్‌ల స్పాన్సర్‌షిప్, చెల్లింపు ప్రీమియం టూర్, యాప్‑లో ఇన్‑అప్ కొనుగోళ్లు ద్వారా ఆర్జించండి. | 1️⃣ మీ నగరంలో 5‑10 తక్కువగా పరిచయమైన చారిత్రక స్థలాలు మ్యాప్ చేయండి. <br>2️⃣ స్థానిక చరిత్రకారులు/అరగార్మ ఒప్పందాలు చేయండి (సత్యమైన కథలు). <br>3️⃣ జాప్వర్క్స్, Unity AR Foundation వంటి చవకైన AR టూల్స్‌తో “పాయింట్‑అండ్‑సీ” లేయర్లు నిర్మించండి. <br>4️⃣ హల్కా Android/iOS యాప్ (లేదా ఉన్న టూరిజం యాప్స్‌లో ఇంటిగ్రేట్) ప్రచురించండి. <br>5️⃣ హోటల్స్, సౌవెనీర్ షాప్స్‌ను స్పాన్సర్ గా అడగండి, అదనపు “క్వెస్ట్”లతో “ప్రీమియం” వెర్షన్ ప్రారంభించండి. | 3 లక్ష‑12 లక్షలు/సీజన్ (స్పాన్సర్ ఫీజు + యాప్‌లో అమ్మకాలు). |
-| 3 | **“Skill‑Kit Rental Library”** <br>Build a catalog of curated, ready‑to‑use kits for hobbies that need tools/materials (e.g., “Terrarium Gardening”, “Intro to Candle‑Making”, “DIY Arduino Robotics”). Users pay a deposit + weekly rental fee; you ship the kit, collect after return, clean/refill, and rent again. Think of it as a “library” for experiences. | 1️⃣ Choose 5‑8 niche hobbies with moderate entry cost (≈₹2,000‑₹5,000 per kit). <br>2️⃣ Purchase high‑quality tools/materials in bulk; pack nicely in reusable containers. <br>3️⃣ Set up an online reservation system (Calendly + PayPal/Stripe). <br>4️⃣ Offer doorstep delivery & pickup (local courier or self‑delivery). <br>5️⃣ Add optional “online tutorial” links to enhance experience. | ₹10,000‑₹30,000 per kit per month (₹300‑₹900 per day). 10 kits → ₹1‑3 Lakh/month. | **“స్కిల్‑కిట్ రెంటల్ లైబ్రరీ”** <br>హాబీలు (టెర్రారియం గార్డెనింగ్, కాండిల్‑మేకింగ్, DIY ఆర్డునో రోబోటిక్స్) కోసం సిద్ధం చేసిన కిట్‌లను సేకరించి, వాటిని అద్దెకు ఇవ్వండి. వినియోగదారులు డిపాజిట్ + వారపు అద్దె చెల్లు చేసి, మీరు కిట్ పంపిస్తారు, తిరిగి తీసుకుంటారు, శుభ్రం/పునర్నిర్మాణం చేసి మళ్లీ అద్దెకు ఇస్తారు. అనుభవానికి “లైబ్రరీ” లాగా. | 1️⃣ ఉచితంగా ప్రారంభించడానికి 5‑8 నిష్ హాబీలు ఎంపిక (ప్రతి కిట్‌కు 2,000‑5,000 ₹). <br>2️⃣ బల్క్‌లో టూల్స్/మెటీరియల్స్ కొనుగోలు చేసి, పునర్వినియోగ కలపుగా ప్యాకేజింగ్. <br>3️⃣ ఆన్‌లైన్ రిజర్వేషన్ (Calendly + PayPal/Stripe) సెటప్ చేయండి. <br>4️⃣ స్థానిక క్యురియర్ లేదా స్వీయ‑డెలివరీ ద్వారా డెలివరీ & పికప్. <br>5️⃣ ‘ఆన్‌లైన్ ట్యుటోరియల్’ లింక్స్ తో అనుభవాన్ని మెరుగుపరచండి. | ప్రతి కిట్ 10,000‑30,000 ₹/నెల (300‑900 ₹/రోజు). 10 కిట్లు → 1‑3 లక్షలు/నెల. |
-| 4 | **“Regional‑Dialect Data‑Labeling Service for AI”** <br>AI models need high‑quality, language‑specific training data. Offer a crowd‑sourced labeling platform that hires native speakers of under‑represented Indian dialects (e.g., Gondi, Tulu, Konkani) to annotate audio, text, and image datasets. Charge tech companies per‑hour or per‑million‑labels rates. | 1️⃣ Identify 3‑5 dialects with little existing data but growing commercial interest (voice assistants, regional advertising). <br>2️⃣ Recruit and train 20‑30 native speakers (online or part‑time). <br>3️⃣ Build a simple web‑portal (using tools like Labelbox or a custom Django app). <br>4️⃣ Pitch to AI startups / large firms that need diversified data (offer free pilot). <br>5️⃣ Scale by adding more dialects and automating QA checks. | ₹8‑₹12 Lakh per year per dialect contract (₹150‑₹250 per 1,000 labeled items). 3 contracts → ₹2.5‑3.5 Crore/year. | **“ప్రాంతీయ‑డైయలెక్ట్ డేటా‑లేబెలింగ్ సర్వీస్ ఫర్ AI”** <br>AI మోడల్స్‌కు ప్రాంతీయ‑భాషలకు తగిన ట్రైనింగ్ డేటా అవసరం. గోండి, టులు, కొంకణి వంటి తక్కువ ప్రతినిధి భాషల స్థానిక वक्तల్ని ఉపయోగించి ఆడియో, టెక్స్ట్, ఇమేజ్ డేటాసెట్‌లను లేబెల్ చేయండి. టెక్ కంపెనీలకు గంటకు లేదా మిలియన్‑లేబల్స్‌కు ఛార్జ్. | 1️⃣ వాణిజ్య‑ఆసక్తి ఉన్న 3‑5 దీపాలు (డయలెక్ట్) గుర్తించండి (వాయిస్ అసిస్టెంట్, రీజియన్‑అడ్వర్టైజింగ్). <br>2️⃣ 20‑30 స్థానిక वक्तలను (ఆన్‌లైన్/పార్ట‑టైమ్) నియమించి, శిక్షణ ఇవ్వండి. <br>3️⃣ లేబెల్‌బాక్స్ లేదా కస్టమ్ Django యాప్ ద్వారా సులభమైన వెబ్‑పోర్టల్ తయారు చేయండి. <br>4️⃣ AI స్టార్టప్స్ లేదా పెద్ద ఫిర్ములకు (ఉటుందు పైనోట్) ప్రతిపాదన ఇవ్వండి. <br>5️⃣ మరిన్ని డయలెక్ట్‌లు, QA‑ఆటోమేషన్ తో స్కేలు చేయండి. | ప్రతి డయలెక్ట్‌కి 8‑12 లక్షలు/సంవత్సరం (ప్రతి 1,000 లేబల్స్‌కు 150‑250 ₹). 3 కాంట్రాక్టులు → 2.5‑3.5 క్రోడ్/సంవత్సరం. |
-| 5 | **“Micro‑Grid Energy‑Sharing Platform for Neighborhoods”** <br>Install small solar or battery units in a gated community or apartment block, and create a blockchain‑based ledger that lets residents buy/sell surplus kWh among themselves at a fixed rate. You earn by taking a 2‑4% transaction fee and by leasing the hardware. | 1️⃣ Partner with a local solar installer to place 2‑3 kW rooftop panels or a communal battery (≈₹5‑10 Lakh). <br>2️⃣ Develop a simple smart‑meter + app (or use existing IoT platforms) to record production/consumption per unit. <br>3️⃣ Integrate a lightweight blockchain (e.g., Hyperledger Fabric) for transparent trading. <br>4️⃣ Sign up 20‑30 households; set the internal price (₹6‑₹7 per kWh, lower than grid). <br>5️⃣ Charge a small fee per trade and a monthly equipment‑lease charge. | Initial capital ₹8‑12 Lakhs; break‑even in 12‑18 months. Ongoing profit ₹3‑5 Lakhs per year (fees + lease). | **“మైక్రో‑గ్రిడ్ ఎనర్జీ‑షేరింగ్ ప్లాట్‌ఫార్మ్ ఫర్ నెయింట్‌హుడ్”** <br>గేటెడ్ కమ్యూనిటీ లేదా అపార్ట్‌మెంట్ బ్లాక్లో చిన్న సోలార్ లేదా బ్యాటరీ యూనిట్లను ఇన్‌స్టాల్ చేసి, బ్లాక్‌చెయిన్‑బేస్డ్ లెడ్జర్ ద్వారా నివాసులకు అదనపు kWhని ఒక‑మొత్తంగా కొనివ్వండి/విక్రయించండి. మీరు 2‑4% ట్రాన్సాక్షన్ ఫీ + హార్డ్‌వేర్ లీజ్ చేయడంలో ఆదాయం పొందండి. | 1️⃣ స్థానిక సోలార్ ఇన్‌స్టాలర్‌తో భాగస్వామ్యం చేసి 2‑3 kW రూఫ్‌టాప్ ప్యానెల్స్ లేదా కమ్యూనల్ బ్యాటరీ (5‑10 లక్షలు) ఇన్‌స్టాల్ చేయండి. <br>2️⃣ స్మార్ట్‑మీటర్ + యాప్ (లేదా ఉన్న IoT ప్లాట్‌ఫార్మ్) ద్వారా ప్రతి యూనిట్ ప్రొడక్షన్/కన్సంప్షన్ రికార్డ్ చేయండి. <br>3️⃣ హైపర్లెడ్జర్ ఫ్యాబ్రిక్ వంటి లైట్ బ్లాక్‌చెయిన్‌ను ఇంటిగ్రేట్ చేసి పారదర్శక ట్రేడింగ్ చేయండి. <br>4️⃣ 20‑30 కుటుంబాలతో చేరండి; అంతర్గత ధర (₹6‑₹7/kWh) గ్రిడ్‑ప్రైస్ కన్నా తక్కువగా సెట్ చేయండి. <br>5️⃣ ప్రతి ట్రేడ్‌కు చిన్న ఫీ, నెలవారీ లీజు ఛార్జ్ వసూలు చేయండి. | మొదటి మూలధనం 8‑12 లక్షలు; 12‑18 నెలల్లో బ్రేక్‑ఈవెన్. ఫీ + లీజు ద్వారా సంవత్సరానికి 3‑5 లక్షలు లాభం. |
+---  
 
-\* **Earnings are indicative only** – actual figures depend on market size, pricing, marketing effort, and local regulations.
+### 1️⃣ Hyper‑Local Artisan Subscription Box  
+**What it is:** A monthly “taste‑of‑the‑neighbourhood” box that curates 3‑5 ultra‑small‑batch products (hand‑made pickles, baked treats, eco‑friendly soaps, miniature art prints, etc.) from artisans **within a 5‑km radius** of the subscriber’s address.  
+
+**Why it works:**  
+- People love supporting local makers but often don’t know they exist.  
+- Subscription revenue guarantees a predictable cash flow.  
+- Low inventory risk – you order only what you’ve sold (pre‑order model).  
+
+**How to start:**  
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Map out a 5‑km zone around your home or a coworking hub. Use Instagram/WhatsApp groups to locate micro‑producers. |
+| 2️⃣ | Sign simple supply agreements (e.g., “you give me X units, I promote you in the box”). |
+| 3️⃣ | Build a lightweight landing‑page (Carrd, Webflow) with a 2‑week pre‑order window. |
+| 4️⃣ | Collect orders, pay artisans only for confirmed quantities, and pack the boxes yourself. |
+| 5️⃣ | Offer a “local story card” inside each box (artisan bio + QR code to their shop). |
+| 6️⃣ | Upsell a “premium box” with limited‑edition items after 3‑month traction. |
+
+**Revenue tip:** Charge ₹699 per box for 4‑5 items. With 50 subscribers you earn ~₹35 000/month – after ₹10 000 for packaging & shipping, you keep ~₹25 000 profit.  
 
 ---
 
-### Quick Tips to Make Any Idea Work Faster
-1. **Validate before you invest** – run a 2‑week pilot with a tiny budget (e.g., ₹10‑15 k) and collect real‑world feedback.  
-2. **Leverage existing platforms** – Shopify for subscriptions, ZapWorks for AR, Labelbox for labeling, Hyperledger for blockchain, etc. This cuts development time dramatically.  
-3. **Build a community early** – use WhatsApp groups, local Facebook pages, or Telegram channels to keep customers engaged and to get word‑of‑mouth referrals.  
-4. **Focus on local SEO** – most of these ideas depend on people nearby finding you first. Register on Google My Business, list on Justdial, and encourage happy customers to leave reviews.  
-5. **Document every process** – a SOP (Standard Operating Procedure) lets you hand‑over operations to a part‑time assistant or future employee, turning a side‑hustle into a scalable business.
+### 2️⃣ Virtual‑Reality (VR) Heritage Tours  
+**What it is:** Create short (5‑10 min) immersive VR experiences of heritage sites that are either **restricted to tourists** (e.g., temples under renovation) or **physically hard to reach** (remote forts, underwater ruins). Sell access via a subscription or one‑time purchase on platforms like Oculus Store, Steam, or a custom app.  
 
-Feel free to pick any of the ideas that resonates most with your skills, location, or capital, and start experimenting today! 🚀
+**Why it works:**  
+- Tourism is rebounding, but many landmarks limit foot traffic.  
+- Schools, travel agencies, and corporate L&D budgets want “experience‑based learning”.  
+- Content production cost is front‑loaded, but the product can be sold repeatedly.  
+
+**How to start:**  
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Pick a niche site (e.g., a historic palace in Andhra that’s closed for restoration). |
+| 2️⃣ | Partner with the site’s management for 3‑D scanning (LiDAR, photogrammetry). Many heritage departments offer grants for digital preservation. |
+| 3️⃣ | Learn basic Unity/Unreal VR workflow (free tutorials on YouTube). |
+| 4️⃣ | Produce a 6‑minute guided tour with narration in Telugu & English. |
+| 5️⃣ | Publish on the Oculus Store (₹0 listing fee) and promote via travel blogs, school newsletters, and Instagram reels. |
+| 6️⃣ | Offer a “school bundle” – 20 seats for ₹4 000 each, with a teacher’s guide. |
+
+**Revenue tip:** If you price the tour at ₹299 per download and sell 300 copies in the first 3 months → ₹89 700 gross. After a modest ₹30 000 for scanning & editing, you keep ~₹60 000.  
+
+---
+
+### 3️⃣ AI‑Powered Personalized Nutrition Plans with Local Ingredient Sourcing  
+**What it is:** An online service where users input health goals, budget, and location. An AI model (e.g., ChatGPT API + nutrition database) generates a weekly menu, then auto‑matches each recipe with **local farmers/markets** that have those ingredients in stock. Users can order the ingredients through a “click‑and‑collect” link.  
+
+**Why it works:**  
+- Nutrition apps are crowded, but none combine AI‑menus with hyper‑local sourcing.  
+- Farmers get a new sales channel; customers get fresh produce without the hassle.  
+- Subscription model (₹999/month) yields recurring income.  
+
+**How to start:**  
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Assemble a small database of Indian foods + nutrition facts (public APIs exist). |
+| 2️⃣ | Use a no‑code AI platform (e.g., Bubble + OpenAI) to generate daily meal suggestions. |
+| 3️⃣ | Partner with 5‑10 nearby mandis or organic farms; ask them to share daily inventory via Google Sheet or simple API. |
+| 4️⃣ | Build a simple web portal where users enter their profile and receive a menu + “Buy from X Market” button. |
+| 5️⃣ | Offer a free 7‑day trial to collect emails; upsell to paid plan after trial. |
+| 6️⃣ | Add a feature for “dietitian review” (commission per session) to boost premium tier. |
+
+**Revenue tip:** 200 paying users × ₹999 ≈ ₹1,99,800/month. After platform fees (~₹30,000) and a small marketing budget, profit > ₹1,50,000.  
+
+---
+
+### 4️⃣ Pop‑up Sustainable Up‑cycling Workshops for Corporate Team‑Building  
+**What it is:** Organize 2‑hour onsite workshops where employees transform **waste (cardboard, old garments, e‑waste)** into useful items (desk organizers, tote bags, planters). Charge the company a per‑employee fee plus a modest material surcharge.  
+
+**Why it works:**  
+- ESG (environmental, social, governance) goals push companies toward visible green activities.  
+- Team‑building budgets are often under‑utilized post‑COVID.  
+- Low upfront cost: you bring the materials, tools, and a facilitator.  
+
+**How to start:**  
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Design 2‑3 workshop themes (e.g., “From Plastic Bottles to Desk Planters”). |
+| 2️⃣ | Source bulk waste from local businesses (café coffee‑grounds, textile scraps) – often free. |
+| 3️⃣ | Create a simple pricing sheet: ₹2 500 per 10 participants + ₹150 per participant for materials. |
+| 4️⃣ | Reach out to HR managers via LinkedIn, emphasizing ESG impact and a “green certification” for participants. |
+| 5️⃣ | Offer a pilot session at a discounted rate (₹1 500 per 10) to get testimonials. |
+| 6️⃣ | After 3 successful pilots, scale to 5–10 workshops per month. |
+
+**Revenue tip:** 4 workshops × 20 participants × (₹2 500/10) ≈ ₹20 000 + material fees ≈ ₹2 000 → ₹22 000 per workshop → ₹88 000/month. After travel & material costs (~₹30 000), net ≈ ₹58 000.  
+
+---
+
+### 5️⃣ Micro‑Mobility Charging‑Station Franchising in Suburban Neighborhoods  
+**What it is:** Install small, solar‑powered charging kiosks for e‑bikes, e‑scooters, and electric two‑wheelers in gated colonies or college campuses. Franchise the model: you sell the kiosk kit + service contract to an entrepreneur who operates it locally.  
+
+**Why it works:**  
+- EV penetration in India is rising fast, but charging infrastructure is still city‑centric.  
+- Suburban complexes have parking lots with unused space, perfect for a compact kiosk.  
+- Franchise fees and recurring service commissions give you passive income.  
+
+**How to start:**  
+
+| Step | Action |
+|------|--------|
+| 1️⃣ | Design a modular kiosk (≈1 m × 1 m) with solar panel, battery storage, and 2–4 charging ports. |
+| 2️⃣ | Partner with a local hardware manufacturer for low‑cost production (≈₹30 000 per unit). |
+| 3️⃣ | Draft a franchise agreement: franchisee pays ₹1 00 000 upfront + 10 % monthly revenue share. |
+| 4️⃣ | Pilot the kiosk in your own neighborhood – charge ₹30 per full charge, log usage via a simple mobile app. |
+| 5️⃣ | Use the pilot data to create a “profit calculator” for prospective franchisees. |
+| 6️⃣ | Market to resident welfare associations (RWAs) and college admins: “Zero‑maintenance, solar‑powered, 24 × 7”. |
+
+**Revenue tip:** 5 franchisees × ₹1 00 000 upfront = ₹5 00 000 (one‑time). Ongoing 10 % of monthly revenue (average ₹30 000 per kiosk) → ₹30 000/month total. After 12 months you’ll have earned >₹8 00 000.  
+
+---  
+
+## Quick Reference Table  
+
+| # | Idea (English) | Idea (Telugu) | Core Revenue Stream |
+|---|----------------|---------------|---------------------|
+| 1 | Hyper‑Local Artisan Subscription Box | **స్థానిక కళాకారుల సభ్యత్వ బాక్స్** | Monthly subscription |
+| 2 | VR Heritage Tours | **వీ.ఆర్. వారసత్వ పర్యటనలు** | One‑time/ subscription sales |
+| 3 | AI‑Personalized Nutrition + Local Sourcing | **ఏ.ఐ.‑ఆధారిత వ్యక్తిగత పోషక ప్రణాళిక + స్థానిక ముడి అమ్మకాలు** | Monthly membership |
+| 4 | Sustainable Up‑cycling Corporate Workshops | **సుస్థిర ఉప‑రీసైక్లింగ్ కార్యశాలలు** | Per‑employee fee |
+| 5 | Micro‑Mobility Charging‑Station Franchise | **మైక్రో‑మొబిలిటీ ఛార్జింగ్ స్టేషన్ ఫ్రాంచైజ్** | Franchise fee + revenue share |
+
+Feel free to pick the one that best fits your skills, capital, and local market – each can be launched with a modest budget and scaled later. Good luck!
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-04-04-22-17.md](notes/2026-04-04-22-17.md)
 - [2026-04-04-20-17.md](notes/2026-04-04-20-17.md)
 - [2026-04-04-18-24.md](notes/2026-04-04-18-24.md)
 - [2026-04-04-16-21.md](notes/2026-04-04-16-21.md)
