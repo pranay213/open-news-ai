@@ -4,126 +4,36 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-## 5 NEW & PRACTICAL MONEY‑MAKING IDEAS  
-*(English + Telugu translation)*  
+## 5 Fresh, Practical Money‑Making Ideas  
+*(Each idea is described in English first, then in Telugu)*  
 
----  
+| # | English – What & How | Telugu – ఏమిటి & ఎలా |
+|---|----------------------|-----------------------|
+| **1** | **Micro‑Neighbourhood Pop‑Up Experiences**  <br>Identify a hyper‑local “micro‑community” (e.g., a residential block, a college hostel, a co‑working hub).  Design a 2‑hour pop‑up experience that solves a tiny, specific need – a **quiet‑work café for parents**, a **mini‑DIY‑craft station for kids**, a **“speed‑learning” language corner**, etc.  Charge a modest entry fee (₹300‑₹800) or sell a “experience ticket” bundle.  Promote via neighborhood WhatsApp groups, local Instagram handles, and flyers on community boards.  Once you prove demand, rotate themes every month and scale to nearby blocks. | **మైక్రో‑పడుకొలై స్థానిక పాప్‑అప్ అనుభవాలు**  <br>ఒక చిన్న‑స్థానిక సమూహాన్ని (ఘరము, కాలేజీ హోస్టెల్, కో‑వర్కింగ్ స్థలం) గుర్తించండి. 2‑గంటల పాప్‑అప్ ఈవెంట్‌ను రూపొందించండి – **తల్లిదండ్రుల కోసం నిశ్శబ్ద‑వర్క్ క్యాఫే**, **పిల్లల కోసం సూక్ష్మ‑DIY‑క్రాఫ్ట్ స్టేషన్**, **“స్పీడ్‑లెర్నింగ్” భాషా కార్నర్** వంటి చిన్న, స్పెసిఫిక్ అవసరాన్ని తీర్చండి.  ప్రవేశ రుసుము (₹300‑₹800) లేదా “అనుభవ టికెట్” ప్యాకేజీ వసూలు చేయండి.  పక్కన ఉన్న వాట్సాప్ గ్రూప్‌లు, స్థానిక ఇన్‌స్టాగ్రామ్ ఖాతాలు, బోర్డ్లపై ఫ్లయర్లు ద్వారా ప్రచారం చేయండి.  డిమాండ్ కనిపిస్తే, ప్రతి నెలా థీమ్‌ను మార్చి, సమీప బ్లాక్‌లకు విస్తరించండి. |
+| **2** | **AI Prompt‑Engineering Agency for Niche Industries**  <br>Many small‑to‑mid‑size firms (legal firms, medical‑equipment manufacturers, craft breweries) want to use generative AI but don’t know how to phrase the right prompts.  Build a “Prompt‑Lab” that researches the company’s jargon, creates a library of industry‑specific prompts, and sells subscription access (₹5,000‑₹15,000 / month).  Offer a “prompt‑audit” service to improve existing AI workflows. | **నిష్‑ఇండస్ట్రీల కోసం AI ప్రాంప్ట్‑ఇంజనీరింగ్ ఏజెన్సీ**  <br>చిన్న‑పెద్ద సంస్థలు (లాయర్ ఫার్మ్స్, మెడికల్‑ఇక్విప్మెంట్ మాన్యుఫాక్చరర్లు, క్రాఫ్ట్ బీర్రి బృందాలు) AI ని వాడాలని అనుకుంటున్నా, సరైన ప్రాంప్ట్‌లు రాయడం తెలియదు.  “ప్రాంప్ట్‑ల్యాబ్”ను స్థాపించి, వారి టెక్నికల్ జార్గన్‌ను అధ్యయనం చేసి, ఇండస్ట్రీ‑స్పెసిఫిక్ ప్రాంప్ట్‌ల లైబ్రరీని రూపొందించండి.  నెలకు ₹5,000‑₹15,000 సబ్‌స్క్రిప్షన్ ద్వారా యాక్సెస్ అమ్మండి.  ఉన్న AI వర్క్‌ఫ్లోలను మెరుగుపరచడానికి “ప్రాంప్ట్‑ఆడిట్” సేవను కూడా ఇవ్వండి. |
+| **3** | **Sustainable‑Packaging Consulting for Local Artisans**  <br>Eco‑conscious consumers are willing to pay a premium for products that use biodegradable or reusable packaging.  Approach local artisans, spice makers, and handmade‑goods sellers.  Audit their current packaging, suggest low‑cost alternatives (e.g., wheat‑straw boxes, jute bags, compostable inks), and help them source manufacturers.  Charge a fixed project fee (₹10,000‑₹30,000) plus a performance‑based bonus if sales lift >10 % after 3 months. | **స్థానిక హస్తకళాకారుల కోసం సస్టెయినబుల్‑ప్యాకేజింగ్ కన్సల్టింగ్**  <br>పర్యావరణ‑స్నేహపూర్వక ప్యాకేజింగ్ ఉపయోగించే ఉత్పత్తులకు వినియోగదారులు పాయింట్‑ప్రైస్ చెల్లించడానికి సిద్ధంగా ఉంటారు.  స్థానిక హస్తకళాకారులు, మసాలా తయారీకారులు, హ్యాండ్‌మేడ్‑గూడ్స్ విక్రేతల్ని సంప్రదించి, వారి ప్రస్తుత ప్యాకేజింగ్‌ను ఆడిట్ చేసి, చౌకైన ప్రత్యామ్నాయాలు (గోధుమ‑స్ట్రా బాక్సులు, జూట్ బ్యాగ్‌లు, కంపోస్టబుల్ ఇంక్) సూచించండి.  ఫిక్స్‌డ్ ప్రాజెక్ట్ ఫీజు (₹10,000‑₹30,000) + 3 మాసల తర్వాత 10 % అమ్మకాలు పెరిగితే బోనస్ వంటి పనితీరు‑ఆధారిత బహుమతిని సంబంధితంగా వసూలు చేయండి. |
+| **4** | **Virtual‑Reality (VR) Field‑Trip Subscriptions for Schools**  <br>Develop short (10‑15 min) VR “field‑trips” – e.g., a guided tour of the **Satpura Tiger Reserve**, a **virtual excavation at Harappa**, or a **space‑station lab demo**.  Partner with school districts and sell a yearly subscription (₹8,000‑₹12,000 per class) that gives teachers access to the VR library plus lesson‑plan PDFs.  Offer a free 2‑week pilot to win trust. | **పాఠశాలల కోసం వర్చువల్‑రియాలిటీ (VR) ఫీల్డ్‑ట్రిప్ సబ్‌స్క్రిప్షన్లు**  <br>10‑15‑నిమಿಷాలు పొడవు ఉన్న VR “ఫీల్డ్‑ట్రిప్స్” రూపొందించండి – **సాత్పురా టైగర్ రిజర్వ్ గైడ్‑టూర్**, **హరప్పాలో వర్చువల్ ఎక్స్‌కవేషన్**, **స్పేస్‑స్టేషన్ ల్యాబ్ డెమో** వంటి.  స్కూల్ డిస్ట్రిక్ట్స్‌తో భాగస్వామ్యం చేసి, వార్షిక సబ్‌స్క్రిప్షన్ (₹8,000‑₹12,000/class) ద్వారా VR లైబ్రరీ మరియు లెసన్‑ప్లాన్ PDFలను అందించండి.  నమ్మకాన్ని పెంచడానికి 2‑వారాల ఉచిత పయలట్ ఇవ్వండి. |
+| **5** | **Pet‑DNA‑Based Customized Nutrition Boxes**  <br>Partner with a pet‑DNA testing kit provider.  When a dog or cat owner gets a DNA report, offer a **personalized monthly snack/food box** that matches the animal’s breed‑specific metabolism, allergy‑risk, and activity level.  Use a “box‑as‑a‑service” model: first box ₹2,500, then ₹1,800/month.  Add upsell options like vitamin drops or “DNA‑health‑tips” newsletters. | **పెంపుడు జంతు‑DNA‑ఆధారిత వ్యక్తిగతీకరించిన పోషక బాక్సులు**  <br>పెంపుడు‑జంతు DNA టెస్ట్ కిట్ ప్రొవైడర్‌తో భాగస్వామ్యం చేయండి.  కుక్క లేదా పిల్లి యజమాని DNA రిపోర్టు పొందినప్పుడు, **బ్రిడ్‑స్పెసిఫిక్ మెటబాలిజం, అలర్జీ‑రిస్క్, యాక్టివిటీ‑లెవల్**ని దృష్టిలో పెట్టుకొని నెలవారీ స్నాక్స్/ఫుడ్ బాక్స్‌ను అందించండి.  “బాక్స్‑అస్‑అ‑సర్వీస్” మోడల్: మొదటి బాక్స్ ₹2,500, తర్వాత నెలకు ₹1,800.  విటమిన్ డ్రాప్స్ లేదా “DNA‑ఆరోగ్య‑టిప్స్” న్యూస్‌లెటర్ వంటి అప్‌సెల్ ఎంపికలను కూడా ఇవ్వండి. |
 
-### 1️⃣ **AI‑Prompt‑Tailoring Service for Small Businesses**  
-**What it is:**  
-Small retailers, cafés, and boutique service providers increasingly use AI chat‑bots (ChatGPT, Claude, Gemini…) for customer support, order taking, or marketing copy. Most of them don’t know how to write prompts that get accurate, brand‑consistent responses. You create a **“Prompt‑Tailoring”** package: analyze the business tone, collect FAQs, build a library of ready‑to‑use prompts, and deliver a simple “copy‑and‑paste” cheat‑sheet plus a short training video.  
-**Why it works:**  
-* Low‑tech entry – you only need a good grasp of prompt engineering.  
-* Recurring revenue – charge a modest monthly subscription for updates when the AI model changes or the business adds new products.  
-* Scalable – after building templates for a few sectors (e.g., local restaurants, beauty salons, auto‑repair shops) you can reuse them with minor tweaks.  
+---
 
-**తెలుగులో:**  
+### Quick Checklist to Get Started
 
-**AI‑ప్రాంప్ట్‑టేలరింగ్ సేవ చిన్న బిజినెస్‌ల కోసం**  
-**ఇది ఏమిటి:**  
-చిన్న రిటైల్ స్టోర్లు, కేఫేలు, బూటిక్ సేవాప్రదాతలు ఇప్పుడు AI చాట్‌బాట్ (ChatGPT, Claude, Gemini…)లను కస్టమర్ సపోర్ట్, ఆర్డర్ తీసుకోవడం, మార్కెటింగ్ కాపీ కోసం ఉపయోగిస్తున్నారు. కానీ వారు బజ్‌కి అనుకూలంగా, బ్రాండ్‑కంటు సరిపడే ప్రాంప్ట్‌లను రాయడం ఎలా అనేది తెలియదు. మీరు **“ప్రాంప్ట్‑టేలరింగ్”** ప్యాకేజీని తయారు చేస్తారు: బిజినెస్ టోన్‌ని విశ్లేషించండి, FAQs సేకరించండి, ఉపయోగించడానికి సిద్ధంగా ఉన్న ప్రాంప్ట్‌ల లైబ్రరీని నిర్మించండి, అలాగే సింపుల్ “కాపీ‑అండ్‑పేస్ట్” షీట్ + చిన్న ట్రైనింగ్ వీడియో ఇవ్వండి.  
-**ఎందుకు పనిచేస్తుంది:**  
-* తక్కువ సాంకేతిక అవసరం – మీరు ప్రాంప్ట్ ఇంజినీరింగ్‌లో నైపుణ్యం ఉంటే సరిపోతుంది.  
-* పునరావృత ఆదాయం – AI మోడల్ లేదా ఉత్పత్తి మార్పుల కోసం నెలవారీ అప్‌డేట్ ఛార్జ్ చేయండి.  
-* స్కేలబుల్ – రెస్టారెంట్, బ్యూటీ సలూన్, ఆటో‑రిపేర్ వంటి కొన్ని రంగాలలో టెంప్లేట్లు తయారు చేసి, స్వల్ప మార్పులతో మళ్లీ ఉపయోగించవచ్చు.  
+| Step | Action | Timeline |
+|------|--------|----------|
+| **Research** | Validate local demand (neighbourhood surveys, school meetings, artisan forums). | 1‑2 weeks |
+| **Prototype** | Build a minimal viable product (MVP)—e.g., one pop‑up theme, 3 VR trips, 5 AI prompts, 1 packaging redesign, 1 pet‑box recipe. | 2‑4 weeks |
+| **Pilot** | Offer the MVP for free or at a steep discount to a small test group. Collect feedback. | 1‑2 weeks |
+| **Price & Package** | Finalize pricing, subscription tiers, and optional add‑ons. | 1 week |
+| **Launch & Market** | Use hyper‑local digital channels (WhatsApp groups, community pages), school newsletters, artisan networks, or pet‑owner forums. | Ongoing |
+| **Iterate** | Refine based on revenue, customer satisfaction, and repeat orders. | Monthly |
 
----  
-
-### 2️⃣ **Urban Micro‑Green “Adopt‑a‑Tray” Subscription**  
-**What it is:**  
-Create compact, stackable trays that grow micro‑greens (e.g., mustard, radish, basil) in a few weeks. Offer a **monthly “Adopt‑a‑Tray”** plan to city‑dwelling offices, co‑working spaces, or health‑conscious families. Each month the subscriber receives a fresh tray, a QR‑code linking to a short video on harvesting and recipes, and a small fee for tray collection/reuse. You can up‑sell premium varieties or organic “starter kits”.  
-**Why it works:**  
-* Rising demand for home‑grown, pesticide‑free produce.  
-* Low overhead – trays are reusable, seeds are cheap, and the growth cycle is short.  
-* Community feel – subscribers share photos, creating word‑of‑mouth marketing.  
-
-**తెలుగులో:**  
-
-**పట్టణ микро‑గ్రీన్ “అడాప్ట్‑అ‑ట్రే” సబ్‌స్క్రిప్షన్**  
-**ఇది ఏమిటి:**  
-కొన్ని వారాలలో ముస్టర్, రాడిష్, బాసిల్ వంటి микро‑గ్రీన్స్ పెరుగుతాయి. మీరు చిన్న, స్ట్యాకబుల్ ట్రేలను తయారు చేసి, పట్టణలోని కార్యాలయాలు, కో‑వర్కింగ్ స్పేస్‌లు, ఆరోగ్య‑అవగాహన కుటుంబాలకి **నెలవారీ “అడాప్ట్‑అ‑ట్రే”** ప్లాన్‌ను అందిస్తారు. ప్రతి నెల కొత్త ట్రే, హార్వెస్టింగ్ & రెసిపీ వీడియోకు QR‑కోడ్, ట్రేను తిరిగి తీసుకొని మళ్లీ వాడటానికి చిన్న ఛార్జ్. ప్రీమియం వేరైటీలు లేదా ఆర్గానిక్ “స్టార్టర్ కిట్” లను అదనంగా విక్రయించవచ్చు.  
-**ఎందుకు పనిచేస్తుంది:**  
-* ఇంట్లో స్వచ్ఛ, పెస్టిసైడ్‑లేని పంటలపై పెరుగుతున్న డిమాండ్.  
-* తక్కువ ఖర్చు – ట్రేలు పునర్వినియోగపడతాయి, విత్తనాలు చౌకగా, వృద్ధి చక్రం చిన్నది.  
-* కమ్యూనిటీ సహకారం – సభ్యులు ఫోటోలను పంచుకుంటారు, ఇది మౌఖిక ప్రచారాన్ని పెంచుతుంది.  
-
----  
-
-### 3️⃣ **Hyper‑Localized “Story‑Map” Tours for Seniors**  
-**What it is:**  
-Design printable or tablet‑based walking maps for specific neighborhoods that blend **personal histories, old photographs, and audio snippets** collected from longtime residents. Market them to senior living communities and retirement groups as “memory‑trigger” walking tours. You charge a modest fee per map set and offer a subscription for quarterly updates (new stories, seasonal routes).  
-**Why it works:**  
-* Seniors love familiar surroundings but often lack fresh, engaging ways to explore them.  
-* You can partner with local historical societies for free content, keeping production costs low.  
-* Physical (print) and digital versions cater to different tech comfort levels.  
-
-**తెలుగులో:**  
-
-**సీనియర్ల కోసం హైపర్‑లోకలైజ్డ్ “స్టోరీ‑మ్యాప్” టూర్స్**  
-**ఇది ఏమిటి:**  
-ఒక నిర్దిష్ట ప్రాంతం కోసం ప్రింటబుల్ లేదా టాబ్లెట్‑ఆధారిత వాకింగ్ మ్యాప్‌లు రూపొందించండి, వీటిలో **స్థానికుల వయోబధిత కథలు, పాత ఫోటోలు, ఆడియో క్లిప్‌లు** ఉంటాయి. ఇవి సీనియర్ లివింగ్ కమ్యూనిటీలు, రిటైర్మెంట్ గ్రూప్లకు “మెమరీ‑ట్రిగ్గర్” వాకింగ్ టూర్స్ గా విక్రయించండి. ప్రతి మ్యాప్ సెట్టుకు చిన్న ఛార్జ్, మరియు ప్రతి త్రైమాసికం కొత్త కథలు, సీజనల్ రూట్‌లతో అప్డేట్ చేసే సబ్‌స్క్రిప్షన్ కూడా ఇవ్వండి.  
-**ఎందుకు పనిచేస్తుంది:**  
-* సీనియర్లు తమ పరిచయ ప్రాంతాల్లో కొత్త, ఆసక్తికరమైన అనుభవాలు కోరుకుంటారు.  
-* స్థానిక హిస్టారికల్ సొసైటీలతో కలిసి పాత కథలను ఉచితంగా పొందవచ్చు, ఉత్పత్తి ఖర్చు తగ్గుతుంది.  
-* ప్రింట్ మరియు డిజిటల్ రెండు రూపాలు ఉన్నందున, టెక్నోలజీపై వయస్సు పరంగా వేరే వేరే సౌకర్యాలు.  
-
----  
-
-### 4️⃣ **DIY “Zero‑Waste Home Lab” Kits**  
-**What it is:**  
-Create compact kits that let families or school groups conduct **chemical‑free, zero‑waste experiments** (e.g., natural dyeing with vegetable peels, building biodegradable plastic from milk, making cleaning sprays from citrus peels). Each kit includes reusable containers, step‑by‑step illustrated guides, and QR‑linked videos. Sell them as one‑off purchases or a “monthly experiment club” where subscribers receive a new kit every month.  
-**Why it works:**  
-* Growing eco‑consciousness and demand for STEM education at home.  
-* All consumables are inexpensive, and most components are reusable, keeping margins healthy.  
-* Opportunity for partnerships with schools, eco‑stores, and parent‑teacher associations.  
-
-**తెలుగులో:**  
-
-**DIY “జీరో‑వెస్ట్ హోమ్ ల్యాబ్” కిట్స్**  
-**ఇది ఏమిటి:**  
-కుటుంబాలు లేదా స్కూల్ గ్రూపులు **రసాయన‑రహిత, జీరో‑వెస్ట్ ప్రయోగాలు** (ఉదా: కూరగాయల తొక్కలతో నేచురల్ డై, పాలు నుంచి బయోడిగ్రేడబుల్ ప్లాస్టిక్, సిట్రస్ తొక్కలతో క్లీనింగ్ స్ప్రే) చేయడానికి సంబంధించిన చిన్న కిట్స్ తయారు చేయండి. ప్రతి కిట్‌లో పునర్వినియోగపడే బోতిల్లు, దశ‑దశ చిత్ర గైడ్, అలాగే QR‑కోడ్ ద్వారా చిన్న వీడియోలు ఉంటాయి. ఒక్క‑సారి కొనుగోలు లేదా “మంత్లీ ప్రయోగ క్లబ్” (నెలకు కొత్త కిట్) రూపంలో విక్రయించవచ్చు.  
-**ఎందుకు పనిచేస్తుంది:**  
-* పర్యావరణ‑సచేవితనం మరియు హోమ్‑STEM విద్యపై పెరుగుతున్న ఆసక్తి.  
-* అన్ని వినియోగ పదార్థాలు చౌకగా, ఎక్కువ భాగం పునర్వినియోగపడే వలన లాభదాయకత పెరుగుతుంది.  
-* పాఠశాలలు, ఈకో‑స్టోర్లు, పాఠక‑అధ్యాపక సంఘాలతో భాగస్వామ్య అవకాశాలు.  
-
----  
-
-### 5️⃣ **“Pet‑Friendly Space‑Design” Consultation (AR‑Assisted)**  
-**What it is:**  
-Offer a service that helps apartment owners, hotels, or cafés redesign a corner or whole area to be **pet‑friendly**—think built‑in cat climbing walls, dog‑water‑stations, odor‑neutralizing flooring, and safe plant selections. Use a **simple Augmented Reality (AR) app** (e.g., built on Spark AR or Unity) that lets clients point their phone at a room and instantly see the proposed redesign overlaid. Charge a one‑time design fee plus an optional “implementation‑management” retainer.  
-**Why it works:**  
-* Pet ownership is soaring, and many businesses want to attract pet owners but lack design expertise.  
-* AR makes the pitch tangible without expensive physical mock‑ups.  
-* You can partner with pet‑product manufacturers for affiliate commissions on recommended items.  
-
-**తెలుగులో:**  
-
-**“పెట్‑ఫ్రెండ్లీ స్పేస్‑డిజైన్” కన్సల్టేషన్ (AR‑సహాయంతో)**  
-**ఇది ఏమిటి:**  
-అపార్ట్మెంట్ యజమానులు, హోటళ్ళు, క్యాఫేలు వంటి জায়গాల్లో **పెట్‑ఫ్రెండ్లీ** కోణాలు లేదా పూర్తి స్థలాల redesign చేయడంలో సహాయం చేయండి—ఉదా: బిల్ట్‑ఇన్ పిల్లి‑క్లైంబింగ్ వాల్, కుక్క‑వాటర్‑స్టేషన్, వాసన‑తగ్గించే ఫ్లోరింగ్, సురక్షిత ప్లాంట్ ఎంపికలు. మీకే ఒక **సరళమైన ఆగ్మెంటెడ్ రియాలిటీ (AR) యాప్** (Spark AR, Unity) ద్వారా, క్లయింట్ ఫోన్‌ను రూమ్‌పై చూపిస్తే, प्रस्तावित డిజైన్ తక్షణమే ఓవర్లే‑గా కనిపిస్తుంది. ఒక‑సారి డిజైన్ ఫీ + “ఇంప్లిమెంట్‑మ్యానేజ్‌మెంట్” రెటైనర్ (ఐచ్చిక) వసూలు చేయండి.  
-**ఎందుకు పనిచేస్తుంది:**  
-* పెట్ ఓనర్సిప్ బూమ్ అవుతోంది, చాలా బిజినెస్‌లు పెట్‑ఫ్రెండ్లీ స్థలాలు కోరుకుంటున్నాయి కానీ డిజైన్ నైపుణ్యం లేవు.  
-* AR ద్వారా ఖరీదైన fiziకల్ మాకప్ లేకుండానే ప్రెజెంటేషన్ స్పష్టంగా ఉంటుంది.  
-* పెట్‑ప్రొడక్ట్ తయారాప్‌కర్తలతో భాగస్వామ్యం చేసి, సూచించిన వస్తువులపై అఫిలియేట్ కమిషన్ కూడా సంపాదించవచ్చు.  
-
----  
-
-### How to Get Started Quickly  
-
-| Step | Action | Tools/Resources |
-|------|--------|-----------------|
-| **1** | Pick the idea that matches your passion/skills. | Personal interest questionnaire. |
-| **2** | Validate locally – run a short survey (Google Forms) with 20‑30 potential customers. | Social media groups, neighborhood WhatsApp. |
-| **3** | Build a **minimum viable product (MVP)** – a single kit, one prompt library, one AR mock‑up, etc. | Canva (visuals), Notion (process docs), free AR templates. |
-| **4** | Launch a **pilot** for $10‑$30 per unit (or per subscription) and collect feedback. | Stripe/PayPal for payments, WhatsApp/Telegram for support. |
-| **5** | Refine & scale – add monthly subscriptions, partner referrals, or wholesale to local stores. | Mailchimp for newsletters, local chambers of commerce. |
-
-Feel free to mix elements (e.g., combine micro‑green kits with AR‑guided planting instructions) to make the offering even more unique! Good luck!
+These ideas are built to require modest upfront capital, leverage existing community or technology ecosystems, and have clear pathways to scale. Pick the one that excites you the most, test quickly, and let the revenue flow! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-04-23-07-19.md](notes/2026-04-23-07-19.md)
 - [2026-04-23-04-41.md](notes/2026-04-23-04-41.md)
 - [2026-04-23-01-21.md](notes/2026-04-23-01-21.md)
 - [2026-04-22-22-37.md](notes/2026-04-22-22-37.md)
