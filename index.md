@@ -4,30 +4,141 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-## 5 **NEW** Money‑Making Ideas – English / తెలుగు  
+**✅ 5 NEW & PRACTICAL MONEY‑MAKING IDEAS**  
+*(Each idea is explained in English first, then translated into Telugu. These are not the usual “freelance, blog or dropship” concepts.)*
 
-| # | English Idea (Brief) | How It Works (Key Steps) | Revenue Model | తెలుగు ఐడియా (సంక్షిప్తంగా) | ఎలా అమలు చేయాలి (ప్రధాన దశలు) | ఆదాయ మూలాలు |
-|---|-----------------------|--------------------------|----------------|----------------------------|---------------------------|--------------|
-| 1 | **Neighborhood “Pop‑Up Power‑Hub” – Rent Tiny Solar/EV‑Charging Stations** | 1️⃣ Purchase/lease a small solar‑panel kit + a portable EV‑charging unit.<br>2️⃣ Get permission from local housing societies or small commercial complexes to place a compact “Power‑Hub” (≈1 m²) in a common area.<br>3️⃣ Offer on‑demand charging for phones, e‑bikes and electric‑cars by the kWh or per‑session.<br>4️⃣ Add a QR‑code payment gateway (PayTM, GPay, Stripe). | • Pay‑per‑kWh usage fee.<br>• Monthly subscription for “unlimited” local residents.<br>• Sponsorship/branding from green‑tech firms. | **ఇల్లు‑వీధి “పాప్‑అప్ పవర్‑హబ్” – చిన్న సౌర/EV ఛార్జింగ్ స్టేషన్‌ ను అద్దెకి ఇవ్వండి** | 1️⃣ చిన్న సౌర ప్యానెల్ & పోర్టబుల్ EV ఛార్జింగ్ యూనిట్ కొనండి/లీజ్ చేసుకొనండి.<br>2️⃣ అపార్ట్‌మెంట్‌ సమూహం లేదా చిన్న商ిలు (శాపింగ్ మాల్)ల నుండి 1 m² స్థలాన్ని పొందండి.<br>3️⃣ ఫోన్, e‑bike, EV ఛార్జ్ కోసం kWh లేదా సెషన్‑ఆధారంగా QR‑కోడ్ ద్వారా చెల్లింపులు తీసుకోండి.<br>4️⃣ గ్రీన్‑టెక్ కంపెనీల బ్రాండ్‌ స్పాన్సర్‌షిప్‌ను ఆహ్వానించండి. | • kWh విడిచే రుసుము.<br>• నెలవారీ “అన్లిమిటెడ్” ఛార్జింగ్ సభ్యత్వం.<br>• బ్రాండింగ్/స్పాన్సర్‌షిప్. |
-| 2 | **AR‑Enabled “Try‑Before‑You‑Buy” Service for Home Décor** | 1️⃣ Build a simple AR mobile app (use Unity + ARCore/ARKit) that lets users project furniture, wall‑art, or lighting into their rooms.<br>2️⃣ Partner with local artisans and small‑scale manufacturers who don’t have a strong online presence.<br>3️⃣ Upload 3‑D models of their products (low‑poly, realistic textures).<br>4️⃣ Offer a “virtual staging” fee and an optional physical‑sample kit (small swatches, mini‑samples). | • One‑time AR‑visualization fee (₹199‑₹499).<br>• Commission (10‑15 %) on every sale completed through the app.<br>• Premium subscription for unlimited tries. | **AR‑సహాయంతో “ట్రై‑బిఫోర్‑యు‑బై” హోమ్ డెకోర్ సేవ** | 1️⃣ Unity + ARCore/ARKit తో సరళమైన AR యాప్ రూపొందించండి.<br>2️⃣ స్థానిక కళాకారులు, చిన్న తయారీదారులతో భాగస్వామ్యం చేసుకోండి.<br>3️⃣ వారి ఉత్పత్తుల 3‑D మోడల్స్ (లో‑పాల్) అప్లోడ్ చేయండి.<br>4️⃣ “వర్చువల్ స్టేజింగ్” ఫీజు + అవసరమైతే చిన్న నమూనా కిట్‌ను ఇవ్వండి. | • ఒక్కసారి AR‑వీక్షణ ఫీజు (₹199‑₹499).<br>• యాప్ ద్వారా విక్రయంలో 10‑15 % కమిషన్.<br>• అనియంతర ట్రయల్స్ కోసం ప్రీమియం సభ్యత్వం. |
-| 3 | **Hyper‑Local “Seasonal Farm‑Box Swap” Platform** | 1️⃣ Create a community website/app that connects nearby farms with households wanting fresh, seasonal produce.<br>2️⃣ Instead of a traditional subscription, enable a “swap” model: a family gets a box of vegetables & fruits and, in return, provides a batch of homemade jams, pickles, or eggs to the farm for resale.<br>3️⃣ Use GPS‑based matching to keep travel distance ≤ 5 km.<br>4️⃣ Offer delivery via electric bikes or volunteers. | • Membership fee (₹299/month) for platform access.<br>• 5 % fee on each swap transaction.<br>• Sponsored “farm‑tour” events. | **హైపర్‑లోకల్ “సీజనల్ ఫార్మ్‑బాక్స్ స్వాప్” ప్లాట్‌ఫారం** | 1️⃣ సమీప ఫార్మ్‌లు & ఇంటి వినియోగదారులను అనుసంధానించే వెబ్‌సైట్/యాప్ నిర్మించండి.<br>2️⃣ “సబ్‌స్క్రిప్షన్” కాకుండా “స్వాప్” మోడల్: కుటుంబాలు పండ్లు/కూరగాయల బాక్స్ తీసుకుని, బదులు హోమ్‌మేడ్ జ్యామ్, పికిల్, గుడ్లు ఫార్మ్‌కు అందిస్తారు.<br>3️⃣ GPS‑ఆధారిత మ్యాచింగ్ – 5 km దూరం లోపు.<br>4️⃣ ఎలక్ట్రిక్ బైక్స్ లేదా వాలంటీర్ల ద్వారా డెలివరీ. | • ప్లాట్‌ఫార్మ్ సభ్యత్వ ఫీ (₹299/నెల).<br>• ప్రతి స్వాప్ పై 5 % ట్రాన్జాక్షన్ ఫీ.<br>• ఫార్మ్‑టూర్ ఈవెంట్‌లు స్పాన్సరింగ్. |
-| 4 | **“Pop‑Up Skill‑Swap Booths” at Local Events** | 1️⃣ Organize small booths (2 × 2 m) at weekly farmer‑markets, college fests, or temple fairs.<br>2️⃣ Each booth hosts a “skill‑swap” hour where people teach a 30‑minute micro‑lesson (e.g., quick Excel tip, basic guitar chords, street‑food recipe).<br>3️⃣ Participants pay a refundable token (₹50) which is kept only if they attend the full session.<br>4️⃣ Collect emails for a weekly newsletter and upsell longer workshops. | • Token fee (₹50) – retained if absent → ~₹30 avg revenue per attendee.<br>• Sponsorship from local businesses (banner, product demo).<br>• Upsell 2‑hour paid workshops (₹799). | **స్థానిక ఈవెంట్లలో “పాప్‑అప్ స్కిల్‑స్వాప్ బూత్‌లు”** | 1️⃣ వారానికి ఒకసారి రైతు మార్కెట్లు, కళాశాల ఫెస్ట్‌లు, దేవాలయ పండగలలో 2 × 2 మీటర్ బూత్ ఏర్పాటు చేయండి.<br>2️⃣ 30‑నిమిషాల మైక్రో‑లెక్చర్ (Excel, గిటార్, రెసిపీ) నిర్వహించండి.<br>3️⃣ పాల్గొనేవారు రీఫండబుల్ టోకెన్ (₹50) చెల్లిస్తారు – పూర్తిగా హాజరైతే తిరిగి ఇవ్వండి, లేకపోతే తీసుకోండి.<br>4️⃣ ఇమెయిల్స్‌ను సేకరించి, వారానికి ఒక న్యూస్‌లెటర్ పంపండి, 2‑గంటల కోర్సులు (₹799) అమ్మండి. | • టోకెన్ ఫీ (₹50) – హాజరయ్యలేకపోతే భాగంగా ఆదాయంగా (సుమారు ₹30).<br>• స్థానిక వ్యాపారాల స్పాన్సర్‌షిప్ (బ్యానర్, ఉత్పత్తి డెమో).<br>• పెద్ద వర్క్‌షాప్‌లకు (₹799) అప్గ్రేడ్. |
-| 5 | **AI‑Curated “Niche Data‑Snapshot” Subscription for SMBs** | 1️⃣ Identify a narrow but underserved B2B niche (e.g., “organic‑spice import trends in South‑India”, “micro‑brewery consumer sentiment”).<br>2️⃣ Use publicly available data + cheap APIs (Google Trends, social listening, customs data) and a small LLM prompt‑engine to generate a 2‑page “snapshot” every week.<br>3️⃣ Deliver via email + a simple dashboard.<br>4️⃣ Offer a free 1‑month trial, then charge per‑month. | • Subscription ₹999/month (or ₹9,900/year).<br>• Custom‑report add‑on (₹4,500/report).<br>• Affiliate links to relevant SaaS tools. | **SMB ల కోసం AI‑తయారుచేసిన “నిష్ డేటా‑స్నాప్షాట్” సబ్స్క్రిప్షన్** | 1️⃣ ప్రత్యేక B2B నిష్ (ఉదా.: “తెలంగాణ‌లో ఆర్గానిక్ గ్రౌండ్ స్పైస్ దిగుమతి ధోరణి”) గుర్తించండి.<br>2️⃣ గూగుల్ ట్రెండ్, సోషల్ లిసెనింగ్, కస్టమ్స్ డేటా వంటి ఉచిత APIలు + చిన్న LLM ప్రాంప్ట్ ద్వారా వారానికి 2‑పేజీ “స్నాప్‍ഷాట్” సృష్టించండి.<br>3️⃣ ఇమెయిల్ + సరళమైన డాష్‌బోర్డ్ ద్వారా పంపండి.<br>4️⃣ 1‑మంతా ఫ్రీ ట్రయల్, తర్వాత నెలవారీ చార్జ్. | • నెలవారీ సబ్‌స్క్రిప్షన్ ₹999 (అథవా ₹9,900/సంవత్సరం).<br>• కస్టమ్ రిపోర్ట్ (₹4,500/రిపోర్ట్).<br>• సంబంధిత SaaS టూల్స్‌కు అఫిలియేట్ లింక్స్. |
+---
 
-### Quick Tips to Get Started
-| Step | Action |
-|------|--------|
-| **Validate** | Talk to 5‑10 potential users in the target community. Confirm willingness to pay (even a small amount). |
-| **Prototype** | Use low‑cost tools: Google Forms for sign‑ups, Stripe/PayTm for payments, free AR SDKs, or WordPress with WooCommerce. |
-| **Legal** | Register a sole‑proprietorship or LLP, get any required local permits (especially for power‑hubs or food‑swap). |
-| **Launch** | Start with a single neighbourhood or event, collect feedback, and iterate before scaling. |
-| **Scale** | Add more locations, automate matching (AI/geo‑algorithms), and bring in sponsorships or affiliate partners. |
+## 1️⃣ **AI‑Prompt‑Marketplace for Niche Professionals**  
+**What it is:** Create a curated library of premium prompts for industry‑specific AI tools (e.g., architectural design, legal contract drafting, medical coding). Sell subscription access or one‑off packs to firms that want instant, high‑quality outputs without hiring prompt engineers.  
 
-These five concepts avoid the over‑used freelance/blog/dropship routes, yet are practical enough to start with minimal capital and can be expanded as you learn the market. Good luck!
+**How to start:**  
+1. Pick a high‑value niche (e.g., real‑estate marketing copy, product‑design sketches).  
+2. Test dozens of prompts on the latest LLMs (ChatGPT‑4, Claude, Gemini).  
+3. Document the exact prompt + settings that give the best result.  
+4. Build a simple website with tiered pricing (basic, advanced, enterprise).  
+5. Offer a 7‑day free trial and occasional “prompt‑as‑a‑service” customisation.  
+
+**తెలుగులో:**  
+**ఏ ఐ‑ప్రాంప్ట్‑మార్కెట్‌ప్లేస్**  
+**వివరణ:** ఆర్కిటెక్చరల్ డిజైన్, లీగల్ కాంట్రాక్ట్, మెడికల్ కోడింగ్ వంటి ప్రత్యేక రంగాల కోసం AI‑ప్రాంప్ట్‌లను సేకరించి, చెల్లింపుకు అందించే సేవ.  
+**ప్రారంభ‑దశలు:**  
+1. విలువైన నిష్‌ను ఎంచుకోండి (ఉదా: రియల్‑ఎస్టేట్ మార్కెటింగ్ కాపీ).  
+2. వివిధ LLMలపై (ChatGPT‑4, Claude, Gemini) అనేక ప్రాంప్ట్‌లను పరీక్షించి, ఉత్తమ ఫలితాలను నమోదు చేసుకోండి.  
+3. లక్ష్య‑ప్రాంప్ట్ + సెట్టింగ్‌లను డాక్యుమెంట్ చేయండి.  
+4. సబ్‌స్క్రిప్షన్ లేదా ఒక‑సారిగా ప్యాక్‌లను విక్రయించడానికి సైట్ తయారుచేయండి.  
+5. 7‑দিনాలు ఫ్రీ ట్రయల్, అవసరమైతే కస్టమ్‑ప్రాంప్ట్ సేవలు కూడా ఇవ్వండి.  
+
+---
+
+## 2️⃣ **Urban Rooftop Micro‑Farming as a Service (UMFS)**  
+**What it is:** Turn unused rooftop space in apartment complexes or offices into high‑yield micro‑green or specialty herb farms. Charge a monthly “farm‑as‑a‑service” fee that covers setup, maintenance, and weekly fresh produce deliveries to tenants or local restaurants.  
+
+**How to start:**  
+1. Partner with a building manager and sign a short‑term lease for the roof.  
+2. Install modular hydroponic trays, LED lighting, and an automated irrigation controller (≈ $2‑3k initial capex).  
+3. Grow fast‑turnover crops: basil, arugula, wheatgrass, or exotic herbs (e.g., lemon‑verbena).  
+4. Offer two subscription tiers – “Fresh‑Pickup” (tenants collect) and “Chef‑Supply” (restaurants).  
+5. Upsell add‑ons: DIY micro‑green kits, workshops, or branded “farm‑fresh” salads.  
+
+**తెలుగులో:**  
+**పట్టణ హరిత కూచు వ్యవస్థ (UMFS)**  
+**వివరణ:** అపార్ట్‌మెంట్ లేదా కార్యాలయ గగనచుంబి (రూఫ్‌టాప్) ను చిన్న‑పరిమాణ హైడ్రోపోనిక్ గుహగా మార్చి, మైక్రో‑గ్రీన్, బేసిల్, అరగులా వంటి పచ్చిముక్కలను పండించండి. నెలవారీ ఫీజుతో స్థాపన‑నిర్వాహణ‑డెలివరీ సేవను అందించండి.  
+**ప్రారంభ‑దశలు:**  
+1. భవన యజమాని/మేనేజర్‌తో భాగస్వామ్యం, రూఫ్‌‑లీజ్ చేసుకోండి.  
+2. మాడ్యులర్ హైడ్రోపోనిక్ ట్రేలు, LED, ఇమ్మొటెడ్ ఇరిగేషన్ కంట్రోలర్ (≈ $2‑3k) పెట్టుబడి పెట్టండి.  
+3. వేగంగా పండే రైతు పంటలు (బేసిల్, అరగులా, వె ల్ట్‌గ్రాస్) విత్తండి.  
+4. “ఫ్రెష్‑పికప్” & “చెఫ్‑సప్లై” అనే రెండు సబ్‌స్క్రిప్షన్ ప్లాన్లు ఇవ్వండి.  
+5. DIY మైక్రో‑గ్రీన్ కిట్, వర్క్షాప్, బ్రాండ్‌డ్ సలాడ్లు వంటి అదనపు సేవలను అమ్మండి.  
+
+---
+
+## 3️⃣ **Corporate “Well‑Being Gaming Tournaments” Platform**  
+**What it is:** Develop a SaaS platform where companies host short, health‑focused e‑sports tournaments (e.g., VR yoga battles, AR scavenger hunts, or rhythm‑based cardio games). Companies pay per‑event; you earn via licensing and sponsorships from fitness brands.  
+
+**How to start:**  
+1. Choose an easy‑to‑integrate game engine (Unity) and design 3‑5 quick‑play “wellness” mini‑games.  
+2. Build an admin dashboard for HR to schedule tournaments, track participation, and award digital badges.  
+3. Pilot the platform with a local startup or coworking space (free trial to collect testimonials).  
+4. Monetise:  
+   - **Event fee** – $15‑$30 per 50 participants.  
+   - **Brand sponsorship** – fitness apparel or supplement companies buy ad‑slots inside the game.  
+5. Upsell analytics reports (“Employee activity & morale score”) as a premium add‑on.  
+
+**తెలుగులో:**  
+**కార్పొరేట్ వెల్‑బీయింగ్ గేమ్ టోర్నమెంట్స్**  
+**వివరణ:** ఉద్యోగుల ఆరోగ్య‑కేంద్రిత చిన్న‑గేమ్స్ (VR యోగా, AR స్కావెంజర్ హంట్, రిథమ్‑బేస్డ్ కార్డియో) ద్వారా టోర్నమెంట్‌లు నిర్వహించే SaaS‑ప్లాట్ఫార్మ్. ప్రతి ఈవెంట్‌కు కంపెనీ చెల్లిస్తుంది; ఫిట్‌నెస్ బ్రాండ్ల స్పాన్సర్‌షిప్ ద్వారా అదనపు ఆదాయము.  
+**ప్రారంభ‑దశలు:**  
+1. Unity వంటివి సులభమైన గేమ్‑ఇంజిన్ ఎంచుకుని, 3‑5 బెల్‌నెస్‑మినీ‑గేమ్స్ తయారు చేయండి.  
+2. HR‑కి టూర్నమెంట్‌‑షెడ్యూల్, పాల్గొనేవారిని ట్రాక్‌ చేయడానికి డ్యాష్‌బోర్డ్ రూపొందించండి.  
+3. స్థానిక స్టార్టప్ లేదా కో‑వర్కింగ్ స్పేస్‌లో ఫ్రీ ట్రయల్‑ఇవెంట్ నిర్వహించి, టెస్టిమోనియల్స్ సేకరించండి.  
+4. **మోనిటైజేషన్** –  
+   - **ఈవెంట్ ఫీజు** – 50 మంది కు $15‑$30.  
+   - **బ్రాండ్ స్పాన్సర్** – ఫిట్‌నెస్ వేర్, సప్లిమెంట్ కంపెనీలు గేమ్‌లో అడ్స్ కొనుగోలు.  
+5. **అనలిటిక్స్ రిపోర్ట్** (“ఉద్యోగుల చర్య & మోరల్ స్కోర్”) ను ప్రీమియంగా అమ్మండి.  
+
+---
+
+## 4️⃣ **“Data‑Donation” Marketplace for Researchers**  
+**What it is:** A privacy‑first platform where users willingly sell anonymised, high‑quality personal data (e.g., shopping receipts, sensor logs, sleep patterns) to market‑research firms, academic labs, or AI‑training projects. You earn a commission on each transaction and ensure GDPR/IPC compliance.  
+
+**How to start:**  
+1. Build a secure mobile/web app that lets users link bank statements, health‑tracker data, or loyalty‑card receipts.  
+2. Integrate a consent engine that records explicit permission and automatically anonymises data before sharing.  
+3. Partner with 3‑5 research institutions or AI startups that need real‑world datasets.  
+4. Set a commission model: 10‑15 % of the per‑record price (typical $0.05‑$0.20 per data point).  
+5. Promote via niche forums (e.g., “data‑enthusiasts”, “privacy‑conscious gamers”) and reward early adopters with “golden” badges or cash‑back.  
+
+**తెలుగులో:**  
+**డేటా‑డొనేషన్ మార్కెట్‌ప్లేస్**  
+**వివరణ:** వినియోగదారులు తమ అనామక, నాణ్యమైన వ్యక్తిగత డేటాను (షాపింగ్ రసీదులు, సెన్సార్ లాగ్స్, నిద్ర ప్యాటర్న్లు) పరిశోధకులు, అకాడమిక్ ల్యాబ్‌లు లేదా AI‑ట్రైనింగ్‌కు విక్రయించే ప్రైవసీ‑సురక్షిత ప్లాట్‌ఫార్మ్. ప్రతి లావాదేవీపై కమిషన్ పొందండి, GDPR/IPC‑కి అనుగుణంగా ఉండండి.  
+**ప్రారంభ‑దశలు:**  
+1. మొబైల్/వెబ్ యాప్‌లో బ్యాంక్ స్టేట్‌మెంట్, హెల్త్‑ట్రాకర్, లాయల్టీ‑కార్డ్ రసీదు లింక్ చేయడానికి సేఫ్ ఇంటర్ఫేస్‌ నిర్మించండి.  
+2. explicit consent‑engine‑ను అమలు చేసి, డేటా షేరింగ్ ముందే అనామకీకరణ చేయండి.  
+3. 3‑5 రీసెర్చి ఇన్‌స్టిట్యూట్‌లు లేదా AI‑స్టార్ట్‑అప్స్‌తో భాగస్వామ్యం స్థాపించండి.  
+4. **కమిషన్ మోడల్** – ప్రతి రికార్డు ధర 10‑15 % (సాధారణంగా $0.05‑$0.20).  
+5. “డేటా‑ఎంథూసియాస్ట్స్”, “ప్రైవసీ‑గేమర్స్” వంటి నిష్‑ఫోరమ్‌లలో ప్రమోట్ చేసి, ప్రారంభ‑వినియోగదారులకు బంగారు బ్యాడ్జ్ లేదా క్యాష్‌బ్యాక్ ఇవ్వండి.  
+
+---
+
+## 5️⃣ **Pop‑Up “Experience‑Based” Rental Studios**  
+**What it is:** Convert short‑term vacant spaces (e.g., empty storefronts, warehouse bays) into themed, Instagram‑ready experience studios that people rent by the hour for photo shoots, product demos, or mini‑events. Each studio has a rotating set design (vintage café, futuristic neon lounge, tropical oasis).  
+
+**How to start:**  
+1. Scout a low‑cost, high‑foot‑traffic location that’s vacant for ≤ 30 days a month.  
+2. Purchase modular backdrops, smart lighting, and a few reusable props; keep a “set‑swap” schedule (new theme every 2‑3 weeks).  
+3. Set up an online booking calendar with instant payment (Stripe).  
+4. Price by the hour ($40‑$80) plus optional add‑ons: professional photographer, prop kits, or social‑media post‑editing.  
+5. Market via local influencers, TikTok reels, and “#StudioRent” hashtags. Expand by franchising to other neighborhoods after the first 3‑month proof‑of‑concept.  
+
+**తెలుగులో:**  
+**పాప్‑అప్ “ఎక్స్‌పీరియన్స్‑బేస్డ్” రెంటల్ స్టూడియోలు**  
+**వివరణ:** ఖాళీని ఉన్న చిన్న స్థలాన్ని (షాపింగ్ స్టోర్‌‑ఫ్రంట్, గోదాం) థీమ్‑వైజ్, ఇన్‌స్టాగ్రామ్‑అనుకూల అనుభవ‑స్టూడియోగా మార్చి, ఫోటోషూట్, ప్రోడక్ట్ డెమో లేదా చిన్న‑ఈవెంట్ కోసం గంటకు అద్దె ఇవ్వండి. ప్రతి 2‑3 వారం ఒక కొత్త సెట‑థీమ్ ( vintage café, neon lounge, tropical oasis ).  
+**ప్రారంభ‑దశలు:**  
+1. రోజుకు ≤ 30 రోజులు ఖాళీగా ఉండే, ఎక్కువ ఫూట్‑ట్రాఫిక్ ఉన్న స్థలాన్ని తక్కువ ఖర్చులో కనుగొనండి.  
+2. మాడ్యులర్ బ్యాక్‌డ్రాప్‌లు, స్మార్ట్ లైటింగ్, మరియు తిరిగి వాడుకునే ప్రాప్స్ కొనుగోలు చేసి, ప్రతి 2‑3 వారాలకు “సెట్‑స్వాప్” షెడ్యూల్ ఏర్పాటు చేయండి.  
+3. Stripe వంటి పేమెంట్ గేట్‌వేతో ఆన్‌లైన్ బుకింగ్ క్యాలెండర్ సెటప్ చేయండి.  
+4. గంటకు $40‑$80 ధర, అలాగే ప్రొఫెషనల్ ఫోటోగ్రాఫర్, ప్రాప్ స్టార్ట్ ప్యాక్లు, లేదా సోషల్‑మిడియా ఎడిటింగ్ వంటి అదనపు సేవలను అమ్మండి.  
+5. స్థానిక ఇన్ఫ్ల్యూయెన్సర్లు, TikTok రీల్స్, #StudioRent హ్యాష్‌ట్యాగ్ ద్వారా ప్రచారం. 3‑మాసాల POC (ప్రూఫ్‑ఆఫ్‑కాన్సెప్ట్) తర్వాత ఇతర ప్రాంతాల్లో ఫ్రాంచైజ్‌గా విస్తరించండి.  
+
+---
+
+### Quick Recap (One‑Line Summary)
+
+| # | English Idea | Telugu Idea |
+|---|--------------|-------------|
+| 1 | Niche AI‑prompt library subscription | నిష్‑AI‑ప్రాంప్ట్ మార్కెట్‌ప్లేస్ |
+| 2 | Rooftop micro‑green farm‑as‑service | పట్టణ రూఫ్‌టాప్ మైక్రో‑ఫామ్ |
+| 3 | Corporate wellness gaming tournaments SaaS | కంపెనీ వెల్‑బీయింగ్ గేమ్ టోర్నమెంట్లు |
+| 4 | Privacy‑first data‑donation marketplace | డేటా‑డొనేషన్ మార్కెట్‌ప్లేస్ |
+| 5 | Pop‑up themed rental studios for Instagram | పాప్‑అప్ అనుభవ‑స్టూడియో రెంటల్ |
+
+These concepts are **fresh, scalable, and doable with modest initial investment**—just pick the one that resonates most with your skills or local market, prototype quickly, and iterate based on feedback. Good luck! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-05-08-07-13.md](notes/2026-05-08-07-13.md)
 - [2026-05-08-04-46.md](notes/2026-05-08-04-46.md)
 - [2026-05-08-01-48.md](notes/2026-05-08-01-48.md)
 - [2026-05-07-22-49.md](notes/2026-05-07-22-49.md)
