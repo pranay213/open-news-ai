@@ -4,111 +4,37 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-**5 NEW MONEY‑MAKING IDEAS**  
-*(Each idea is described in English followed by a Telugu version. They are meant to be fresh, doable, and scalable – not the usual “freelance‑write‑blog‑dropship” routes.)*  
+## 5 NEW MONEY‑MAKING IDEAS  
+*(each idea is presented in English first, then in Telugu)*  
+
+| # | English – Idea & Quick‑Start Blueprint | తెలుగు – ఆలోచన & ప్రారంభ దారి |
+|---|------------------------------------------|-----------------------------------|
+| **1** | **VR‑Tour Packages for Local Heritage**  <br>**What:** Build short (3‑7 min) Virtual‑Reality tours of historic sites, temples, forts, or natural spots in your region. <br>**Who pays:** Schools (for history lessons), travel agencies, hotels, and tourists who can’t visit in‑person. <br>**How to start:** <br>1️⃣ Rent or borrow a 360° camera (e.g., Insta360). <br>2️⃣ Script a narrative in both English & the local language. <br>3️⃣ Edit with free tools (Kolor Autopano, Blender). <br>4️⃣ Host the videos on a simple VR‑ready platform (Sketchfab, VRC). <br>5️⃣ Pitch to schools & tourism boards – charge a “per‑tour license” (₹2,000‑₹10,000) or a subscription for unlimited access. | **స్థానిక వారసత్వానికి VR‑టూర్ ప్యాకేజ్‌లు** <br>**ఏమిటి:** మీ ప్రాంతంలోని పురాతన స్థలాలు, దేవాలయాలు, కోటలు, లేదా ప్రకృతి సుందరతలను 3‑7 నిమిషాల Virtual Reality టూర్లుగా మార్చి, వీక్షణకు సిద్ధం చేయండి. <br>**ఎవరు చెల్లిస్తారు:** పాఠశాలలు (చరిత్ర బోధన), ట్రావెల్ ఏజెన్సీలు, హోటల్స్, లేదా ప్రత్యక్షంగా రాలేని పర్యాటకులు. <br>**ఎలా ప్రారంభించాలి:** <br>1️⃣ 360° కెమెరా (Insta360)ను అద్దెకు లేదా అప్పుగా తీసుకోండి. <br>2️⃣ ఇంగ్లీష్, తెలుగు లేదా స్థానిక భాషలో కథన స్క్రిప్ట్ రాయండి. <br>3️⃣ Kolor Autopano, Blender వంటి ఉచిత ఎడిటింగ్ టూల్స్‌‌ను ఉపయోగించండి. <br>4️⃣ Sketchfab, VRC వంటి VR‑రెడీ ప్లాట్ఫాం‌లో హోస్ట్ చేయండి. <br>5️⃣ పాఠశాలలు, పర్యాటక విభాగాలకు “ప్రతి టూర్ లైసెన్స్” (₹2,000‑₹10,000) లేదా అపరిమిత యాక్సెస్‌కు సబ్స్క్రిప్షన్ చార్జ్ చేయండి. |
+| **2** | **Micro‑Modular Hydroponic Kits for Balcony Gardens** <br>**What:** Design plug‑and‑play hydroponic boxes (30 cm × 30 cm) that fit on small balcony railings, equipped with a QR‑code for an app‑guided growth calendar. <br>**Who pays:** Urban apartment dwellers, offices with limited space, schools for science projects. <br>**How to start:** <br>1️⃣ Source affordable PVC or recycled‑plastic trays & LED strip lights. <br>2️⃣ Assemble a “starter kit” (tray, nutrient solution, 5 seed packets, QR code). <br>3️⃣ Create a simple mobile/web app (no‑code tools like Glide) that sends watering & harvesting reminders. <br>4️⃣ Sell the kits online & via local hardware stores; add a **monthly refill subscription** (nutrients & seed pods) for recurring revenue. | **బాల్కనీ తోటల కోసం మైక్రో‑మాడ్యులర్ హైడ్రోపోనిక్ కిట్‌లు** <br>**ఏమిటి:** 30 సెం.మీ × 30 సెం.మీ పరిమాణంలో, బాల్కనీ రైళ్ళపై ఉంచగల ప్లగ‑అండ్‑ప్లే హైడ్రోపోనిక్ బాక్స్‌లు, QR‑కోడ్ ద్వారా యాప్‑గైడ్‌మైన పెరుగుదల క్యాలెండర్‌తో. <br>**ఎవరు చెల్లిస్తారు:** నగరంలో అపార్ట్మెంట్‌లో నివసించే వారు, స్థలం పరిమితి ఉన్న ఆఫీసులు, స్కూళ్ల శాస్త్రప్రాజెక్టులు. <br>**ఎలా ప్రారంభించాలి:** <br>1️⃣ PVC లేదా రీసైకిల్‌డ్‑ప్లాస్టిక్ ట్రేలు, LED స్ట్రిప్‌లైట్‌ను తక్కువ ధరలో కొనండి. <br>2️⃣ “స్టార్టర్ కిట్” (ట్రే, న్యూట్రియెంట్ సొల్యూషన్, 5 సీడ్ ప్యాకెట్లు, QR‑కోడ్) తయారు చేయండి. <br>3️⃣ Glide వంటి నో‑కోడ్ టూల్స్‌ ద్వారా మొబైల్/వెబ్ యాప్ రూపొందించి, నీరుపారుదల‑ఫలిత‑రిటైమ్ రిమైండర్లు పంపండి. <br>4️⃣ ఆన్లైన్లో, స్థానిక హార్డ్‌వేర్ స్టోర్ల ద్వారా విక్రయించండి; **న్యూట్రియెంట్ & సీడ్ పాడ్స్** మంత్లీ రీఫిల్ సబ్‌స్క్రిప్షన్‌ జోడించండి – నిరంతర ఆదాయానికి. |
+| **3** | **AI‑Powered Personal Finance Coach via WhatsApp Business** <br>**What:** A chatbot built on a lightweight LLM (e.g., Claude‑haiku or GPT‑4o mini) that answers everyday money questions, budgets, and savings nudges in regional language. <br>**Who pays:** Young professionals, college students, and families who prefer chat‑based help over apps. <br>**How to start:** <br>1️⃣ Register a WhatsApp Business account and connect it to a low‑cost LLM API (price‑per‑token ~ $0.0005). <br>2️⃣ Train the bot with a simple FAQ set (budget templates, EMI calculators, tax tips). <br>3️⃣ Offer a **free 7‑day trial** then a ₹199‑₹499/month subscription for unlimited queries + a monthly “financial health report”. <br>4️⃣ Promote through campus ambassadors, micro‑influencers, and WhatsApp groups. | **WhatsApp Business లో AI‑పవర్‌డ్ వ్యక్తిగత ఆర్థిక కోచ్** <br>**ఏమిటి:** లైట్‌మైన LLM (Claude‑haiku, GPT‑4o mini) ద్వారా రోజువారి డబ్బు‑సంబంధిత ప్రశ్నలు, బడ్జెట్, సేవింగ్ నడ్జెస్‌ జవాబిచ్చే చాట్‌బాట్, ఇది ప్రాంతీయ భాషలో పనిచేస్తుంది. <br>**ఎవరు చెల్లిస్తారు:** యువ ప్రొఫెషనల్స్, కళాశాల విద్యార్థులు, కుటుంబాలు – అప్లికేషన్ కన్నా చాటింగ్‌ను ఇష్టపడే వారు. <br>**ఎలా ప్రారంభించాలి:** <br>1️⃣ WhatsApp Business అకౌంట్‌ రిజిస్టర్ చేసి, టోకెన‑ప్రతి‑ఖర్చు సుమారు $0.0005 ఉన్న LLM APIతో కనెక్ట్ చేయండి. <br>2️⃣ FAQ సెట్టు (బడ్జెట్ టెంప్లేట్‌లు, EMI క్యాల్క్యులేటర్, పన్ను సలహాలు)తో బాట్‌ను ట్రెయిన్ చేయండి. <br>3️⃣ **7‑రోజుల ఫ్రీ ట్రయల్** ఇవ్వండి, తర్వాత ₹199‑₹499/నెల సబ్‌స్క్రిప్షన్‌లో అన్లిమిటెడ్ ప్రశ్నలు + నెలకి ఒక “ఆర్థిక ఆరోగ్య రిపోర్ట్”. <br>4️⃣ క్యాంపస్ అంబాసిడర్ల, మైక్రో‑ఇన్ఫ్లుఎన్‌సర్ల, WhatsApp గ్రూపుల ద్వారా ప్రమోషన్ చేయండి. |
+| **4** | **Regional Audio‑Story & Audiobook Marketplace** <br>**What:** Produce short (5‑15 min) audio stories based on folk tales, local legends, or modern anecdotes in Telugu, Marathi, Bengali, etc., and sell them individually or via a low‑fee subscription on a dedicated app or existing platforms (Storytel, Audible). <br>**Who pays:** Travelers, commuters, kids, and diaspora who crave native‑language content. <br>**How to start:** <br>1️⃣ Write or source public‑domain folk tales; hire local voice artists (₹1,000‑₹3,000 per story). <br>2️⃣ Record using a USB‑mic + Audacity; add simple sound‑effects. <br>3️⃣ Publish on your own app (Flutter) or partner with existing audio platforms (revenue‑share 70/30). <br>4️⃣ Offer a **“Story‑a‑Month”** bundle at ₹99 or a ₹499 yearly pass. Promote via regional YouTube channels and school libraries. | **ప్రాంతీయ ఆడియో‑కథలు & ఆడియోబుక్ మార్కెట్‌ప్లేస్** <br>**ఏమిటి:** 5‑15 నిమిషాల చిన్న ఆడియో స్టోరీస్, స్థానిక జానపద కథలు, హీరో‑లెజెండ్‌లు, లేదా ఆధునిక అనుభవాలు—తెలుగు, మ‌రాఠి, బంగాళా వంటి భాషల్లో ఉత్పత్తి చేసి, ఒక్కోగా లేదా సబ్‌స్క్రిప్షన్‌‑మాద్యమంగా అమ్మండి (Storytel, Audible లేదా మీ యాప్). <br>**ఎవరు చెల్లిస్తారు:** ప్రయాణీకులు, కమ్యూటర్లు, పిల్లలు, స్థానిక‑భాషా కంటెంట్‌కు ఆకర్షితులైన విదేశీ భారతీయులు. <br>**ఎలా ప్రారంభించాలి:** <br>1️⃣ పబ్లిక్‑డొమైన్‌లో ఉన్న జానపద కథలను రాయండి లేదా తీసుకోండి; స్థానిక వాయిస్ ఆర్టిస్ట్‌లను (₹1,000‑₹3,000/కథ) హైరండి. <br>2️⃣ USB‑మైక్ + Audacity ద్వారా రికార్డ్ చేయండి; సరళమైన సౌండ్‑ఎఫెక్ట్స్ జోడించండి. <br>3️⃣ మీ స్వంత ఫ్లట్టర్ యాప్‌లో లేదా ఉన్న ఆడియో ప్లాట్‌ఫామ్‌లలో (70/30 రివెన్యూ‑షేర్) ప్రచురించండి. <br>4️⃣ **“Story‑a‑Month”** బండిల్ ₹99 లేదా వార్షిక పాస్ ₹499 ఇవ్వండి. ప్రాంతీయ యూట్యూబ్ ఛానల్స్, పాఠశాల లైబ్రరీల ద్వారా ప్రమోట్ చేయండి. |
+| **5** | **Pet‑DNA Health‑Insight Subscription Service** <br>**What:** Partner with a certified genetics lab to offer pet owners a DNA test kit (saliva swab). The lab returns a health‑risk report; you then provide a **monthly actionable insights** newsletter (diet, exercise, preventive meds) plus optional supplement bundles. <br>**Who pays:** Dog & cat owners, especially in metros where pet health is a premium concern. <br>**How to start:** <br>1️⃣ Sign an affiliate agreement with a CLIA‑certified lab (cost ~ $30 per test). <br>2️⃣ Create a brand‑focused e‑store (Shopify) selling kits at ₹2,000‑₹3,000. <br>3️⃣ After the lab’s report, use a simple rule‑engine (Zapier + Google Sheets) to generate a personalized monthly email. <br>4️⃣ Offer a **₹199/month subscription** for the newsletter + optional supplement box (₹500‑₹1,200). Use pet‑influencers on Instagram & pet‑care forums for acquisition. | **పెట్‑DNA ఆరోగ్య‑ఇన్‌సైట్ సబ్‌స్క్రిప్షన్ సేవ** <br>**ఏమిటి:** సర్టిఫైడ్ జనేటిక్స్ ల్యాబ్‌తో భాగస్వామ్యం చేసి, పెట్ యజమానులకు DNA టెస్ట్ కిట్ (సాలివ్ స్వాబ్) అందించండి. ల్యాబ్‌ నుంచి ఆరోగ్య‑రిస్క్ రిపోర్ట్ తీసుకున్న తర్వాత, **నెలవారీగా చర్య‑సూచనలు** (ఆహారం, వ్యాయామం, నివారణ మందులు) కలిగిన న్యూస్‌లెట్టర్, అలాగే ఐచ్చిక సప్లిమెంట్ బండిల్‌లు ఇవ్వండి. <br>**ఎవరు చెల్లిస్తారు:** నగరాలలోని కుక్క, పిల్లి యజమానులు—పెట్ హెల్త్‌పై ప్రీమియం దృష్టి. <br>**ఎలా ప్రారంభించాలి:** <br>1️⃣ CLIA‑సర్టిఫైడ్ ల్యాబ్‌తో అఫిలియేట్ ఒప్పందం (టెస్ట్‌కు ≈ $30) సంతకం చేయండి. <br>2️⃣ Shopify వంటి ప్లాట్‌ఫార్మ్‌లో బ్రాండ్‑ఫోకస్డ్ e‑స్టోర్ సృష్టించి, కిట్లను ₹2,000‑₹3,000కు అమ్మండి. <br>3️⃣ ల్యాబ్ రిపోర్ట్ వచ్చిన తర్వాత, Zapier + Google Sheets ద్వారా సింపుల్ రూల్‑ఇంజిన్‌తో వ్యక్తిగత నెలవారీ మెయిల్ రూపొందించండి. <br>4️⃣ **₹199/నెల** సబ్‌స్క్రిప్షన్‌లో న్యూస్‌లెట్టర్ + ఐచ్చిక సప్లిమెంట్ బాక్స్ (₹500‑₹1,200) ఇవ్వండి. Instagram పెట్‑ఇన్ఫ్లుఎన్సర్లు, పెట్‑కేర్ ఫోరంల ద్వారా యూజర్లను ఆక్క్యువైడ్ చేయండి. |
 
 ---
 
-## 1️⃣ **Community‑Owned Micro‑Storage Pods**  
-**English:**  
-- Purchase a small piece of land (or partner with a local farmer) and install a few insulated, weather‑proof storage containers (think “mini‑self‑storage”).  
-- Rent out the pods to neighbours for seasonal items – garden tools, festive décor, bicycles, or even small business inventory.  
-- Use a simple mobile app or WhatsApp‑based booking system for reservations and payments.  
+### Why these ideas stand out
+| # | Freshness | Practicality | Scalability |
+|---|-----------|---------------|-------------|
+| 1 | VR still niche for local heritage (most cities lack affordable VR tours). | Low‑cost gear, simple editing, and per‑license pricing. | Add more sites, multilingual versions, and a subscription for “all‑access”. |
+| 2 | Hydroponics is trending, but micro‑modular kits for a **balcony rail** are rare. | Uses cheap PVC, LED strips; app can be built with no‑code tools. | Subscription refills and expansion packs create recurring revenue. |
+| 3 | AI‑chat finance coach on WhatsApp—leverages a platform people already use daily. | API cost is pennies per query; set a modest monthly fee. | Add premium features (tax filing help, investment suggestions) later. |
+| 4 | Regional audio stories meet the huge demand for native‑language content on the go. | One‑time production cost, repeat sales via bundles/subscriptions. | Grow catalog across many Indian languages; license to schools & diaspora. |
+| 5 | Pet‑DNA testing is a global trend, but a **monthly insight** service tied to it is new in India. | Lab costs covered by kit price; subscription adds high‑margin recurring income. | Scale by adding more pet species, partner with vets, and create private label supplements. |
 
-**Why it works:** Urban and semi‑rural areas often lack affordable storage; a 5‑pod micro‑facility can break even in 6‑12 months and generate recurring monthly income.  
+--- 
 
-**Telugu:**  
-- చిన్న స్టోరేజ్ భూమిని (లెండ్ లేదా రైతుతో) తీసుకుని, వాతావరణ‑ప్రూఫ్ క్యాబిన్‌లను (మినీ‑సెల్ఫ్‑స్టోరేజ్) ఇన్‌స్టాల్ చేయండి.  
-- పక్కింటి వాళ్లకు లేదా గ్రామీణ వ్యాపారులకు మొక్కజొన్న, పండ్ల, పరికరాలు, బైక్‌లను నెలవారీగా అద్దెకి ఇవ్వండి.  
-- బుకింగ్, చెల్లింపు కోసం సులభమైన మొబైల్ యాప్ లేదా వాట్స్‌అప్ గ్రూప్‌ను ఏర్పాటు చేయండి.  
-
-**Potential earnings:** 3‑5 k ₹ per pod per month → 15‑25 k ₹/month for 5 pods (after covering land & container cost).
-
----
-
-## 2️⃣ **AR‑Enhanced Heritage Walks for Tourists**  
-**English:**  
-- Design short (30‑45 min) walking routes around historic sites, temples, or old colonies in your city.  
-- Create simple Augmented‑Reality (AR) overlays (using free tools like Spark AR) that show “then‑and‑now” views, 3D reconstructions, or stories when visitors point their phones at landmarks.  
-- Sell tickets through a QR‑code‑based payment gateway; offer group discounts or corporate packages.  
-
-**Why it works:** Travelers crave immersive experiences, and many small towns lack tech‑enhanced tours. The upfront cost is a smartphone, AR software, and some research – the rest is pure service.  
-
-**Telugu:**  
-- మీ నగరంలోని చారిత్రక స్థలాలు, దుఅవారాలు, పాత బస్తీలు మొదలైన వాటి చుట్టూ 30‑45 నిమిషాల నడక కోర్సులను తయారు చేయండి.  
-- Spark AR వంటి ఉచిత టూల్స్‌తో AR లేయర్లను సృష్టించి, ఫోనులో కెమెరా చూపించినప్పుడు రోజువారీ జీవితం, 3D పునర్నిర్మాణాలు, కథలు చూపించండి.  
-- QR‑కోడ్ ద్వారా టిక్కెట్లు అమ్మండి; గ్రూప్ లేదా కంపెనీ ప్యాకేజ్‌లకు తగ్గింపు ఇవ్వండి.  
-
-**Potential earnings:** 200‑300 ₹ per person → 20‑30 persons a day → ₹4‑9 k/day during tourist season.
-
----
-
-## 3️⃣ **DIY Bio‑Char & Compost Kit Subscription**  
-**English:**  
-- Develop a small, low‑cost bio‑char making kit (metal drum, inlet/outlet valves) plus a guide on turning kitchen waste into charcoal and compost.  
-- Offer a monthly subscription that sends fresh wood chips, seeds, and a digital newsletter with farming tips.  
-- Target urban gardeners, rooftop farms, and eco‑conscious schools.  
-
-**Why it works:** Bio‑char improves soil health and reduces carbon emissions; a subscription model guarantees recurring revenue and builds a community of green‑enthusiasts.  
-
-**Telugu:**  
-- చిన్న మెటల్ డ్రం, वाल్వ్‌లు, ఉపయోగ పుస్తకంతో DIY బై‑చార్ (కార్బన్) తయారు చేసే కిట్‌ను తయారు చేయండి.  
-- ప్రతి నెలా రూతి, విత్తనాలు, సేంద్రీయ పౌష్టికాహార సూచనలు (డిజిటల్ న్యూస్‌లెటర్) పంపండి.  
-- పట్టణ తోటమాలి, బారిడి తోట, పాఠశాలలు, పర్యావరణ‑స్నేహి ప్రదేశాలకు అమ్మండి.  
-
-**Potential earnings:** ₹2 k per kit + ₹500/month subscription → 30‑40 kits = ₹1.2‑1.8 Lakh/year.
-
----
-
-## 4️⃣ **Personal Data‑Consent Marketplace**  
-**English:**  
-- Build a platform where users voluntarily sell specific, non‑sensitive data (e.g., grocery‑shopping patterns, local foot‑traffic, anonymized app‑usage stats) to market‑research firms.  
-- Users set the price and the data slice they’re willing to share; all transactions are tracked via blockchain for transparency.  
-- Offer a “data‑coach” service that helps users maximize earnings (similar to a side‑hustle).  
-
-**Why it works:** With GDPR‑style regulations, consent‑based data is valuable, and many people want to monetize their own information without giving away privacy.  
-
-**Telugu:**  
-- వినియోగదారులు తమ కొంత, సున్నిత‑కాదు డేటాను (ఉదాహరణకు, దుకాణ‑కొనుగోలు అలవాట్లు, వీధి‑సంఖ్య, యాప్‑వాడుక) మార్కెట్‑రిసెర్చ్ కంపెనీలకు అమ్మే వేదికను (ప్లాట్‌ఫాం) సృష్టించండి.  
-- వినియోగదారులు ధర, పంచుకోవలసిన డేటాను స్వయంగా నిర్ణయిస్తారు; లావాదేవీలు బ్లాక్‌చెయిన్ ద్వారా పారదర్శకంగా ఉండి.  
-- “డేటా‑కోచ్” సేవ ఇవ్వడం ద్వారా వారు ఎంత సంపాదించగలరో మార్గనిర్దేశం చేయండి.  
-
-**Potential earnings:** Platform takes 15‑20 % commission; with 1,000 active users each earning ₹300/month → platform revenue ₹45‑60 k/month.
-
----
-
-## 5️⃣ **Customizable AI Prompt Marketplace**  
-**English:**  
-- Become a “Prompt Engineer” – design high‑quality, ready‑to‑use prompts for popular AI tools (ChatGPT, Midjourney, DALL‑E, Stable Diffusion).  
-- Package them by niche (e.g., “Instagram carousel copy for health coaches”, “3‑D product renders for e‑commerce”).  
-- Sell bundles on a site like Gumroad or a Telegram channel; offer a “prompt‑as‑a‑service” subscription for monthly fresh prompts.  
-
-**Why it works:** Businesses are eager to leverage AI but lack the skill to craft effective prompts. A well‑curated library saves them time and yields consistent demand.  
-
-**Telugu:**  
-- “ప్రాంప్ట్ ఇంజనీర్” గా AI (ChatGPT, Midjourney, DALL‑E, Stable Diffusion) కోసం ప్రొఫెషనల్ ప్రాంప్ట్ లను రూపకల్పన చేయండి.  
-- “ఇన్‌స్టాగ్రామ్ క్యారousel టెక్స్ట్‑హెల్త్ కోచ్‌ల కోసం”, “3‑డి ప్రొడక్ట్ రెండర్‌లు‑ఈ‑కామర్స్” వంటి శ్రేణులుగా ప్యాకేజ్ చేయండి.  
-- Gumroad లేదా టెలిగ్రామ్ ఛానెల్‌లో బండిళ్ళను అమ్మండి; నెలవారీ కొత్త ప్రాంప్ట్‌ల సబ్‌స్క్రిప్షన్ కూడా ఇవ్వండి.  
-
-**Potential earnings:** ₹500‑1 k per bundle; 100‑150 sales/month → ₹5‑15 k/month; subscription 100 users × ₹200 = ₹2 k/month.
-
----
-
-### Quick‑Start Checklist (for any of the above)
-
-| Step | Action |
-|------|--------|
-| 1️⃣ | Validate demand locally (short survey / pilot). |
-| 2️⃣ | Draft a one‑page business model (cost, price, breakeven). |
-| 3️⃣ | Build a minimal‑viable product – a simple website, a WhatsApp group, or a demo video. |
-| 4️⃣ | Launch with friends/family for the first 5‑10 customers (free or heavy discount). |
-| 5️⃣ | Collect feedback, refine, and scale (ads, referrals, partnerships). |
-
-Feel free to pick the idea that resonates most with your skills and local market. Good luck, and may your new venture thrive! 🚀
+**Tip for Execution:**  
+Start with a **minimum viable product (MVP)** for any of these ideas—focus on delivering value to the first 20‑30 customers, collect feedback, then iterate. The key to turning a fresh concept into steady cash flow is **repeating** the value delivery (subscription, refill, or content updates) rather than a one‑time sale. Good luck!
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-05-24-05-55.md](notes/2026-05-24-05-55.md)
 - [2026-05-24-01-56.md](notes/2026-05-24-01-56.md)
 - [2026-05-23-22-41.md](notes/2026-05-23-22-41.md)
 - [2026-05-23-20-37.md](notes/2026-05-23-20-37.md)
