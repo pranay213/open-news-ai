@@ -4,66 +4,32 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-**5 NEW & PRACTICAL MONEY‑MAKING IDEAS**  
-*(Each idea is explained in English and then translated into Telugu. All concepts avoid the usual “freelancing, blogging, dropshipping” routes.)*  
+## 5 Fresh Money‑Making Ideas  
+*(Each idea is explained in English first, then in Telugu. The concepts are practical, can be launched with modest investment, and avoid the usual “freelancing / blogging / dropshipping” routes.)*
+
+| # | English – Idea | Telugu – ఆలోచన |
+|---|----------------|----------------|
+| **1** | **Micro‑Experience Subscription Boxes for a “Local‑First” Lifestyle**  <br>**What it is:** Curate a monthly box that delivers a *single* hyper‑local experience – e.g., a 30‑minute cooking kit with a regional recipe, a mini‑workshop card for a traditional craft, and a short audio story from a nearby elder. <br>**Why it works:** People love personalized, bite‑size experiences that don’t require big time‑commitments. By focusing on micro‑culture (village‑level, neighborhood‑level), you face little competition and can charge premium “experience” fees. <br>**How to start:** <br>1. Pick a micro‑region (e.g., a town, a cluster of villages). <br>2. Partner with one local chef, one artisan, and one storyteller. <br>3. Design a 5‑15 USD box (ingredients, craft material, QR‑code for audio). <br>4. Sell via a simple shopify‑type site or WhatsApp orders. <br>5. Re‑invest by adding new micro‑regions each month. <br>**Revenue potential:** 150‑300 USD per subscriber per month → 30 subscribers = **4,500–9,000 USD/month** after 2‑3 months. | **1** | **"లోకల్‑ఫస్ట్" మైక్రో‑ఎక్స్‌పీరియెన్స్ సబ్‌స్క్రిప్షన్ బాక్స్**  <br>**ఏమిటి:** ప్రతి నెలా ఒక *చిన్న* స్థానిక అనుభవాన్ని అందించే బాక్స్ – ఒడిసిప్పిన వంటక రెసిపీ, చిన్న క్రాఫ్ట్ మటీరియల్, దగ్గరి వృద్ధుని కథను వినడానికి QR‑కోడ్. <br>**ఎందుకు పనిచేస్తుంది:** వ్యక్తిగత, సులభమైన అనుభవాలు ఇష్టపడే వారు పెరుగుతున్నారు. మైక్రో‑కల్చర్ (గ్రామస్థాయి, పక్క పరిసరాలు) మీద దృష్టి పెట్టి పోటీ తక్కువ. <br>**ఎలా ప్రారంభించాలి:** <br>1. ఒక స్థానిక ప్రాంతాన్ని ఎంపిక చేసుకోండి (ఒక గ్రామం, లాగా). <br>2. అక్కడి ఒక షెఫ్, ఒక హస్తకారుడు, ఒక కథకుడు‌ను భాగస్వామ్యం చేయండి. <br>3. 5‑15 USD విలువైన బాక్స్ (పదార్థాలు + QR‑కోడ్) తయారు చేయండి. <br>4. Shopify వంటి సులభ సైట్ లేదా WhatsApp ద్వారా కొనుగోలు బుక్ చేయండి. <br>5. నెలవారీగా కొత్త మైక్రో‑ప్రాంతాలు చేరుస్తూ విస్తరించండి. <br>**ఆదాయం:** 150‑300 USD/సబ్‌స్క్రైబర్/మాసం → 30 సబ్‌స్క్రైబర్లు = **4,500‑9,000 USD/మాసం** (2‑3 మాసాల తర్వాత). |
+| **2** | **VR Heritage Tours for Schools & Corporates**  <br>**What it is:** Produce short (5‑10 min) immersive VR tours of lesser‑known heritage sites (temples, forts, tribal villages). Sell license access to schools, corporate HR teams (for team‑building), and tourism boards. <br>**Why it works:** VR hardware is becoming affordable (Meta Quest, Pico). Educational curricula now require “experiential learning.” Corporates love unique team‑building content. <br>**How to start:** <br>1. Choose 3–5 heritage spots without existing VR content. <br>2. Use a 360° camera (≈ $300) and basic stitching software. <br>3. Add narration in English & regional language, embed quizzes. <br>4. Host the tours on a simple SaaS platform (e.g., Gumroad + private links). <br>5. Pitch to schools (annual licences $300–$500) and HR departments ($800 per corporate package). <br>**Revenue potential:** 20 school licences + 5 corporate packages = **≈ $12,000 / year**. | **2** | **VR హెరిటేజ్ టూర్స్ (పాఠశాలలు & కంపెనీలు)​**  <br>**ఏమిటి:** 5‑10 నిమిషాలు పరిమాణంలో స్థానిక చారిత్రక స్థలం (దుర్గాలు, దేవాలయాలు, గ్రామాలు)‑కి 360° VR టూర్ సృష్టించి, పాఠశాలలు, కంపెనీ HR‑లు, టూరిజం బోర్డులు లైసెన్సు ద్వారా అమ్మండి. <br>**ఎందుకు పనిచేస్తుంది:** VR హెడ్‌సెట్‌లు ఇప్పుడు చవకైనవిగా (Meta Quest, Pico). పాఠ్యాంశాల్లో అనుభవ‑ఆధారిత నేర్చుకోవడం అవసరం, కంపెనీలకు క్రియేటివ్ టీమ్‑బిల్డింగ్ ఇష్టం. <br>**ఎలా ప్రారంభించాలి:** <br>1. 3‑5 తెలియని చారిత్రక స్థలాలు ఎంపిక చేసుకోండి. <br>2. 360° కెమెరా (≈ $300) మరియు శాంప్లింగ్ సాఫ్ట్‌వేర్‌తో వీడియోలు రికార్డ్ చేయండి. <br>3. ఇంగ్లీష్ & తెలుగు నరేషన్, క్విజ్‌లను జోడించండి. <br>4. Gumroad లేదా Prismic వంటి ప్లాట్‌ఫారమ్‌లో ప్రైవేట్ లింక్‌లను హోస్ట్ చేయండి. <br>5. పాఠశాలలకు (ప్రతి లైసెన్స్ $300‑$500) మరియు HR‑లకు ($800) పిచ్ చేయండి. <br>**ఆదాయం:** 20 పాఠశాలలు + 5 కంపెనీలు → **≈ $12,000 / సంవత్సరం**. |
+| **3** | **Niche AI‑Model Fine‑Tuning Service**  <br>**What it is:** Instead of offering generic AI chatbots, specialize in fine‑tuning open‑source LLMs for a very narrow domain (e.g., Ayurvedic formulation advice, Telugu literature analysis, vintage car restoration). Provide the model as an API or downloadable package. <br>**Why it works:** Many SMEs need AI but lack data scientists. A hyper‑focused model solves a real‑world pain point and can be priced higher than a “general” bot. <br>**How to start:** <br>1. Pick a domain you understand or can partner with an expert. <br>2. Collect 5k–10k domain‑specific texts (public domain, OP‑licensed). <br>3. Use open‑source LLMs (e.g., Llama‑2, Mistral) on a modest cloud GPU ($0.5‑$1/hr). <br>4. Fine‑tune, host the endpoint on HuggingFace Spaces or a cheap VPS. <br>5. Charge per‑call ($0.01‑$0.03) or a monthly subscription ($100‑$300). <br>**Revenue potential:** 200 calls/day × $0.02 = **$1,200 / month** + 2–3 premium subscriptions. | **3** | **నిశ్చిత‑AI‑మోడల్ ఫైన్‑ట్యూనింగ్ సేవ**  <br>**ఏమిటి:** సాధారణ చాట్‌బాట్‌లకు బదులుగా, ఓపెన్‑సోర్స్ LLM (Llama‑2, Mistral) ను ఒక ప్రత్యేక రంగంలో (ఆయుర్వేద మందుల సలహా, తెలుగు సాహిత్య విశ్లేషణ, వింటేజ్ కార్ రిపేర్) ఫైన్‑ట్యున్ చేసి, API లేదా ప్యాకేజీగా అందించడం. <br>**ఎందుకు పనిచేస్తుంది:** చిన్న‑మధ్య సంస్థలకు AI‑తదుపరి అవసరం, కానీ డాటా సైంటిస్ట్స్ లేకపోయే పరిస్థితి. ఒక నైష్‑మోడల్ వాస్తవ అవసరాన్ని తీర్చి, సాధారణ బాట్ కన్నా ఎక్కువ ధరకు అమ్మవచ్చు. <br>**ఎలా ప్రారంభించాలి:** <br>1. మీకు తెలిసిన లేదా నిపుణుడితో కలిసి ఒక ప్రత్యేక రంగాన్ని ఎంపిక చేసుకోండి. <br>2. 5k‑10k పబ్లిక్‑డొమైను/OP‑లైసెన్స్ టెక్స్ట్‌లు సేకరించండి. <br>3. క్లౌడ్ GPU (USD 0.5‑1/గంట) మీద ఓపెన్‑సోర్స్ LLM ను ఫైన్‑ట్యున్ చేయండి. <br>4. HuggingFace Spaces లేదా VPS లో ఎండ్‌పాయింట్ హోస్ట్ చేయండి. <br>5. కాల్‑ప్రతి $0.01‑$0.03 లేదా నెలవారీ సబ్‌స్క్రిప్షన్ $100‑$300 లుగా ఛార్జ్ చేయండి. <br>**ఆదాయం:** 200 కాల్స్/రోజు × $0.02 = **$1,200 / మాసం** + 2‑3 ప్రీమియం సబ్‌స్క్రిప్షన్లు. |
+| **4** | **Eco‑Packaging Design & Leasing for Small‑Scale Brands**  <br>**What it is:** Create a library of reusable, biodegradable packaging (e.g., bamboo boxes, mushroom‑based wraps) and lease them to local food, cosmetics, or gift shops on a “pay‑per‑use” basis. Return‑logistics are handled by you. <br>**Why it works:** Regulations are tightening on single‑use plastics; many micro‑brands cannot afford custom sustainable packaging. Leasing spreads cost and gives you recurring revenue. <br>**How to start:** <br>1. Source low‑cost eco‑materials (bamboo, bagasse, mycelium). <br>2. Design 5–7 standard sizes (with branding slots). <br>3. Produce a small batch (50‑100 units each). <br>4. Approach nearby cafés & boutiques, offer “first‑month free, then $0.30 per package used.” <br>5. Use a simple QR‑track system to monitor returns. <br>**Revenue potential:** 30 clients × 200 packages/month × $0.30 = **$1,800 / month** (plus a markup on initial sale). | **4** | **పర్యావరణ‑ప్యాకేజింగ్ డిజైన్ & లీజింగ్ (చిన్న బ్రాండ్స్ కోసం)**  <br>**ఏమిటి:** బాంబూ బాక్స్‌లు, మష్రూమ్‑బేస్డ్ రాప్స్ వంటి పునర్వినియోగ‑బయోడిగ్రేడబుల్ ప్యాకేజింగ్‌ల లైబ్రరీని రూపొందించి, స్థానిక ఫుడ్, కాస్మెటిక్స్, బహుమతి స్టోర్లు “వాడుక‑ప్రతి‑ఒక్కసారి” లీజు మీద ఇవ్వటం. రిటర్న్‑లాజిస్టిక్స్ మీవైపు. <br>**ఎందుకు పనిచేస్తుంది:** సింగిల్‑యూజ్ ప్లాస్టిక్ పై నియమాలు కఠోరమవుతున్నాయి; బహుళ‑మైక్రో బ్రాండ్స్‌కు సుస్థిర ప్యాకేజింగ్ ఖర్చు ఎక్కువ. లీజింగ్‌ ద్వారా ఖర్చు పంపిణీ, పునరావృత ఆదాయం. <br>**ఎలా ప్రారంభించాలి:** <br>1. బాంబూ, బాగాసీ, మైసెలియం వంటి తక్కువ ఖర్చు పదార్థాలు పొందండి. <br>2. 5‑7 స్టాండర్డ్ సైజ్‌లను (బ్రాండింగ్ స్లాట్) డిజైన్ చేయండి. <br>3. చిన్న బ్యాచ్ (ప్రతి సైజ్ 50‑100 యూనిట్స్) తయారు చేయండి. <br>4. దగ్గరి కేఫ్‌లు, బుటిక్‌ల వద్ద “మొదటి నెల ఉచితం, తర్వాత ప్రతి ప్యాకేజీకి $0.30” ఆఫర్ ఇవ్వండి. <br>5. QR‑ట్రాక్ సిస్టమ్ ద్వారా రిటర్న్స్‌ను మానిటర్ చేయండి. <br>**ఆదాయం:** 30 క్లైంట్స్ × 200 ప్యాకేజీలు/మాసం × $0.30 = **$1,800 / మాసం** (మొదటి విక్రయంలో కూడా లాభం). |
+| **5** | **Community Solar‑Power Arbitrage Platform**  <br>**What it is:** Create a small online platform where homeowners with rooftop solar panels can sell surplus kWh to nearby non‑solar households or small businesses at a negotiated rate (usually a few cents higher than the utility’s feed‑in tariff). You earn a commission on every transaction. <br>**Why it works:** In many Indian states (including Andhra Pradesh & Telangana) net‑metering is allowed but the utility’s buy‑back price is low. A peer‑to‑peer market closes the gap, and many residents are eager to lower electricity bills. <br>**How to start:** <br>1. Register as an energy‑trading aggregator (consult a local energy lawyer). <br>2. Build a simple web‑app (no‑code tools like Bubble or Glide can suffice). <br>3. Onboard 10‑15 solar‑panel owners (offer them a 5 % higher price than the utility). <br>4. Match them with 20‑30 buyers in the same locality. <br>5. Take a 2‑3 % commission per kWh transferred. <br>**Revenue potential:** 1,000 kWh/month traded × $0.02 commission = **$20 / month** initially; scale to 10,000 kWh (≈ $200 / month) within a year. | **5** | **కమ్యూనిటీ సోలార్‑పవర్ అర్బిట్రేజ్ ప్లాట్‌ఫారమ్**  <br>**ఏమిటి:** రూఫ్‌టాప్ సోలార్ ప్యానెల్ ఉన్న గృహాలు, తమ అదనపు kWh ని సమీపంలో ఉన్న సోలార్‑లేనివారికి లేదా చిన్న బిజినెస్‌లకు కొంచెం ఎక్కువ ధర (యుటిలిటీ ఫీడ్‑ఇన్ టారిఫ్ కంటే) అమ్మే పీర్‑టు‑పీర్ మార్కెట్. ప్రతి ట్రాన్జాక్షన్ మీద మీరు కమిషన్ (2‑3 %) తీసుకుంటారు. <br>**ఎందుకు పనిచేస్తుంది:** ఆంధ్రప్రదేశ్, తెలంగాణ వంటి రాష్ట్రాల్లో నెట్‑మీటరింగ్ ఉంది, కానీ యుటిలిటీ కొనుగోలు ధర తక్కువ. స్థానిక మార్కెట్ ద్వారా ధర పెంచి, వినియోగదారుల బిల్లులు తగ్గుతాయి. <br>**ఎలా ప్రారంభించాలి:** <br>1. స్థానిక ఎనర్జీ లాయర్‌తో “ఎనర్జీ‑ట్రేడింగ్ అగ్రిగేటర్”గా నమోదు చేయండి. <br>2. Bubble లేదా Glide వంటి నో‑కోడ్ టూల్స్‌తో సింపుల్ వెబ్‑యాప్ రూపొందించండి. <br>3. 10‑15 సోలార్‑ప్యానెల్ యజమానులను (యుటిలిటీదిద్దకన్నా 5 % ఎక్కువ ధర) అట్టాచ్ చేయండి. <br>4. అదే ప్రాంతంలో 20‑30 కొనుగోలు దారులతో మ్యాచ్ చేయండి. <br>5. ప్రతి kWh కి 2‑3 % కమిషన్ వసూలు చేయండి. <br>**ఆదాయం:** ప్రారంభంలో 1,000 kWh/మాసం × $0.02 = **$20 /మాసం**; 10,000 kWh (≈ $200 /మాసం) కు ఒక సంవత్సరం లోపల స్కేల్ అవ్వవచ్చు. |
 
 ---
 
-## 1️⃣ Local‑First “Skill‑Swap” Subscription Service  
-**English** – Create a monthly subscription club where members pay a small fee (₹ 500‑₹ 1,000) to *swap* one‑hour personal‑skill sessions with neighbours – e.g., a chef teaches basic cooking, a carpenter shows a quick DIY repair, a senior citizen shares gardening tricks. You earn by managing the platform, vetting teachers, and handling payments. The “local‑first” angle (no global competition) makes it easy to launch with just a simple website or WhatsApp group.
+### Quick Tips for All 5 Ideas
+1. **Validate First** – Talk to at least 5 potential customers before you spend money on inventory or tech.
+2. **Start Lean** – Use no‑code/low‑code tools, rented warehouse space, or shared‑kitchen kits to keep overhead low.
+3. **Leverage Community** – Word‑of‑mouth, local WhatsApp groups, and regional Facebook pages work far better than generic ads for niche offerings.
+4. **Legal & Compliance** – Even low‑cost ideas may need a shop‑and‑establishment licence, GST registration, or specific permits (e.g., energy‑trading aggregator).
+5. **Iterate Quickly** – After the first month, collect feedback, tweak the product/service, and then scale to the next micro‑region or client segment.
 
-**తెలుగు** – **స్థానిక‑ప్రథమ “స్కిల్‑స్వాప్” సభ్యత్వ సేవ**  
-సబ్‌స్క్రైబర్లకు ప్రతి నెలకు ₹ 500‑₹ 1,000 చెల్లింపుతో, తమ పరిచయాల్లోని వ్యక్తుల నుండి 1‑గంట నిపుణత్వ సెషన్లు మార్పిడి చేసుకునే క్లబ్‌ను ఏర్పాటు చేయండి – వంట నేర్పటం, సులభమైన DIY మరమ్మత్తు, తోట పనులు మొదలైనవి. మీరు ప్లాట్‌ఫారాన్ని నిర్వహించడం, శిక్షకులను ఎంపిక చేయడం, చెల్లింపులను సమీకరించడం ద్వారా ఆదాయం పొందవచ్చు.  
-
----
-
-## 2️⃣ AR‑Powered “History Walks” for Tourists  
-**English** – Develop short Augmented‑Reality tours for historic neighborhoods in your city (e.g., a 30‑minute AR walk that overlays old photographs, 3‑D reconstructions, and audio stories onto the present streets). Sell tickets through an app or QR‑code kiosks near the start point. Initial cost is a one‑time 3‑D modeling/AR SDK purchase; recurring revenue comes from each tourist ticket (₹ 150‑₹ 300).  
-
-**తెలుగు** – **AR‑ఆధారిత “చరిత్ర నడక” పర్యాటకులకు**  
-మీ నగరంలోని పాత ప్రాంతాల కోసం చిన్న AR టూర్లు అభివృద్ధి చేయండి – ప్రస్తుత వీధులపై పహ్లవారపు ఫోటోలు, 3‑D పునర్నిర్మాణాలు, ఆడియో కథలను చూపించే 30‑నిమిషాల నడక. యాప్ లేదా QR‑కోడ్ కియోస్క్ ద్వారా టికెట్లను ₹ 150‑₹ 300కి విక్రయించండి. ప్రారంభ ఖర్చు 3‑D మోడలింగ్/AR SDK కొనుగోలు, తర్వాతి ఆదాయం టూర్ టికెట్ల ద్వారా వస్తుంది.  
-
----
-
-## 3️⃣ “Data‑Backed” Personal‑Insight Reports (GDPR‑Compliant)  
-**English** – Offer a service that aggregates a user’s *own* digital footprints (social‑media activity, Spotify listening, Google search trends) into a concise, visual “life‑insight” report that suggests career moves, health habits, or hobby ideas. Charge a one‑off fee (₹ 2,000‑₹ 5,000) for the report and a small annual renewal for updates. Because the data belongs to the client, you stay fully compliant with privacy laws and differentiate from generic analytics firms.  
-
-**తెలుగు** – **“డేటా‑బ్యాక్‌డ్” వ్యక్తిగత‑అన్వయం నివేదిక (GDPR‑అనుగుణం)**  
-వాడుకరి స్వంత డిజిటల్ చర్యలను (సోషల్ మీడియా, Spotify, Google శోధనలు) సేకరించి, జీవిత‑అవగాహన నివేదికగా రూపకల్పన చేయండి. ఇది కెరీర్, ఆరోగ్యం, హాబీ సూచనలు ఇస్తుంది. ఒక్కసారి ₹ 2,000‑₹ 5,000 ఫీజు, సంవత్సరానికి ఒక చిన్న రిన్యూలు. డేటా క్లయింట్‌కి చెందినదిగా ఉండి, ప్రైవసీ చట్టాలకు అనుగుణంగా ఉంటుంది.  
-
----
-
-## 4️⃣ Urban “Micro‑Farming” Rental Pods  
-**English** – Install modular, stackable hydroponic pods (each 1 m²) on rooftops or vacant lot fences. Small businesses, restaurants, or health‑conscious families can rent a pod for ₹ 3,000‑₹ 7,000 per month to grow herbs, micro‑greens, or specialty veg. You market, set up, maintain water‑nutrient systems, and collect rent. The initial investment is the pod kit; recurring cash flow is the rental fee plus optional “harvest‑as‑a‑service” add‑on.  
-
-**తెలుగు** – **అర్టన్‑స్థాయి “మైక్రో‑ఫామ్” రెంటల్ పోడ్స్**  
-రూఫ్‌టాప్‌లు లేదా ఖాళీ స్థలాల బొమ్మలపై స్టాకబుల్ హైడ్రోపోనిక్ పోడ్స్ (ప్రతి 1 m²) ఏర్పాటు చేయండి. రెస్టారెంట్లు, చిన్న వ్యాపారాలు, ఆరోగ్య‑జాగ్రత్త కుటుంబాలు ఇవి ₹ 3,000‑₹ 7,000 నెలవారీ అద్దెకి తీసుకుని ఔషధాలు, మైక్రో‑గ్రీన్స్, ప్రత్యేక కూరగాయలు పెంచుకోవచ్చు. మీరు పోడ్స్‌ను ఇన్‌స్టాల్, నీటి‑పోషక నిర్వహణ, మరియు అద్దె సేకరణ చేస్తారు. ప్రారంభ ఖర్చు పోడ్ కిట్, ఆ తర్వాత నెలవారీ అద్దె ఆదాయం, “ఫారెస్ట్‑అస్‑అ‑సర్వీస్” వంటి అదనపు సేవల ద్వారా లాభం.  
-
----
-
-## 5️⃣ Community‑Owned “Solar‑Share” Mini‑Grid  
-**English** – Organize a neighborhood of 30‑50 households to collectively invest (₹ 1 lakh per house) in a 10 kW solar rooftop system with a tiny battery. The generated electricity is shared, reducing each family’s utility bill by 40‑60 %. You act as the coordinator, handling contracts, installation, and monthly billing for the shared power. Earn a modest management fee (5 % of savings) plus a one‑time facilitation commission.  
-
-**తెలుగు** – **కమ్యూనిటీ‑మొత్తం “సోలార్‑షేర్” చిన్న‑గ్రిడ్**  
-30‑50 గృహాలు కలిసి ₹ 1 లక్ష పెట్టుబడి ద్వారా 10 kW సౌరపవర్ (బ్యాటరీతో) ఏర్పాటు చేయండి. ఉత్పత్తి చేసిన విద్యుత్‌ను ప్రతి గృహం పంచుకుని, బిల్లు 40‑60 % తగ్గుతుంది. మీరు కోఆర్డినేటర్‌గా, ఒప్పందాలు, ఇన్‌స్టాలేషన్, షేర్డ్ పవర్ బిల్లింగ్ నిర్వహిస్తారు. నెలవారీ ఆదాయం – సేవా ఫీజు (సేవ్‌జ్ 5 %) + ఒకసారిగా ఫెసిలిటేషన్ కమిషన్.  
-
----
-
-### Quick Tips to Launch Any of These Ideas  
-
-| Step | What to Do | Tools/Resources |
-|------|------------|-----------------|
-| 1️⃣ | Validate demand – run a short survey or pilot with 10‑15 locals. | Google Forms, WhatsApp poll |
-| 2️⃣ | Build a minimal‑viable product (MVP) – simple website or WhatsApp group. | Carrd, Wix, or even a PDF brochure |
-| 3️⃣ | Secure a small seed fund – friends, family, or a micro‑loan (₹ 2‑5 lac). | Kiva, local micro‑finance |
-| 4️⃣ | Get the right legal/license (e.g., data‑privacy for Idea 3, electricity agreement for Idea 5). | Local municipal office, legal counsel |
-| 5️⃣ | Launch, collect feedback, iterate. | SurveyMonkey, Zapier for automation |
-
-All five concepts can start with **under ₹ 5 lakhs** and have the potential to scale regionally or even nationwide with the right network. Good luck! 🚀
+Feel free to pick the one that resonates most with your background and local market, and start prototyping this week! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-06-05-22-54.md](notes/2026-06-05-22-54.md)
 - [2026-06-05-21-14.md](notes/2026-06-05-21-14.md)
 - [2026-06-05-19-27.md](notes/2026-06-05-19-27.md)
 - [2026-06-05-17-45.md](notes/2026-06-05-17-45.md)
