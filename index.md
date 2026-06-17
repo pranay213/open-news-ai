@@ -4,31 +4,137 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-**5 NEW, UNCOMMON Money‑Making Ideas (English + Telugu)**  
-
-| # | Idea (English) | How It Works (Key Steps) | Idea (Telugu) | ఎలా అమలు చేయాలి (ప్రధాన దశలు) |
-|---|----------------|--------------------------|---------------|------------------------------|
-| **1** | **Micro‑Pop‑Up “Experience” Booths** – Create tiny, themed pop‑up stations that sell a **short, immersive experience** (e.g., 5‑minute virtual‑reality “travel to a beach”, AR‑enhanced photo spot, or a sensory‑taste tasting). Charge per session or sell “experience tickets”. <br>**Why it’s fresh:** People are willing to pay for novelty & Instagram‑worthy moments without a full‑blown venue. | 1. Identify a high‑foot‑traffic spot (mall corridor, university campus, market). 2. Pick a low‑cost, high‑impact theme (e.g., “Mini Zen Garden”, “VR Roller‑Coaster”). 3. Build a 4‑ft × 4‑ft portable booth (foam board, LED lights, a tablet/VR headset). 4. Set a per‑person price (₹150‑₹500). 5. Promote via local WhatsApp groups, flyers, and QR‑code bookings. 6. Rotate themes weekly to encourage repeat visits. | **మైక్రో‑పాప్‑అప్ “ఎక్స్‌పీరియన్స్” బూత్** – చిన్న, థీమ్‌డ్ పాప్‑అప్ స్టేషన్లు సృష్టించండి, ఇవి **చిన్న, ఇమర్సివ్ అనుభవాన్ని** అమ్ముతాయి (ఉదా: 5‑నిమిషాల VR బీచ్, AR‑ఫోటో స్పాట్, సెన్సరీ టేస్టింగ్). ప్రతి సెషన్ లేదా “టికెట్” కోసం ఛార్జ్ చేయండి. <br>**ఎందుకు కొత్తది:** పూర్తి‑వెండింగ్ స్పేస్ అవసరం లేకుండా novelty & Instagram‑దగిన మైనస్‌ల కోసం ప్రజలు చెల్లిస్తారు. | 1. పాదచారుల ఎక్కువగా ఉండే స్థలాన్ని (మాల్, కాలేజ్ క్యాంపస్, మార్కెట్) ఎంచుకోండి. 2. తక్కువ ఖర్చుతో, పెద్ద ప్రభావం ఇచ్చే థీమ్ (ఉదా: “మినీ జెన్ గార్డెన్”, “VR రోలర్ కోస్టర్”) నిర్ణయించండి. 3. 4 × 4 అడుగుల పోర్టబుల్ బూత్ (ఫోమ్ బోర్డ్, LED, టాబ్లెట్/VR హెడ్సెట్) తయారు చేయండి. 4. ఒక్కొక్కరుకి ధర (₹150‑₹500) పెట్టండి. 5. స్థానిక వాట్సాప్ గ్రూప్‌లు, ఫ్లైయర్లు & QR‑కోడ్ బుకింగ్ ద్వారా ప్రచారం చేయండి. 6. వారానికి థీమ్స్ మారుస్తూ, సక్కలైన పునఃసందర్శకులను ఆకర్షించండి. |
-| **2** | **“Zero‑Waste” Upcycling Workshops for Corporates** – Offer on‑site or virtual workshops where employees learn to transform office waste (paper, plastic, cardboard) into useful items (notebooks, organizers, décor). Companies pay per employee or per session for CSR/employee‑wellness credits. | 1. Design a 2‑hour curriculum with hands‑on kits (pre‑packed waste, tools, templates). 2. Approach HR/CSR departments with a “green‑engagement” pitch. 3. Charge a flat fee per batch (e.g., ₹8,000 for 20 participants) plus optional kit sales. 4. Record the session and offer a paid replay for any staff who missed it. | **“జీరో‑వేస్ట్” అప్సైక్లింగ్ వర్క్‌షాప్‌లు కార్పొరేట్‌లకు** – ఆఫీస్‌లోని వ్యర్థాలను (పేపర్, ప్లాస్టిక్, కార్డ్బోర్డ్) ఉపయోగకరమైన వస్తువులుగా (నోట్బుక్, ఆర్గనైజర్, డెకోర్) మారుస్తున్న వర్క్‌షాప్‌లు అందించండి. HR/CSR విభాగాలకు CSR/వెల్‌నెస్ క్రెడిట్‌ల కోసం ఒక్కొక్కరికి లేదా సెషన్‌కు ఫీజు వసూలు చేయండి. | 1. 2‑గంటల పాఠ్యక్రమాన్ని, హ్యాండ్స్‑ఆన్ కిట్స్ (వర్ధిత పదార్థాలు, టూల్స్, టెంప్లేట్స్) తో రూపొందించండి. 2. HR/CSR విభాగాలతో “green‑engagement” పిచ్ చేయండి. 3. ఒక్క బాచ్‌కు స్థిర ఫీజు (ఉదా: 20 పర్సన్స్ కు ₹8,000) + ఐచ్ఛిక కిట్ విక్రయాలు. 4. సెషన్‌ రికార్డు చేసి, మిస్ అయినవారికి చెల్లించబడే రీ‑ప్లే అందించండి. |
-| **3** | **AI‑Generated Custom Music for Small Businesses** – Use affordable AI music generators (e.g., Soundful, AIVA) to create short, royalty‑free jingles or background tracks tailored to a brand’s vibe. Offer a “one‑song‑a‑month subscription” for cafés, boutiques, podcasts, etc. | 1. Subscribe to an AI music platform with commercial license. 2. Build a simple questionnaire (brand colors, mood, length). 3. Generate a track, add brand name voice‑over (use low‑cost freelance voice talent). 4. Deliver via a private Dropbox link. 5. Charge ₹3,500‑₹7,000 per track or ₹12,000/month for a subscription. | **చిన్న బిజినెస్‌ల కోసం AI‑జనరేటెడ్ కస్టమైజ్డ్ మ్యూజిక్** – Soundful, AIVA వంటి చవక AI మ్యూజిక్ జనరేటర్లను ఉపయోగించి, బ్రాండ్ మూడ్‌కు అనుగుణంగా చిన్న, రాయల్టీ‑ఫ్రీ జింగిల్స్ లేదా బ్యాక్‌గ్రౌండ్ ట్రాక్స్‌ను రూపొందించండి. కేఫ్‌లు, బుటిక్‌లు, పోడ్‌కాస్టులు మొదలైనవాటికి “ఒక్క‑ట్రాక్‑ఒక‑నెల” సబ్‌స్క్రిప్షన్ ఇవ్వండి. | 1. కమర్షియల్ లైస్‌తో AI మ్యూజిక్ ప్లాట్‌ఫారమ్‌కు సభ్యత్వం తీసుకోండి. 2. సింపుల్ ప్రశ్నావళి (బ్రాండ్ కలర్స్, మూడ్, టైం) తయారు చేయండి. 3. ట్రాక్‌ను జనరేట్ చేసి, బ్రాండ్ పేరు వాయిస్‑ఓవర్ (తక్కువ ఖర్చు ఫ్రీలాన్స్ వాయిస్) జోడించండి. 4. ప్రైవేట్ డ్రాప్‌బాక్స్ లింక్ ద్వారా పంపండి. 5. ఒక్క ట్రాక్‌కు ₹3,500‑₹7,000 లేదా నెలకు ₹12,000 సబ్‌స్క్రిప్షన్ ఫీజు వసూలు చేయండి. |
-| **4** | **Digital “Plant‑Care as a Service” (PaaS)** – Many people own indoor plants but lack time/knowledge. Offer a subscription where you remotely monitor plant health via smart sensors (soil‑moisture, light) and send weekly care instructions, plus a quarterly on‑site visit for pruning/repotting. | 1. Partner with a cheap IoT sensor supplier (e.g., Xiaomi, ESP‑based kits). 2. Sell a starter kit (sensor + app access) for ₹2,000. 3. Provide a monthly plan (₹1,200) that includes data dashboard, SMS alerts, and video call guidance. 4. Upsell an annual “hands‑on visit” (₹3,000). 5. Target apartment complexes, co‑working spaces, and senior‑citizen groups. | **డిజిటల్ “ప్లాంట్‑కేర్‑ఏ‑సర్వీస్” (PaaS)** – ఇంటిలో పలు మొక్కలు ఉంటాయి, కానీ సమయం లేదా జ్ఞానం లేకపోవచ్చు. స్మార్ట్ సెన్సర్ల (మట్టి‑తడి, లైట్) ద్వారా రిమోట్ మానిటరింగ్, వారాంతపు సంరక్షణ సూచనలు, త్రైమాసికంగా స్థానికంగా ప్రూనింగ్/రిపాటింగ్ సేవలు అందించే సబ్స్క్రిప్షన్‌ను ఇవ్వండి. | 1. చవక IoT సెన్సర్‌ (Xiaomi, ESP‑కిట్స్) తో భాగస్వామ్యం చేసుకోండి. 2. స్టార్టర్ కిట్ (సెన్సర్ + యాప్ యాక్సెస్) ₹2,000కి అమ్మండి. 3. నెలవారీ ప్లాన్ (₹1,200) – డ్యాష్‌బోర్డ్, SMS అలర్ట్, వీడియో కాల్ గైడ్. 4. వార్షిక “హ్యాండ్స్‑ఆన్ వీజిట్” (₹3,000) అదనంగా వాసిల చేయండి. 5. అపార్ట్మెంట్‌లు, కో‑వర్కింగ్ స్పేస్‌లు, సీనియర్ సిటిజన్ గ్రూపులను లక్ష్యంగా పెట్టుకోండి. |
-| **5** | **“Story‑Based” AR Treasure Hunts for Local Tourism** – Design location‑specific augmented‑reality scavenger hunts that tell a city’s history or folklore. Users download a cheap mobile app, pay a per‑hunt fee, and receive AR “clues” at landmarks. Partner with local eateries/hotels for prize sponsorships. | 1. Map 5‑7 key spots in a town (monuments, cafés, parks). 2. Write short narratives (myths, historic facts). 3. Use a no‑code AR platform (e.g., ZapWorks, AR.js) to attach audio‑visual clues to GPS coordinates. 4. Publish the hunt in your app/store; charge ₹250‑₹500 per team. 5. Sell sponsorship slots (e.g., “Finish line snack provided by X Café”). | **స్థాన‑ఆధారిత AR ట్రెజర్ హంట్స్ (Story‑Based) టూరిజంను పెంచడానికి** – నగర చరిత్ర/కథలను చెప్పే AR‑స్కావెంజర్ హంట్స్‌ను రూపొందించండి. యూజర్లు చిప్‌మైన యాప్‌లో డౌన్‌లోడ్ చేసి, ఒక్క హంట్‌కు చెల్లిస్తారు, ల్యాండ్‌మార్క్స్‌లో AR “క్లూస్” పొందుతారు. స్థానిక రెస్టారెంట్‌లు/హోటల్స్‌తో బహుమతి స్పాన్సర్‌షిప్‌ కోసం భాగస్వామ్యం చేయండి. | 1. నగరంలో 5‑7 ముఖ్య స్థలాలు (మొనుమెంట్స్, క్యాఫేలు, పార్కులు) మ్యాప్ చేయండి. 2. చిన్న కథలు/మిథ్లు/చారిత్రక గfacts రాయండి. 3. ZapWorks, AR.js వంటి కో‑డెస్‑లేని AR ప్లాట్‌ఫారమ్‌లతో GPS‑కోఆర్డినేట్స్‌కు ఆడియో‑విజువల్ క్లూస్‌ను జోడించండి. 4. మీ యాప్/స్టోర్‌లో హంట్‌ను ప్రచురించి, ఒక్క టీమ్‌కు ₹250‑₹500 ఛార్జ్ చేయండి. 5. స్పాన్సర్‌షిప్ స్టాక్ (ఉదా: “X క్యాఫే అందించే ఫిన్‌ష్ లైన్ స్నాక్”) విక్రయించండి. |
+**5 Fresh & Practical Money‑Making Ideas**  
+*(Each idea is presented in English first, then in Telugu)*  
 
 ---
 
-### Quick Tips to Get Started
+### 1️⃣ Niche “Hyper‑Local” Subscription Boxes  
+**English** – Curate a monthly box that showcases foods, crafts, or utilities *only* from a single town, district, or street‑level market. Think “Taste of Kukatpally” or “Handloom Gems of Mysore.” Customers love exclusive, story‑driven products, and local producers get a new sales channel.  
 
-1. **Validate First** – Run a low‑cost pilot (e.g., one pop‑up booth or a single corporate upcycling workshop) and gather feedback before scaling.  
-2. **Leverage Existing Platforms** – Use affordable SaaS tools (e.g., Notion for client onboarding, Stripe/Paytm for payments) to keep overhead low.  
-3. **Cross‑Promote** – Combine two ideas (e.g., AR treasure hunt + pop‑up experience booth at the final clue location) to boost visibility and earnings.  
-4. **Localize** – Tailor language, cultural references, and pricing to the specific city or community you’re targeting.  
-5. **Document & Replicate** – Once a model works, create a step‑by‑step SOP and sell the “turnkey kit” to other entrepreneurs in different regions.  
+**How to start**  
+1. Pick a micro‑region you know well.  
+2. Scout 5‑8 small producers (spices, sweets, pottery, etc.).  
+3. Design a simple brand (logo + story) and a monthly theme.  
+4. Use a low‑cost fulfillment partner or handle packing yourself.  
+5. Market via local WhatsApp groups, community Facebook pages, and micro‑influencers.  
 
-Feel free to ask for deeper SOPs, budgeting templates, or marketing copy for any of these concepts! 🚀
+**Telugu** – **క్షేత్ర‑స్థాయి సబ్‌స్క్రిప్షన్ బాక్సులు**  
+ఒక ప్రాంత‑సంబంధిత (ఉదాహరణ: “కుకట్‌పల్లి రుచి”, “మైసూరు హ్యాండ్‌లూమ్”) ప్రత్యేక ఉత్పత్తులు, హస్తకళలు, ఆహార వంటకాలు నెలంతా ప్యాక్ చేసి పంపండి.  
+
+**ప్రారంభించే విధానం**  
+1. మీకు బాగా తెలిసిన ఒక ప్రాంతాన్ని ఎంపిక చేసుకోండి.  
+2. 5‑8 చిన్న ఉత్పత్తిదారుల (మసాలు, మిఠాయిలు, పొని వంటివి)ను కనుగొనండి.  
+3. బ్రాండ్, లోగో, నెలవారీ థీమ్ రూపొందించుకుని, బాక్స్‌ను ప్యాక్ చేయండి.  
+4. స్థానిక పంపిణీ సేవ లేదా స్వయంగా ప్యాకింగ్ చేయండి.  
+5. వాట్స్‌ఆప్ గుంపులు, ఫేస్‌బుక్ సమూహాలు, మైక్రో‑ఇన్‌ఫ్లూయెన్సర్ల ద్వారా ప్రకటనలు ఇవ్వండి.  
+
+---
+
+### 2️⃣ VR/AR “Living History” Tours for Schools & Museums  
+**English** – Build short (5‑10 min) immersive VR experiences that transport students to a historic event or archaeological site *as it was*. Sell the experience as a subscription to schools, museums, and tourism boards that lack high‑tech resources.  
+
+**How to start**  
+1. Partner with a local historian or archaeology department.  
+2. Use affordable 360° cameras + Unity/Unreal Engine to recreate scenes.  
+3. Add interactive quizzes and narration in English & regional language.  
+4. Host the tours on a simple web‑portal or an app with a per‑seat license.  
+5. Pitch to educational boards, museums, and heritage hotels.  
+
+**Telugu** – **స్కూల్స్, మ్యూజియమ్స్ కోసం VR/AR “లెవింగ్ హిస్టరీ” టూర్స్**  
+చారిత్రక స్థలాలు, సంఘటనలను 5‑10 నిమిషాల చిన్న VR అనుభవంగా రూపొందించండి; పాఠశాలలు, మ్యూజియమ్లు, పర్యాటక బోర్డులు దీనిని లైసెన్స్ ఆధారంగా కొనుగోలు చేయవచ్చు.  
+
+**ప్రారంభించే విధానం**  
+1. స్థానిక చరిత్రకారుడు, పురావస్తు విభాగంతో భాగస్వామ్యం చేసుకోండి.  
+2. 360° కెమెరా + Unity/Unreal Engine ద్వారా వర్చువల్ సన్నివేశం తయారు చేయండి.  
+3. తెలుగు‑ఇంగ్లీష్‌లో నారేషన్, ఇంటరాక్టివ్ ప్రశ్నలు చేర్చండి.  
+4. వెబ్‌పోర్టల్ లేదా యాప్‌లో సెటింగ్‌ల ద్వారా లైసెన్స్‑ఆధారంగా అందించండి.  
+5. విద్యా సంఘాలు, మ్యూజియమ్లు, హర్యాత్ హోటల్స్‌కు విక్రయించండి.  
+
+---
+
+### 3️⃣ Smart Micro‑Urban Farming Kits (IoT‑Enabled)  
+**English** – Design plug‑and‑play hydroponic or vertical‑garden kits for balconies, rooftops, or tiny patios, equipped with cheap sensors (moisture, light, temperature) that push real‑time care alerts to a phone app. Earn from kit sales **and** a low‑monthly data‑service subscription.  
+
+**How to start**  
+1. Prototype a compact hydroponic tray + Arduino/ESP‑based sensor board.  
+2. Source seeds, organic nutrients, and reusable grow‑media.  
+3. Develop a simple mobile app (or partner with an existing one) for alerts.  
+4. Offer a starter kit (₹2,500‑₹5,000) and a ₹99/month “Plant‑Care” plan.  
+5. Target city‑dwelling millennials, corporate wellness programs, and schools.  
+
+**Telugu** – **స्मార్ట్ మైక్రో‑అర్బన్ ఫార్మింగ్ కిట్స్ (IoT‑సహా)**  
+బాల్కనీ, రూఫ్‌టాప్ లేదా చిన్నతరపు గార్డెనింగ్ కోసం హైడ్రోపోనిక్ లేదా వర్టికల్ గార్డెన్ కిట్లు, నేల‑తేమ, లైట్, ఉష్ణోగ్రత సెన్సార్లు, వాటి ద్వారా మొబైల్ యాప్‌లో రియల్‑టైమ్ అలర్ట్స్ పంపబడతాయి. కిట్ అమ్మకాలు + సబ్స్క్రిప్షన్ ద్వారా సంపాదించండి.  
+
+**ప్రారంభించే విధానం**  
+1. చిన్న హైడ్రోపోనిక్ ట్రే + Arduino/ESP‑యాంబెడెడ్ సెన్సర్ బోర్డు తయారు చేయండి.  
+2. విత్తనాలు, ఆర్గానిక్ పుష్టి, రీయూజబుల్ గ్రో‑మీడియా కొనుగోలు చేయండి.  
+3. అలర్ట్‌ల కోసం సులభ మొబైల్ యాప్ (లేదా ఇప్పటికే ఉన్న యాప్‌తో భాగస్వామ్యం) అభివృద్ధి చేయండి.  
+4. స్టార్టర్ కిట్ (₹2,500‑₹5,000) + నెలకు ₹99 “ప్లాంట్‑케ర్” ప్లాన్ ఇచ్చండి.  
+5. నగరంలో నివసించే యవ్వనులు, కార్పొరేట్ వెల్‌నెస్ ప్రోగ్రామ్స్, పాఠశాలలు లక్ష్యంగా పెట్టుకోండి.  
+
+---
+
+### 4️⃣ Custom AI‑Model Fine‑Tuning Service for Small Businesses  
+**English** – Many small firms want chat‑bots, product‑recommendation engines, or document‑summarizers but lack data‑science talent. Offer a “plug‑and‑play” service where you take the client’s existing data (FAQs, product catalog, past emails) and quickly fine‑tune an open‑source LLM (e.g., Llama 2, Mistral) to their brand voice. Charge a one‑time setup fee + a modest monthly hosting/maintenance fee.  
+
+**How to start**  
+1. Learn the basics of model fine‑tuning (free courses on Hugging Face).  
+2. Build a reusable pipeline (data cleaning → fine‑tune → API endpoint).  
+3. Create sample demos for sectors: boutique retail, local clinics, real‑estate agencies.  
+4. Host models on inexpensive cloud (e.g., Lambda, Fly.io).  
+5. Market via LinkedIn groups, local chambers of commerce, and niche podcasts.  
+
+**Telugu** – **స్మాల్ బిజినెస్ల కోసం కస్టమ్ AI‑మోడల్ ఫైను‑ట్యూనింగ్ సేవ**  
+చిన్న వ్యాపారాలకి చాట్‌బాట్, ఉత్పత్తి‑సూచన లేదా డాక్యుమెంట్‑సారాంశం అవసరం, కానీ AI నైపుణ్యం లేదు. వారి FAQ, ఉత్పత్తి కాటలాగ్, పాత ఇ‑మెయిల్స్‌ను తీసుకుని, ఓపెన్‑సోర్స్ LLM (Llama 2, Mistral)‌ను బ్రాండ్ వొయ్స్‌కు అనుగుణంగా ఫైను‑ట్యూన్ చేసి, API‑ఆధారిత సేవగా అందించండి.  
+
+**ప్రారంభించే విధానం**  
+1. Hugging Face వంటి ఉచిత కోర్సులతో మోడల్ ఫైను‑ట్యూనింగ్ నేర్చుకోండి.  
+2. డేటా క్లీనింగ్ → ఫైను‑ట్యూన్ → API ఎండ్‌పాయింట్‌ వరకు ఒక రియూజబుల్ పైప్‌లైన్ నిర్మించండి.  
+3. బుటిక్ రిటైల్, లోకల్ క్లినిక్స్, రియల్‑ఎస్టేట్ ఏజెన్సీ కోసం నమూనా డెమోలు సృష్టించండి.  
+4. Lambda, Fly.io వంటి లైట్‑వెయిట్ క్లౌడ్ ప్లాట్‌ఫాం‌లో హోస్ట్ చేయండి.  
+5. LinkedIn గ్రూప్‌లు, స్థానిక చేంబర్ల ఆఫ్ కామర్స్, నిచ్ పాడ్‌కాస్ట్‌లు ద్వారా మార్కెట్ చేయండి.  
+
+---
+
+### 5️⃣ Reverse‑Logistics & Up‑cycling Consulting for E‑Waste  
+**English** – Companies that sell electronics (phones, laptops, appliances) face mounting pressure to manage e‑waste responsibly. Offer a consulting package that audits their take‑back flow, sets up collection hubs, and creates up‑cycled product lines (e.g., refurbished phones, art from circuit boards). Earn from consulting fees plus a revenue‑share on any up‑cycled goods sold.  
+
+**How to start**  
+1. Study local e‑waste regulations and certification (e‑Steward, Basel).  
+2. Build a simple audit template (collection points, costs, refurbishing steps).  
+3. Partner with local repair shops or maker‑spaces for refurbishment.  
+4. Design a pilot for a modest client (e.g., a regional phone retailer).  
+5. Show cost‑savings, CSR impact, and new revenue channels; negotiate a %‑share on resale.  
+
+**Telugu** – **రివర్స్‑లాజిస్టిక్స్ & అప్‑సైక్లింగ్ కన్సల్టింగ్ (ఈ‑వేస్ట్)**  
+ఫోన్లు, ల్యాప్‌టాప్‌లు, అప్లయన్సులు వంటి ఎలక్ట్రానిక్స్ కంపెనీలకు ఈ‑వేస్ట్ నిర్వహణ అవసరం. మీరు వారి రిటర్న్‑ఫ్లోని ఆడిట్ చేసి, సేకరణ హబ్బులు ఏర్పాటు చేసి, రీ‑ఫర్బిష్డ్ ఫోన్లు, సర్క్యూట్ బోర్డ్‌ ద్వారా కళాఖండాలు వంటి అప్‑సైక్ల్డ్ ఉత్పత్తులను రూపొందించండి. కన్సల్టింగ్ ఫీజు + అమ్మకాల్లో రివెన్యూ‑షేర్ సంపాదించండి.  
+
+**ప్రారంభించే విధానం**  
+1. స్థానిక e‑వేస్ట్ నియమాలు, e‑Steward, బాసెల్ వంటి సర్టిఫికేషన్‌లు నేర్చుకోండి.  
+2. సేకరణ పాయింట్లు, ఖర్చులు, రీ‑ఫర్బిష్ స్థితి వంటి సింపుల్ ఆడిట్ టెంప్లేట్ రూపొందించండి.  
+3. స్థానిక రిపేర్ షాప్స్ లేదా maker‑spaces‌తో భాగస్వామ్యం చేసి రీ‑ఫర్బిష్ సెటప్ చేసుకోండి.  
+4. చిన్న క్లయింట్ (ఉదా: ప్రాదేశిక ఫోన్ రిటైలర్)కి పైలట్ ప్రారంభించండి.  
+5. ఖర్చు సేవింగ్స్, CSR ప్రభావం, కొత్త రెవెన్యూ ఛానెల్స్ చూపించి, అమ్మకాల్లో %‑షేర్ కోసం ఒప్పందం కుదిర్చండి.  
+
+---  
+
+**Quick Recap (English → Telugu)**  
+
+| # | Idea (English) | Idea (Telugu) |
+|---|----------------|----------------|
+| 1 | Hyper‑local subscription boxes | క్షేత్ర‑స్థాయి సబ్‌స్క్రిప్షన్ బాక్సులు |
+| 2 | VR/AR living‑history tours | స్కూల్స్, మ్యూజియమ్స్ కోసం VR/AR “లెవింగ్ హిస్టరీ” టూర్స్ |
+| 3 | Smart micro‑urban farming kits | స్మార్ట్ మైక్రో‑అర్బన్ ఫార్మింగ్ కిట్స్ (IoT‑సహా) |
+| 4 | Custom AI‑model fine‑tuning for SMBs | స్మాల్ బిజినెస్ల కోసం కస్టమ్ AI‑మోడల్ ఫైను‑ట్యూనింగ్ సేవ |
+| 5 | Reverse‑logistics & up‑cycling for e‑waste | రివర్స్‑లాజిస్టిక్స్ & అప్‑సైక్లింగ్ కన్సల్టింగ్ (ఈ‑వేస్ట్) |
+
+Each concept can be launched with modest upfront cost, leverages growing trends (local‑first, immersive tech, sustainability, AI), and offers clear revenue streams. Pick the one that aligns best with your skills, network, and the market you want to serve, and start building! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-06-17-13-35.md](notes/2026-06-17-13-35.md)
 - [2026-06-17-08-52.md](notes/2026-06-17-08-52.md)
 - [2026-06-17-02-29.md](notes/2026-06-17-02-29.md)
 - [2026-06-16-22-04.md](notes/2026-06-16-22-04.md)
