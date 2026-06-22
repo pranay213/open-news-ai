@@ -5,33 +5,117 @@ Updated every 2 hours 🚀
 ## 🆕 Latest Idea
 
 ## 5 NEW & PRACTICAL MONEY‑MAKING IDEAS  
-*(Each idea is described in English **and** in Telugu)*  
-
-| # | English – Idea Overview | Telugu – ఐడియా సమీక్ష |
-|---|--------------------------|----------------------|
-| **1** | **Pop‑up Skill Labs** – Purchase or lease a small, mobile workshop (e.g., 3‑D printer, CNC mini‑router, soldering station). Turn the van/trailer into a “skill‑lab” that you park in community centers, schools, or coworking spaces for weekend workshops. Charge participants per session or sell a **day‑pass** for unlimited access.  <br><br>**How to start:** <br>1. Identify a niche skill that’s in demand locally (rapid‑prototyping, basic electronics, jewellery‑making). <br>2. Acquire a compact set of tools (many start‑up kits cost $500‑$1500). <br>3. Register the vehicle as a “mobile learning unit” with your municipal authority. <br>4. Partner with local schools or community halls for a weekly slot. <br>5. Promote on local Facebook groups, school newsletters, and Instagram Reels showing “quick builds”. | **పాప్‑అప్ స్కిల్ ల్యాబ్స్** – చిన్న, మొబైల్ వర్క్‌షాప్ (ఉదా: 3‑డి ప్రింటర్, CNC మినీ‑రౌటర్, సాల్డరింగ్ స్టేషన్) కొనండి లేదా లీజ్ తీసుకోండి. దాన్ని వాన్/ట్రైలర్‌లో పెట్టి “స్కిల్‑ల్యాబ్”గా మార్చి, కమ్యూనిటీ సెంటర్స్, పాఠశాలలు, కో‑వర్కింగ్ స్పేస్‌లలో వీకెండ్ వర్క్షాప్‌ల కోసం పార్క్ చేయండి. భాగస్వామ్యానికి ప్రతి సెషన్‌కు లేదా **ఒక రోజు పాస్** కోసం డబ్బు వసూలు చేయండి. <br><br>**ఎలా ప్రారంభించాలి:** <br>1. స్థానికంగా ఎక్కువ డిమాండ్ ఉన్న ఒక నైపుణ్యాన్ని నిర్ణయించండి (రాపిడ్‑ప్రోటోటైపింగ్, బేసిక్ ఎలక్ట్రానిక్స్, జ్యువెలరీ‑మెకింగ్). <br>2. చిన్న టూల్స్ కిట్ (సాధారణంగా $500‑$1500) కొనండి. <br>3. మీ నగర అధికారితో “మొబైల్ లెర్నింగ్ యూనిట్” గా వాహనాన్ని రిజిస్టర్ చేయండి. <br>4. స్థానిక పాఠశాలలు లేదా కమ్యూనిటీ హాల్స్‌తో వారానికి ఒక స్లాట్ కోసం భాగస్వామ్యం చేయండి. <br>5. స్థానిక ఫేస్‌బుక్ గ్రూప్‌లు, పాఠశాల న్యూస్‌లెటర్లు, ఇన్‌స్టాగ్రామ్ రీల్స్‌లో “త్వరిత బిల్డ్స్” చూపించి ప్రచారం చేయండి. |
-| **2** | **Digital Memory Vault** – Offer a service that digitises family heirlooms (old photos, letters, audio tapes) **and** stores them on a tamper‑proof blockchain or decentralized storage (IPFS). Clients get a secure, searchable online “vault” and a physical USB or NFC tag that links to the digital copy.  <br><br>**How to start:** <br>1. Build a small studio with a high‑resolution scanner, audio‑digitising hardware, and a decent computer. <br>2. Learn basic blockchain storage (services like Pinata, NFT.storage). <br>3. Create tiered packages (e.g., “Basic – 100 photos”, “Premium – 500+ items + family tree PDF”). <br>4. Market through elder‑care groups, genealogy societies, and wedding planners. | **డిజిటల్ మెమరీ వాల్ట్** – కుటుంబ వారసత్వ అంశాలు (పాత ఫొటోస్, లేఖలు, ఆడియో టేప్స్) ను డిజిటల్‌లోకి మార్చి, వాటిని ట్యాంపర్‑ప్రూఫ్ బ్లాక్‌చెయిన్ లేదా డీసెంట్రలైజ్డ్ స్టోరేజ్ (IPFS) లో నిల్వ చేసే సేవ. కస్టమర్లు “వాల్ట్” అనే సురక్షిత, శోధన‑అర్హమైన ఆన్‌లైన్ లింక్, అలాగే డిజిటల్ కాపీకి లింక్ చేసే USB లేదా NFC ట్యాగ్ పొందుతారు. <br><br>**ఎలా ప్రారంభించాలి:** <br>1. హై‑రెసల్యూషన్ స్కానర్, ఆడియో‑డిజిటైజింగ్ హార్డ్వేర్, చక్కని కంప్యూటర్‌తో చిన్న స్టూడియో ఏర్పాటు చేయండి. <br>2. బ్లాక్‌చెయిన్ స్టోరేజ్ (Pinata, NFT.storage) గురించి ప్రాథమికంగా నేర్చుకోండి. <br>3. ప్యాకేజీలను రూపొందించండి – “బేసిక్ – 100 ఫొటోస్”, “ప్రీమియం – 500+ ఐటమ్స్ + ఫ్యామిలీ ట్రీ PDF”. <br>4. వృద్ధాప్య‑కేర్ గ్రూప్‌లు, వంశ‑పరిచయ సంస్థలు, వివాహ పోస్టర్లు (వూడింగ్ ప్లానర్లు) ద్వారా మార్కెట్ చేయండి. |
-| **3** | **AI Prompt Marketplace** – Curate high‑quality, ready‑to‑use prompts for popular generative AI tools (ChatGPT, Midjourney, DALL·E, Stable Diffusion). Pack them into themed bundles (e.g., “e‑commerce product copy”, “Instagram carousel captions”, “fantasy concept art”). Sell bundles on a simple Shopify store or Gumroad, and offer a **subscription** that gives monthly new prompt packs.  <br><br>**How to start:** <br>1. Spend a few weeks testing each AI platform and noting which prompt structures produce the best results. <br>2. Write the prompts in clear, repeatable language and add a “usage guide”. <br>3. Build a lightweight site (Shopify, WordPress + WooCommerce) and list bundles at $10‑$30 each. <br>4. Use Reddit’s r/PromptEngineering, Discord AI servers, and LinkedIn to drive traffic. | **AI ప్రాంప్ట్ మార్కెట్‌ప్లేస్** – జనరేటివ్ AI టూల్స్ (ChatGPT, Midjourney, DALL·E, Stable Diffusion)కి ఉపయోగపడే, రెడీ‑టు‑యూజ్ ప్రాంప్ట్‌లను కలిపి అమ్మే పేటీ. వాటిని థీమ్‑బండిల్స్‌లో (ఉదా: “ఈ‑కామర్స్ ప్రోడక్ట్ కాపీ”, “Instagram కారుసెల్ క్యాప్షన్స్”, “ఫాంటసీ కాన్సెప్ట్ ఆర్ట్”) ప్యాక్ చేసి విక్రయించండి. Shopify లేదా Gumroad‌లో సింపుల్ స్టోర్ ఏర్పాటు చేసి, **సబ్‌స్క్రిప్షన్** ద్వారా నెలవారీ కొత్త బండిల్స్ కూడా ఇవ్వండి. <br><br>**ఎలా ప్రారంభించాలి:** <br>1. కొన్ని వారం AI ప్లాట్‌ఫారమ్‌లను పరీక్షించి, ఏ ప్రాంప్ట్ స్ట్రక్చర్లు మంచి ఫలితాలు ఇస్తాయో గమనించండి. <br>2. స్పష్టంగా చదవగలిగే, పునర్వినియోగించగలిగే భాషలో ప్రాంప్ట్‌లు రాసి, “వినియోగ గైడ్” జోడించండి. <br>3. Shopify, WordPress+WooCommerce వంటి తక్కువ ఖర్చు సైట్‌లో $10‑$30 బండిల్స్‌గా లిస్టు చేయండి. <br>4. Reddit r/PromptEngineering, Discord AI గ్రూప్‌లు, LinkedIn ద్వారా ట్రాఫిక్‌ను ఆకర్షించండి. |
-| **4** | **Virtual Plant‑Care Subscription** – Install low‑cost IoT moisture & light sensors on indoor‑plant owners’ pots (the sensors cost $5‑$10 each). Provide a cloud dashboard and a WhatsApp/Telegram bot that sends daily care tips, alerts when watering is needed, and optional “plant‑swap” matchmaking. Charge a **monthly fee** ($4‑$8) per plant or a “family plan” for up to 5 plants.  <br><br>**How to start:** <br>1. Source cheap Wi‑Fi‑enabled sensors (e.g., Xiaomi Mijia). <br>2. Build a simple web dashboard (Google Firebase + React). <br>3. Offer a “starter kit” – sensor, QR‑code manual, and a 2‑week trial. <br>4. Partner with local plant nurseries and cafés to cross‑promote. | **వర్చువల్ ప్లాంట్‑కేర్ సబ్‌స్క్రిప్షన్** – ఇంటి మొక్కల ఓనర్లకు (ప్రతి ప్లాంట్‌కి $5‑$10) తక్కువ‑ఖర్చు IoT మాయిశ్చర్ & లైట్ సెన్సార్లు పెట్టండి. క్లౌడ్ డాష్‌బోర్డ్, WhatsApp/Telegram బాట్ ద్వారా రోజువారీ సంరక్షణ సూచనలు, నీరుపోస్తే అలర్ట్, మరియు “ప్లాంట్‑స్వాప్” మ్యాచ్మేకింగ్ కూడా అందించండి. **మాసిక ఫీజు** (ప్రతి మొక్కకి $4‑$8) లేదా 5 ప్లాంట్స్ వరకు “ఫ్యామిలీ ప్లాన్” పెట్టండి. <br><br>**ఎలా ప్రారంభించాలి:** <br>1. చవక Wi‑Fi‑సెన్సార్లు (Xiaomi Mijia) కొనండి. <br>2. Google Firebase + React తో సింపుల్ వెబ్‑డాష్‌బోర్డ్ రూపొందించండి. <br>3. “స్టార్టర్ కిట్” – సెన్సార్, QR‑కోడ్ మాన్యువల్, 2‑వారాల ట్రయల్ – ఇవ్వండి. <br>4. స్థానిక ప్లాంట్ నర్సరీలు, క్యాఫేలు తో కలసి ప్రమోట్ చేయండి. |
-| **5** | **Localized Language‑Immersion Pods** – Rent out sound‑proof pods (a refurbished shipping container or a small office cubicle) that are pre‑filled with ambient audio, subtitles, and interactive prompts in a target language (Telugu, Hindi, Mandarin, etc.). Users book 30‑minute “immersion slots” for $15‑$25. Offer corporate packages for employee language‑training and weekend “culture‑crash courses”.  <br><br>**How to start:** <br>1. Find a cheap, soft‑modular pod (e.g., used office cubicle, repurposed container). <br>2. Install a tablet, speakers, and a light‑strip that changes colour with the audio. <br>3. License or create short video/audio loops from language‑learning creators. <br>4. List the pod on local event platforms (Eventbrite, Facebook Events) and sell corporate bulk‑booking. | **లొకలైజ్డ్ లాంగ్వేజ్‑ఇమ్మర్షన్ పోడ్స్** – శబ్ద‑నిరోధక పోడ్ (పునర్వినియోగ‑షిప్పింగ్ కంటైనర్ లేదా చిన్న ఆఫీస్ క్యుబికల్) ను లక్ష్య భాష (తెలుగు, హిందీ, మందారిన్, మొదలైనవి) లో అంబియంట్ ఆడియో, సబ్‌టైటిల్‌లు, ఇంటరాక్టివ్ ప్రాంప్ట్‌లతో ముందుగానే నింపండి. వినియోగదారులు 30‑నిమిషాల “ఇమ్మర్షన్” స్లాట్ కోసం $15‑$25 చెల్లిస్తారు. సంస్థల కోసం ఉద్యోగి‑భాష‑శిక్షణ ప్యాకేజీలు, వారాంత “కల్చర్‑క్రాష్ కోర్సెస్” కూడా ఇవ్వండి. <br><br>**ఎలా ప్రారంభించాలి:** <br>1. చౌకైన మృదువైన‑మోడ్యులర్ పోడ్ (ఉపయోగించిన ఆఫీస్ క్యుబికల్, పునర్వినియోగ‑కంటైనర్) కనుగొనండి. <br>2. ఒక టాబ్లెట్, స్పీకర్లు, శబ్దానికి అనుగుణంగా రంగు మారే లైట్‑స్ట్రిప్ ఇన్‌స్టాల్ చేయండి. <br>3. లాంగ్వేజ్‑లెర్నింగ్ క్రియేటర్లు నుంచి చిన్న వీడియో/ఆడియో లూప్‌లను లైసెన్స్ లేదా స్వయంగా సృష్టించండి. <br>4. స్థానిక ఈవెంట్‌ ప్లాట్‌ఫార్మ్‌లు (Eventbrite, Facebook Events) పై పోడ్‌ను లిస్టు చేసి, సంస్థల బల్క్‑బుకింగ్‌లను అమ్మండి. |
+*(Each idea is explained in English first, then in Telugu)*
 
 ---
 
-### Quick Tips to Validate Any Idea
+### 1️⃣ Micro‑Rentals of “Unused‑Space” (e.g., closets, drive‑ways, rooftops)  
+**How it works**  
+- Register on a hyper‑local platform (or create a simple WhatsApp/Telegram group) where neighbors can list tiny pieces of space they rarely use.  
+- Rent them out for short‑term needs: pop‑up stores, food‑truck parking, urban gardening, or storage for delivery services.  
+- Charge a modest fee per hour/day and take a 10‑15 % commission.  
 
-| Step | What to Do | How It Looks in Telugu |
-|------|------------|------------------------|
-| **1** | Interview 10‑15 potential customers (friends, local groups, online forums). | 10‑15 ప్రజలతో (స్నేహితులు, స్థానిక గ్రూపులు, ఆన్‌లైన్ ఫోరమ్‌లు) ఇంటర్వ్యూ చేయండి. |
-| **2** | Build a **MVP** (minimum viable product) that costs <$200 and test it for 2‑4 weeks. | $200 కంటే తక్కువ ఖర్చుతో **MVP** (కనిష్ట యోగ్య ఉత్పత్తి) రూపొందించి, 2‑4 వారాలు పరీక్షించండి. |
-| **3** | Track the **acquisition cost** vs. **first‑month revenue**. Aim for a CAC < 20 % of LTV. | **అక్విజిషన్ ఖర్చు** vs. **మొదటి నెల ఆదాయం** ను ట్రాక్ చేయండి. CAC, LTV‑కి 20 % కంటే తక్కువ ఉండాలి. |
-| **4** | Iterate based on feedback and add one premium feature each month. | ఫీడ్‌బ్యాక్‌ ఆధారంగా మార్పులు చేయండి, నెలకు ఒక ప్రీమియం ఫీచర్ జోడించండి. |
-| **5** | Once you hit $1,000‑$2,000/month consistently, begin scaling (ads, partnerships). | నెలకు $1,000‑$2,000 స్థిరంగా వచ్చేసరికి, విస్తరణ (అడ్‌లు, భాగస్వామ్యాలు) ప్రారంభించండి. |
+**Why it’s fresh** – Most “sharing‑economy” apps focus on cars, homes, or tools. Tiny, hidden spaces are still untapped, especially in dense Indian cities where every square foot is premium.  
 
-Feel free to pick the idea that resonates most with your skills and local market, then follow the steps above to launch quickly. Good luck! 🚀
+**Telugu**  
+**1️⃣ “వినియోగించని స్థలాల తక్కువ‑వాళి Kiraya”**  
+- స్థానిక WhatsApp/Telegram గ్రూప్ లేదా చిన్న యాప్‌లో మీ అల్మార, గ్యారేజ్, డ్రైవ్‌వే, లేదా గూళ్ళ పైకప్పు వంటి వినియోగించని స్థలాలను లిస్టు చేయండి.  
+- పాప్‑అప్ స్టోర్లు, ఫుడ్‑ట్రక్ పార్కింగ్, నగర పంటలు, లేదా డెలివరీ కంపెనీలకు తక్కువకాల నిల్వ వంటి అవసరాలకు అమ్మకం చేయండి.  
+- గంట/రోజుకు కొంచెం ఫీజు తీసుకొని, మీరు 10‑15 % కమిషన్‌కు యూజర్లు చెల్లిస్తారు.  
+
+**లాభం** – భారతీయ నగరాలలో ప్రతి చదరపు అడుగు విలువైనది; ఈ “చిన్న స్థలాలు” ఇప్పటివరకు ఎక్కువగా ఉపయోగించబడలేదు.
+
+---
+
+### 2️⃣ AI‑Powered Personalized Recipe Subscriptions  
+**How it works**  
+- Build a lightweight AI bot (using free APIs like OpenAI’s GPT‑4o or Google Gemini) that learns a subscriber’s dietary restrictions, regional palate, budget, and kitchen equipment.  
+- Every week, the bot sends a 3‑5 dish menu with a grocery list and step‑by‑step video links.  
+- Price the subscription at ₹199–₹499 per month; offer a premium tier with custom meal‑prep videos.  
+
+**Why it’s fresh** – While there are many recipe blogs, a **dynamic, AI‑driven** service that updates weekly based on the user’s real‑time pantry and health data is still rare in India.  
+
+**Telugu**  
+**2️⃣ AI‑ఆధారిత వ్యక్తిగత రెసిపీ సభ్యత్వం**  
+- OpenAI‑GPT‑4o లేదా Google Gemini వంటి ఉచిత APIలను ఉపయోగించి, మీ ఆహార పరిమితులు, బడ్జెట్, వంట సామగ్రి, ప్రాంతీయ రుచి నేర్చుకునే బాట్‌ను తయారు చేయండి.  
+- ప్రతి వారానికి 3‑5 కొత్త వంటకాల మెను, ముడి సామగ్రి జాబితా, స్టెప్‑బై‑స్టెప్ వీడియోల లింక్ పంపండి.  
+- సభ్యత్వ ధర ₹199‑₹499 నెలకు; ఎక్కువ ఫీచర్లతో (కస్టమ్ వీడియోలు) ప్రీమియం టియర్ అందించండి.  
+
+**లాభం** – భారతీయమార్కెట్లో AI‑ఆధారిత, వ్యక్తిగతీకరించిన వంటకాల సేవ ఇప్పటికి మిగతావి లేను.
+
+---
+
+### 3️⃣ Pop‑Up “Experience” Boxes for Festivals & Events  
+**How it works**  
+- Curate compact “experience kits” (e.g., a mini‑diwali lantern‑making set, a Holi‑color‑spa kit, a regional festival snack box).  
+- Partner with local artisans for authentic supplies.  
+- Sell via Instagram reels or local community groups; ship just before the festival date.  
+
+**Why it’s fresh** – Instead of generic gift hampers, you deliver a **hands‑on cultural experience** that people can enjoy at home, tapping into the rising trend of DIY celebrations.  
+
+**Telugu**  
+**3️⃣ పాప్‑అప్ “అనుభవ” బాక్సులు (పండుగలు & ఈవెంట్‌ల కోసం)**  
+- చిన్న డివాలీ లాంతర్ తయారీ కిట్, హోలీ‑కలర్‑స్పా కిట్, లేదా ప్రాంతీయ పండుగల స్నాక్ బాక్స్ వంటి “అనుభవ” ప్యాకేజీలు రూపొందించండి.  
+- స్థానిక కళాకారులతో కలసి అసలైన వస్తువులను పొందండి.  
+- Instagram Reels లేదా స్థానిక కమ్యూనిటీ గ్రూప్‌ల ద్వారా పండుగ సమయంలో ముందుగా పంపండి.  
+
+**లాభం** – సాధారణ గిఫ్ట్లు కాకుండా, ఇంట్లోనే **DIY సంబరాలు** అనుభవించడానికి ప్రత్యేకంగా రూపొందించిన బాక్సులు.
+
+---
+
+### 4️⃣ Urban “Pet‑Fit” Mobile Service (Workout & Grooming on Wheels)  
+**How it works**  
+- Convert a van or auto‑rickshaw into a mini‑gym and grooming station for dogs (and eventually cats).  
+- Offer 30‑minute “pet‑fit” sessions (treadmill, obstacle course, agility drills) + quick grooming (nail trim, brush).  
+- Book via a simple app or phone call; charge ₹350‑₹800 per session.  
+
+**Why it’s fresh** – Pet‑care is booming, yet “pet‑fitness” is barely explored in Indian metros. A mobile service removes the hassle of taking pets to a distant park or salon.  
+
+**Telugu**  
+**4️⃣ అర్బన్ “పెట్‑ఫిట్” మొబైల్ సేవ (వర్కౌట్ & గ్రూమింగ్)**  
+- ఒక వాన్ లేదా ఆటో‑రిక్షను పేట‑జిమ్, గ్రూమింగ్ స్టేషన్‌గా మార్పు చేయండి.  
+- 30‑నిమిషాల “పెట్‑ఫిట్” సెషన్స్ (ట్రెడ్‌మిల్, అజిలిటీ బారియర్) + నఖ-కట్, బ్రష్ వంటి తక్షణ గ్రూమింగ్ అందించండి.  
+- యాప్ లేదా ఫోన్ా ద్వారా బుక్ చేసి, ఒక్క సెషన్‌కు ₹350‑₹800 తీసుకోండి.  
+
+**లాభం** – పెంపుడు జంతు ఆరోగ్యం పెరుగుతుండగా, భారతీయ నగరాల్లో “పెట్‑ఫిట్” సేవ మరింత అవసరంగా ఉంది.
+
+---
+
+### 5️⃣ Corporate “Micro‑Retreat” Planning (1‑hour On‑Site Wellness Pods)  
+**How it works**  
+- Design portable “wellness pods” (a fold‑able hammock, diffuser, ambient light, soft music) that can be set up in any office space for a 45‑minute micro‑retreat.  
+- Offer a subscription to HR departments: weekly rotation of themes (mindfulness, power‑nap, aroma‑therapy).  
+- Charge a flat monthly fee (₹8k‑₹15k) plus a one‑time pod kit price.  
+
+**Why it’s fresh** – Companies invest heavily in employee well‑being, but most programs are digital or full‑day retreats. A **quick, on‑site physical oasis** fits tight schedules and boosts productivity instantly.  
+
+**Telugu**  
+**5️⃣ కార్పొరేట్ “మైక్రో‑రిట్రీట్” ప్లానింగ్ (1‑గంట వెల్‌నెస్ పొడ్స్)**  
+- ఒక ఫోల్డబుల్ హ్యామాక్, డిఫ్యూజర్, మృదువైన లైటింగ్, సౌండ్‌సిస్టమ్ వంటి “వెల్‌నెస్ పోడ్”‌ను డిజైన్ చేసి, ఏ ఆఫీస్‌ స్థలంలోనైనా 45‑నిమిషాల మైక్రో‑రిట్రీట్‌గా ఏర్పాటు చేయండి.  
+- HR‑విభాగాలకు వారాంతపు థీమ్‌లు (మైండ్‌ఫుల్‌నెస్, పవర్‑నాప్, అరొమా‑థెరపీ) ఇవ్వండి.  
+- నెలవారీ స్థిర ధర (₹8,000‑₹15,000) + ఒకసారి పోడ్ సెటప్ ఖర్చు వసూలు చేయండి.  
+
+**లాభం** – ఉద్యోగుల మానసిక‑శారీరక ఆరోగ్యానికి తపన ఉన్న కంపెనీలు, సమయ పరిమితులను పట్టించుకోకుండా **త్వరిత, ఆన్‑సైట్** విశ్రాంతిని కోరుకుంటున్నారు.
+
+---
+
+### QUICK START CHECKLIST (For All 5 IDEAS)
+
+| Step | Common Actions | Tools / Platforms |
+|------|----------------|-------------------|
+| 1️⃣   | Market research (local demand) | Google Trends, Reddit, local FB groups |
+| 2️⃣   | Build a simple landing page | Carrd, Wix, or a one‑page WordPress |
+| 3️⃣   | Set up payment gateway | Razorpay, Stripe, Paytm |
+| 4️⃣   | Pilot with 5‑10 early users (free/discount) | WhatsApp, Telegram, SurveyMonkey |
+| 5️⃣   | Collect feedback & iterate | Google Forms, Notion board |
+| 6️⃣   | Launch & run low‑budget ads | Instagram Reels, local radio, community flyers |
+
+Feel free to pick the one that resonates most with your skills, locality, and passion—each can start with a minimal budget and scale as demand grows. Good luck! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-06-22-02-30.md](notes/2026-06-22-02-30.md)
 - [2026-06-21-22-57.md](notes/2026-06-21-22-57.md)
 - [2026-06-21-21-01.md](notes/2026-06-21-21-01.md)
 - [2026-06-21-19-09.md](notes/2026-06-21-19-09.md)
