@@ -4,31 +4,148 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-**5 NEW Money‑Making Ideas (English + Telugu)**  
+## 5 NEW Money‑Making Ideas  
+*(Each idea is given in English first, then a full Telugu version – title, brief description and quick‑start steps.)*  
 
-| # | Idea (English) | How It Works (Step‑by‑Step) | Revenue Model | Idea (Telugu) | ఎలా పనిచేస్తుంది (దశలవారీ) | ఆదాయ మోడల్ |
-|---|----------------|----------------------------|----------------|--------------|--------------------------|------------|
-| 1 | **Hyper‑Local “Story‑Box” Subscription** – Curate a monthly box of short stories, local legends, and handcrafted goodies (tea, spices, tiny art) that celebrate a specific neighbourhood or village. | 1️⃣ Pick a micro‑geography (a city block, a hill‑top village). <br>2️⃣ Interview elders, collect folklore, write 2‑3‑minute audio‑stories (or QR‑code‑linked PDFs). <br>3️⃣ Source 1‑2 small, locally‑made items that echo the tale (e.g., a spice mix mentioned in the story). <br>4️⃣ Pack & ship 15‑20 units each month to subscribers who love “taste‑of‑home” culture. <br>5️⃣ Use Instagram reels & community groups to get pre‑orders before the first shipment. | • **Subscription fee** – ₹800–₹1 200 / month.<br>• **One‑off “Collector” boxes** (limited‑edition themes) at 1.5× price.<br>• **Cross‑sell** small digital audiobooks for non‑subscribers. | **హైపర్‑లొకల్ “స్టోరీ‑బాక్స్” సబ్‌స్క్రిప్షన్** – నిర్దిష్ట ప్రాంతపు (పట్టణ బ్లాక్, పల్లె) చిన్న కథలు, స్థానిక పురాణాలు, వాటికి సంబంధించిన చేతిపనులు (టీ, మసాలాలు, చిన్న కళ) కలిగిన నెలవారీ బాక్స్. | 1️⃣ ఒక చిన్న ప్రాంతాన్ని ఎంచుకోవడం (ఉదాహరణ: మీ ప్రాంతంలోని ఒక గృహ సముదాయం). <br>2️⃣ పెద్దవారితో ఇంటర్వ్యూ తీసుకుని, ఆ ప్రాంతపు కథలను సేకరించాలి; 2‑3 నిమిషాల ఆడియో‑స్టోరీలు లేదా QR‑కోడ్‑లింక్‌డ్ PDFలు రాసుకోవాలి. <br>3️⃣ కథలో పేర్కొన్న వస్తువు (ఉదాహరణ: ఒక మసాలా) వంటి 1‑2 స్థానిక హస్తకళ వస్తువులను సేకరించండి. <br>4️⃣ ప్రతి నెల 15‑20 బాక్సులను ప్యాక్ చేసి, “ఇంటి రుచిని” ఇష్టపడే సబ్‌స్క్రైబర్లు కు పంపండి. <br>5️⃣ మొదటి షిప్మెంట్‌కు ముందు Instagram reels, గ్రామీణ ఫేస్‌బుక్ గ్రూప్‌లు ద్వారా ముందుగా ఆర్డర్లు తీసుకోండి. | • **సబ్‌స్క్రిప్షన్ ఛార్జ్** – ₹800‑₹1 200 / నెల.<br>• **ఒక్కటేసారి “కలెక్టర్” బాక్స్** – సాధారణ ధర 1.5 వెంటలు ఎక్కువ.<br>• **డిజిటల్ ఆడియోబుక్స్** – సబ్‌స్క్రైబర్ కాకుండా వారికీ అమ్మండి. |
-| 2 | **AI‑Prompt‑Engineering Marketplace for Niche Industries** – Build a platform where experts create, sell, and customize prompts for AI tools (ChatGPT, Midjourney, DALL‑E) tailored to specialized fields such as legal drafting, medical case summaries, or heritage‑site description. | 1️⃣ Identify 5‑7 niche professions with heavy documentation (e.g., patent attorneys, wildlife researchers). <br>2️⃣ Recruit prompt‑engineers (you can start yourself) to design high‑quality prompt templates. <br>3️⃣ Host them on a simple web‑app where buyers can preview output and purchase a prompt pack (+ 1‑hour tweak service). <br>4️⃣ Offer a “subscription bundle” that gives unlimited prompt usage per month for a flat fee. <br>5️⃣ Market via LinkedIn groups and industry newsletters. | • **One‑time prompt pack sale** – $15–$40.<br>• **Custom tweak service** – $30 per hour.<br>• **Monthly bundle** – $80‑$120 for unlimited prompts. | **నిజ‑ప్రయోజన‑AI ప్రాంప్ట్‑ఇంజనీరింగ్ మార్కెట్‌ప్లేస్** – ChatGPT, Midjourney, DALL‑E వంటి AI సాధనాల కోసం, న్యాయ రచన, వైద్య కేస్ సారాంశాలు, చరిత్ర స్మారక స్థల వివరణలు వంటి ప్రత్యేక రంగాలకు అనుగుణంగా ప్రాంప్ట్‌లను రూపొందించే, అమ్మే, అనుకూలీకరించే వేదిక. | 1️⃣ విస్తృత పత్రాలు గల 5‑7 ప్రత్యేక వృత్తులను (ఉదా: పేటెంట్ న్యాయవాదులు, వన్యజీవి పరిశోధకులు) గుర్తించండి. <br>2️⃣ ప్రాంప్ట్‑ఇంజనీర్లను (నువ్వు స్వయంగా కూడా) నియమించుకొని, ప్రమాణిత ప్రాంప్ట్ టెంప్లేట్‌లు రూపొందించండి. <br>3️⃣ ఒక సులభ వెబ్‑యాప్‌లో వాటిని అప్‌లోడ్ చేసి, కొనుగోలు దారులు అవుట్‌పుట్ చూపి, ప్యాక్‌ను కొనుగోలు + 1‑గంట సవరణ సేవ తీసుకోవచ్చు. <br>4️⃣ “సబ్‌స్క్రిప్షన్ బండిల్”ని కూడా ఇవ్వండి – నెలకు ఒక స్థిర ఫీజుకు పరిమితి లేకుండా ప్రాంప్ట్‌లు. <br>5️⃣ LinkedIn గ్రూప్‌లు, పరిశ్రమ న్యూస్‌లెటర్స్ ద్వారా మార్కెటింగ్. | • **ఒక్క‑సారిపై ప్రాంప్ట్ ప్యాక్** – $15‑$40.<br>• **అనుకూల సవరణ సేవ** – $30 / గంట.<br>• **మాసిక బండిల్** – $80‑$120 (అనంత ప్రాంప్ట్‌లు). |
-| 3 | **“Smart‑Sensor Data Rental” for Urban Planners** – Install low‑cost environmental sensors (noise, air‑quality, foot‑traffic) on street‑level kiosks you own; sell the aggregated, anonymized data to municipalities, real‑estate developers, and event organizers. | 1️⃣ Purchase 10‑15 inexpensive Arduino/ESP32‑based sensor kits (PM2.5, dB‑meter, Bluetooth‑beacon). <br>2️⃣ Secure permission from local shop owners to place a small, weather‑proof box on their façade (share a tiny revenue split). <br>3️⃣ Stream data to a cloud dashboard you control. <br>4️⃣ Package data sets (hourly, daily, weekly) with visual analytics. <br>5️⃣ Offer subscriptions to city planners, construction firms, or festival coordinators who need hyper‑local insights. | • **Monthly data‑subscription** – $200 per sensor cluster.<br>• **One‑off custom report** – $500‑$1 000.<br>• **Revenue share** – 10 % of sensor rental fee to shop owners. | **నగర‑ప్రణాళికకి “స్మార్ట్‑సెన్సార్ డేటా రెంట్”** – వీధి‑స్థాయి కియోస్క్‌లపై (noise, గాలి‑నాణ్యత, పాద‑యాత్ర) తక్కువ‑ఖర్చు సెన్సార్లు అమర్చండి; సమీకృత, అనామిక డేటాను नगरपालिका, రియల్‑ఎస్టేట్ డెవలపర్లు, ఈవెంట్ నిర్వాహకులకు అమ్మండి. | 1️⃣ Arduino/ESP32‑ఆధారిత సెన్సార్ కిట్‌లు (PM2.5, డెసిబెల్‑మీటర్, బ్లూటూత్‑బీకాన్) 10‑15 కొనండి. <br>2️⃣ స్థానిక దుకాణ యజమానుల నుండి చిన్న, వాతావరణ‑ప్రూఫ్ బాక్స్‌ను వారి ఫసాడ్‌లో ఉంచడానికి అనుమతి పొందండి (తమకు ఆర్థిక భాగస్వామ్యం ఇవ్వండి). <br>3️⃣ డేటాను మీ క్లౌడ్‑డ్యాష్‌బోర్డ్‌కు పంపించండి. <br>4️⃣ గంట‑వారీ, రోజువారీ, వారపు డేటా సెట్లు + విజువల్ అనలిటిక్స్‌తో ప్యాక్ చేయండి. <br>5️⃣ నగర ప్రణాళికకర్తలు, నిర్మాణ సంస్థలు, ఫెస్టివల్ కోఆర్డినేటర్లకు సబ్‌స్క్రిప్షన్ ఆఫర్ చేయండి. | • **మాసిక డేటా‑సబ్‌స్క్రిప్షన్** – ప్రతి సెన్సార్ క్లస్టర్‌కు $200.<br>• **ఒక్క‑సారి కస్టమ్ నివేదిక** – $500‑$1 000.<br>• **ఆయా షేరింగ్** – సెన్సార్ రెంట్‌లో 10 % దుకాణ యజమానికి. |
-| 4 | **“DIY Heritage‑Craft Kits” for Schools** – Design and manufacture ready‑to‑assemble kits that let students recreate ancient art forms (e.g., Kalamkari prints, Warli murals, stone‑carving miniatures). Include a short video lesson and QR‑linked AR‑experience that shows the finished artwork in a virtual museum. | 1️⃣ Choose 3‑4 regional crafts with simple tools. <br>2️⃣ Partner with local artisans to source authentic raw material (natural dyes, clay). <br>3️⃣ Create step‑by‑step printed guides + QR‑code to a 5‑minute instructional video + AR overlay. <br>4️⃣ Pack kits (materials, guide, QR sticker) in a recyclable box. <br>5️⃣ Sell directly to schools, tuition centres, and parents via an e‑commerce site; offer bulk‑order discounts. | • **Retail price** – $12 per kit. <br>• **Bulk school contract** – $8 per kit (min. 200). <br>• **Add‑on “virtual museum tour” subscription** – $2/month per class. | **పాఠశాలల కోసం “DIY (Do‑It‑Yourself) వారసత్వ‑క్రాఫ్ట్ కిట్లు”** – విద్యార్థులు పురాతన కళా రూపాలను (కలంకరి ముద్రణ, వర్ళీ బొమ్మలు, రాయి శిల్ప చిన్న మోడళ్లు) స్వయంగా తయారు చేసుకోగల సిద్ధ‑కిట్లు రూపొందించండి. చిన్న వీడియో పాఠం, QR‑లింక్‌డ్ AR‑అనుభవం (వర్చువల్ మ్యూజియంలో పూర్తి కావడం) చేర్చండి. | 1️⃣ 3‑4 ప్రాంతీయ క్రాఫ్ట్‌లు (ఉదా: కలంకరి, వర్ళీ, చిన్న రాయి శిల్పం) ఎంపిక చేయండి. <br>2️⃣ స్థానిక హస్తకారులతో కలిసి, నిజమైన పదార్థాలు (సేంద్రీయ బొట్టు, మట్టిని) సేకరించండి. <br>3️⃣ స్టెప్‑బై‑స్టెప్ గైడ్, 5‑నిమిషాల వీడియో, AR‑ఓవర్‌లేకు QR‑కోడ్ రూపొందించండి. <br>4️⃣ పదార్థాలు, గైడ్, QR‑స్టిక్కర్ లతో ప్యాక్ చేసి, రీసైక్లబుల్ బాక్స్‌లో పెట్టండి. <br>5️⃣ ఈ‑కామర్స్ సైట్ ద్వారా నేరుగా పాఠశాలలు, ట్యూషన్ సెంటర్లు, మాతృ‑పితామహులకు విక్రయించండి; పెద్ద‑ఆర్డర్‌కి తగ్గింపు ఇవ్వండి. | • **రిటైల్ ధర** – $12/కిట్. <br>• **పాఠశాల బల్క్ ఒప్పందం** – $8/కిట్ (కనీసం 200). <br>• **“వర్చువల్ మ్యూజియం టూర్” సబ్‌స్క్రిప్షన్** – $2/నెల ప్రతి తరగతి. |
-| 5 | **“Virtual Pop‑Up Experience” for Local Brands** – Create a short‑term, immersive 3‑D showroom that lives only on Instagram/YouTube Live and can be accessed via a unique link. Brands pay you to design a themed virtual space (e.g., a vintage tea‑shop, a rooftop garden) where they showcase products, run live Q&A, and collect leads in real time. | 1️⃣ Learn basic Unity/Blender (or partner with a freelance 3‑D artist). <br>2️⃣ Build a reusable “template” space (e.g., a modern loft). <br>3️⃣ Offer branding packages: background design, product placement, interactive hotspots, live‑chat integration. <br>4️⃣ Promote the pop‑up as “Limited‑time online store – open 48 hrs only”. <br>5️⃣ After the event, deliver the lead list & a short analytics report. | • **Setup fee** – $300 per brand. <br>• **Live‑host assistance** – $50 per hour. <br>• **Lead‑data package** – $0.50 per qualified lead. | **స్థానిక బ్రాండ్ల కోసం “వర్చువల్ పాప్‑అప్ అనుభవం”** – Instagram/YouTube Live పై మాత్రమే ఉందని, యూనిక్ లింక్ ద్వారా యాక్సెస్ చేసే, 3‑డి ఇంటరాక్టివ్ షోరూమ్‌ను తాత్కాలికంగా రూపొందించండి. బ్రాండ్లు థీమ్ (పురాతన టీ‑షాప్, రూఫ్‌టాప్ గార্ডెన్) లో తమ ఉత్పత్తులను చూపించవచ్చు, లైవ్ Q&A నిర్వహించవచ్చు, రియల్‑టైమ్‌లో లీడ్స్‌గాని సేకరించవచ్చు. | 1️⃣ Unity/Blender యొక్క బేసిక్‌లను (లేదా 3‑డి ఆర్టిస్ట్ సహాయాన్ని) నేర్చుకోండి. <br>2️⃣ “మొడర్న్ లాఫ్ట్” వంటి రీయూజ్ చేయగల “టెంప్లేట్” స్పేస్‌ను తయారు చేయండి. <br>3️⃣ బ్రాండింగ్ ప్యాకేజీ ఆఫర్ చేయండి – నేపథ్య డిజైన్, ప్రొడక్ట్‌ప్లేస్మెంట్, ఇంటరాక్టివ్ హాట్‌స్పాట్, లైవ్‑చాట్ ఇంటిగ్రేషన్. <br>4️⃣ “48 గంటల限定 ఆన్‌లైన్ స్టోర్ – ఇప్పుడే ఓపెన్” అని పాప్‑అప్‌ను ప్రమోట్ చేయండి. <br>5️⃣ ఈవెంట్ తర్వాత, లీడ్‌ల లిస్ట్ & సంక్షిప్త అనలిటిక్స్ రిపోర్ట్ ఇవ్వండి. | • **సెటప్ ఫీజు** – $300/బ్రాండ్. <br>• **లైవ్‑హోస్ట్ సహాయం** – $50/గంట. <br>• **లీడ్‑డేటా ప్యాకేజ్** – $0.50 / క్వాలిఫైడ్ లీడ్. |
+---  
 
----
+### 1️⃣ AI Prompt Marketplace for Niche Industries  
+**English** – Build a small “Prompt‑Shop” where you create, test and sell ready‑to‑use prompts for ChatGPT / Midjourney / DALL‑E that solve very specific business problems (e.g., legal‑brief drafting, medical‑coding assistance, real‑estate copy, Instagram‑reel scripts for restaurants). Buyers download a .txt or API key and start using the prompt instantly.  
 
-### How to Get Started Quickly
+**How to start**  
+1. Pick 2‑3 industries you understand or can research quickly.  
+2. Spend a week experimenting with the big LLMs to get high‑accuracy, low‑token prompts.  
+3. Package each prompt with a 1‑page “How‑to‑use” guide and a short demo video.  
+4. List them on Gumroad, Etsy, or a simple WordPress store (price $5‑$30 each).  
+5. Promote via LinkedIn groups, industry forums, and short TikTok/YouTube Shorts showing the result.  
 
-1. **Pick the idea that matches your skill set** (e.g., if you’re tech‑savvy, start with the Sensor Data Rental or Prompt Marketplace).  
-2. **Validate with a pilot** – create a minimum viable product (MVP) for one neighbourhood, one brand, or one school and measure interest before scaling.  
-3. **Leverage local networks** – community WhatsApp groups, LinkedIn regional chapters, and school PTA meetings are gold mines for early customers.  
-4. **Automate the back‑end** – simple Stripe/PayPal checkout, Google Sheets for lead capture, and Zapier/Make.com for notifications keep operations lean.  
-5. **Iterate and expand** – once the first 5–10 customers are happy, replicate the model in adjacent areas or add premium services.
+---  
 
-These five concepts are **fresh, practical, and can be launched with modest upfront cost** while tapping into growing trends: hyper‑local storytelling, AI‑driven productivity, urban‑data economies, heritage‑based education, and immersive digital retail. Happy hustling!
+### 2️⃣ Urban Micro‑Agri Leasing – “Vertical‑Shelf Farming for Neighbourhoods”  
+**English** – Rent a small rooftop, balcony, or unused indoor space and install a modular vertical‑garden kit (hydroponic shelves, LED grow lights, automatic nutrient pump). Grow high‑value micro‑greens, herbs, or exotic mushrooms. Sell weekly “fresh‑pick boxes” to offices, cafes, and health‑conscious families nearby.  
+
+**How to start**  
+1. Locate a 100‑sq‑ft space (your own, a friend’s, or a tiny commercial unit).  
+2. Purchase a starter vertical‑farm kit (≈ $500‑$800).  
+3. Choose a crop with fast turnover: arugula, basil, oyster mushrooms, or wheatgrass (harvest 2‑3 weeks).  
+4. Set a subscription price: ₹1,200‑₹1,800 per week for a 1‑kg mixed box.  
+5. Use WhatsApp Business or a simple Google Form for orders; deliver with a reusable tote.  
+
+---  
+
+### 3️⃣ Pop‑up Memory‑Capsule Events  
+**English** – Create a “Memory‑Box” service: a 1‑hour pop‑up studio (a rented community hall or a decorated corner in a café) where families record personal stories, letters, or video messages that are then compiled into a printed booklet + digital video. Charge per session and sell optional keepsake items (USB drives, engraved boxes).  
+
+**How to start**  
+1. Partner with a local café, co‑working space or community centre for a weekly 2‑hour “slot”.  
+2. Invest in a good‑quality webcam, a lapel mic, and simple lighting (≈ $300 total).  
+3. Design a clean, printable “Memory‑Book” template (photos, transcripts, QR links).  
+4. Advertise on Facebook neighbourhood groups: “Capture grandma’s recipes & stories before they’re lost.”  
+5. Pricing example: ₹3,500 for a 1‑hour session + ₹1,200 for a printed + USB package.  
+
+---  
+
+### 4️⃣ Custom AR Filters for Local Businesses  
+**English** – Design short, brand‑specific Augmented‑Reality (AR) filters for Instagram, Snapchat or TikTok that customers can use while they’re in‑store or sharing a post. Think “Try‑on sunglasses” for an eyewear shop, “Animated cake topping” for a bakery, or “Virtual try‑on jewellery” for a boutique. Sell a package (design + 1‑month support) to the shop.  
+
+**How to start**  
+1. Learn the basics of Spark AR (free) and create 2‑3 demo filters (each 1‑2 minutes video).  
+2. Approach local retailers with a free “sample filter” that features their logo.  
+3. Offer a package: ₹10,000–₹25,000 for one custom filter, plus ₹2,000 per month for updates/analytics.  
+4. Add a “QR‑code poster” in their shop so customers can instantly open the filter.  
+5. Showcase results (increase in user‑generated content) to get referrals.  
+
+---  
+
+### 5️⃣ Digital Legacy & Asset Monetisation Service  
+**English** – Many people have valuable digital assets (stock photos, ebooks, podcasts, YouTube channels, domain names) that sit unused after they stop creating. Offer a “Digital‑Estate Planner” service: organize, catalog, and set up a revenue‑share agreement that collects royalties, ad‑revenue, or sells the assets after the owner passes or retires. Charge a setup fee and take a small percentage of the income you generate.  
+
+**How to start**  
+1. Create a simple audit checklist (social‑media accounts, cloud drives, domain portfolio, NFT collections).  
+2. Offer a free 30‑minute consultation to identify “hidden income streams”.  
+3. Set a fixed onboarding fee (₹8,000‑₹12,000) plus 10‑15 % of any recurring revenue you collect on their behalf.  
+4. Use tools like Google Takeout, Zapier, and royalty‑tracking platforms (e.g., Songtrust for music).  
+5. Market via senior‑community newsletters, estate‑planning lawyers, and LinkedIn “Retiree‑Funding” groups.  
+
+---  
+
+## తెలుగులో 5 కొత్త పద్ధతులు (5 New Money‑Making Ideas in Telugu)  
+
+### 1️⃣ నిష్ ఇండస్ట్రీల కోసం AI ప్రాంప్ట్ మార్కెట్‌ప్లేస్  
+**వివరణ** – చాట్GPT, మిడ్‌జర్నీ, DALL‑E వంటివి ఉపయోగిస్తూ న్యాయ‑బ్రీఫ్ రాయడం, వైద్య‑కోడింగ్ సహాయము, రియల్‑ఎస్టేట్ క్యాప్షన్ మొదలైన ప్రత్యేక వ్యాపార సమస్యలకి సిద్ధ‑ప్రాంప్ట్‌లు సృష్టించండి, అమ్మండి. ప్రతి ప్రాంప్ట్‌కి ఒక గైడ్ + డెమో వీడియో ఇవ్వండి.  
+
+**ఎలా ప్రారంభించాలి**  
+1. 2‑3 ప్రత్యేక రంగులు (ఉదాహరణ: హెల్త్‑కేర్, లీగల్, రిస్ట్­రో) ఎంచుకోండి.  
+2. పెద్ద LLM‌లో పరీక్షలు చేసి, అధిక‑ నాణ్యత ప్రాంప్ట్‌లను తయారు చేయండి.  
+3. .txt లేదా PDF‑లో గైడ్‌తో ప్యాక్ చేసి, Gumroad/ Etsy/ మీ స్వంత వర్డ్‌ప్రెస్ స్టోర్లో ₹200‑₹1,500 ధరకు పెట్టండి.  
+4. లింక్డ్‌ఇన్ గ్రూపులు, ఫోరమ్‌లు, TikTok షార్ట్ వీడియోల ద్వారా ప్రచారం చేయండి.  
+
+---  
+
+### 2️⃣ అర్బన్ మైక్రో‑అగ్రి లీజింగ్ – వర్టికల్ షెల్ఫ్ ఫార్మింగ్  
+**వివరణ** – రూఫ్‌టాప్, బాల్కనీ లేదా ఖాళీ ఇల్లు కోణంలో వర్టికల్‑గార్డెన్ కిట్ (హైడ్రోపోనిక్ షెల్, LED లైట్లు) పెట్టి మైక్రోగ్రీన్స్, హెర్బ్స్ లేదా మష్రూమ్స్ పెంచి, వీక్‌లీ “తాజా బాక్స్‌లు” స్థానిక క్యాఫేలు, ఆఫీస్‌లు, ఆరోగ్య‑సેવకులకు అమ్మండి.  
+
+**ఎలా ప్రారంభించాలి**  
+1. 100 sq ft (≈ 9 sqm) స్థలాన్ని (నిజమే, మీ కుటుంబ సభ్యుని ఓ బాగి లేదా చిన్న కమర్షియల్ యూనిట్) కనుగొనండి.  
+2. ప్రారంభ వర్టికల్‑ఫార్మ్ కిట్ (₹35,000‑₹45,000) కొని పెట్టండి.  
+3. రోజుకు 2‑3 వారాలలో పంట (అరుగులా, బాసిల్, ఓయిస్టర్ మష్రూమ్) వృద్ధి చేయండి.  
+4. వారానికి ఒక బాక్స్ (≈ 1 kg) ధరను ₹1,200‑₹1,800 గా పెట్టండి.  
+5. WhatsApp Business లేదా Google Form ద్వారా ఆర్డర్లు తీసుకుని, పునర్వినియోగ టోట్‌లో పంపండి.  
+
+---  
+
+### 3️⃣ పాప్‑అప్ మెమరీ‑క్యాప్సూల్ ఈవెంట్‌లు  
+**వివరణ** – 1 గంటల స్టూడియో (కమ్యూనిటీ హాల్, కెఫె ఒక కోణం) ఏర్పాటు చేసి, కుటుంబాలు వ్యక్తిగత కథలు, లేఖలు, వీడియో మెసేజ్‌లను రికార్డు చేయించండి. వాటిని ప్రింట్ బుక్ + డిజిటల్ వీడియోగా మార్చి, USB లేదా ఎంగ్రేవ్‌డ్ బాక్స్‌లో ఇవ్వండి.  
+
+**ఎలా ప్రారంభించాలి**  
+1. ఒక స్థానిక కెఫె లేదా కో‑వర్కింగ్ స్పేస్‌తో 2‑గంటల స్లాట్ కోసం ఒప్పందం చేసుకోండి.  
+2. మంచి వెబ్‌క్యామ్, ల్యాపెల్ మైక్, సింపుల్ లైటింగ్ (₹20,000) పెట్టుబడి పెట్టండి.  
+3. ముద్రణ‑బుక్ టెంప్లేట్ (ఫోటోలు, ట్రాన్స్‌క్రిప్ట్, QR‑లింక్) డిజైన్ చేయండి.  
+4. ఫేస్‌బుక్/వాట్సాప్‌లో “బోలే అమ్మమ్మ రహస్య వంటలు, కథలు”లా ప్రచారం చేయండి.  
+5. ధర: 1 గంట + ఎడిటింగ్ ₹3,500, అదనపు బుక్ + USB ఎంపికకు ₹1,200.  
+
+---  
+
+### 4️⃣ స్థానిక వ్యాపారాల కోసం కస్టమ్ AR ఫిల్టర్లు  
+**వివరణ** – Instagram, Snapchat, TikTok కోసం చిన్న AR ఫిల్టర్లు (గ్లాసెస్ ట్రై‑ఆన్, షూట్‑‑లైట్ కేక్, వర్చువల్ జువెల్రీ) రూపొందించండి. వాటిని స్టోర్‌లో QR‑కోడ్ ద్వారా లేదా సోషల్‌లో షేర్ చేసుకోవడానికి ఇవ్వండి.  
+
+**ఎలా ప్రారంభించాలి**  
+1. Spark AR (ఉచితం) నేర్చుకుని 2‑3 డేమో ఫిల్టర్లు తయారు చేసుకోండి.  
+2. స్థానిక రిటైల్‌ స్టోర్లకు ఉచిత “సాంపిల్ ఫిల్టర్” చూపండి.  
+3. ప్రతి కస్టమ్ ఫిల్టర్‌కు ₹10,000‑₹25,000, 1‑మంత ఉంచడానికి నెలకు ₹2,000 ఫీజు ఆఫర్ చేయండి.  
+4. QR‑కోడ్ పోస్టర్లు, స్టోర్‌ లో మీల్దె ఫిల్టర్‌ను స్కాన్ చేసి తక్షణమే ఉపయోగించగలిగేలా చేయండి.  
+5. కస్టమర్‑జెనరేటెడ్ కంటెంట్ (UGC) పెరిగే ఫలితాలు చూపి రిఫరల్స్ పొందండి.  
+
+---  
+
+### 5️⃣ డిజిటల్ లెగసీ & ఆస్తి మోనిటైజేషన్ సేవ  
+**వివరణ** – స్టాక్ ఫోటోలు, ఇ‑బుక్స్, పోడ్‌కాస్ట్‌లు, యുട్యూబ్ ఛానెల్స్, డొమైను మొదలైన విలువైన డిజిటల్ ఆస్తులను ప్రశంసించవలసిన వారికి (వృద్ధులు, రిటైరీ) పూర్తిగా నిర్వహణ, ఆదాయ‑షేరింగ్ సేవలు ఇవ్వండి. మీరు వాటి నుండి రాయల్టీలు, అడ్వర్టైజింగ్ లేదా అమ్మకాలు తీసుకుని, కొంత భాగం మీకు, మిగులు వారికి.  
+
+**ఎలా ప్రారంభించాలి**  
+1. “డిజిటల్ ఎస్టేట్ చెక్‌లిస్ట్” (సోషల్‑మీడియా, క్లౌడ్ డ్రైవ్స్, డోమైన్లు, NFTలు) సిద్ధం చేయండి.  
+2. 30‑నిమిషాల ఉచిత కన్సల్టేషన్ ద్వారా “దాగి ఉన్న ఆదాయ మూలాలు” చూపండి.  
+3. సెటప్ ఫీజు ₹8,000‑₹12,000 + సేకరించిన రెవెన్యూ 10‑15 % అడుగు.  
+4. Google Takeout, Zapier, Songtrust (మ్యూజిక్) వంటి టూల్స్ ఉపయోగించి రాయల్టీలు ట్రాక్ చేయండి.  
+5. సీనియర్ కమ్యూనిటి న్యూస్‌లెటర్లు, ఇన్హెరిటెన్స్ లాయర్లు, LinkedIn “Retiree Funding” గ్రూప్‌ల ద్వారా మార్కెటింగ్ చేయండి.  
+
+---  
+
+**Quick Recap**  
+
+| # | English Idea | Telugu Name |
+|---|--------------|-------------|
+| 1 | AI Prompt Marketplace for Niche Industries | నిష్ ఇండస్ట్రీల AI ప్రాంప్ట్ మార్కెట్ |
+| 2 | Urban Micro‑Agri Leasing – Vertical Shelf Farming | అర్బన్ మైక్రో‑అగ్రి లీజింగ్ |
+| 3 | Pop‑up Memory‑Capsule Events | పాప్‑అప్ మెమరీ క్యాప్సూల్ ఈవెంట్ |
+| 4 | Custom AR Filters for Local Businesses | స్థానిక వ్యాపారాల కోసం కస్టమ్ AR ఫిల్టర్ |
+| 5 | Digital Legacy & Asset Monetisation Service | డిజిటల్ లెగసీ & ఆస్తి మోనిటైజేషన్ సేవ |
+
+Pick any that resonate with your skills, location, or network, and start executing the step‑by‑step plan above. Good luck! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-06-24-22-57.md](notes/2026-06-24-22-57.md)
 - [2026-06-24-21-15.md](notes/2026-06-24-21-15.md)
 - [2026-06-24-19-23.md](notes/2026-06-24-19-23.md)
 - [2026-06-24-16-05.md](notes/2026-06-24-16-05.md)
