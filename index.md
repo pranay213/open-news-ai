@@ -4,147 +4,77 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-## 5 NEW Money‑Making Ideas  
-*(Each idea is given in English first, then a full Telugu version – title, brief description and quick‑start steps.)*  
+**5 Fresh & Practical Money‑Making Ideas**  
+*(Each idea is described in English first, then in Telugu)*  
 
 ---  
 
-### 1️⃣ AI Prompt Marketplace for Niche Industries  
-**English** – Build a small “Prompt‑Shop” where you create, test and sell ready‑to‑use prompts for ChatGPT / Midjourney / DALL‑E that solve very specific business problems (e.g., legal‑brief drafting, medical‑coding assistance, real‑estate copy, Instagram‑reel scripts for restaurants). Buyers download a .txt or API key and start using the prompt instantly.  
+### 1️⃣ Niche **“Community‑Curated” Subscription Boxes  
+**What it is:**  
+Create a subscription box that delivers hyper‑local, community‑voted products (artisan foods, handmade crafts, local‑grown herbs, etc.). Use a simple social‑media poll or a micro‑forum for members to vote on the items for the next box. Your role is to source, package, and ship the curated selection. Because the products are chosen by the community, churn rates stay low and you can charge a premium for the “you‑voted‑it” experience.
 
-**How to start**  
-1. Pick 2‑3 industries you understand or can research quickly.  
-2. Spend a week experimenting with the big LLMs to get high‑accuracy, low‑token prompts.  
-3. Package each prompt with a 1‑page “How‑to‑use” guide and a short demo video.  
-4. List them on Gumroad, Etsy, or a simple WordPress store (price $5‑$30 each).  
-5. Promote via LinkedIn groups, industry forums, and short TikTok/YouTube Shorts showing the result.  
+**తెలుగులో:**  
+**నిష్ “కమ్యూనిటీ‑క్యురేటెడ్” సబ్‌స్క్రిప్షన్ బాక్సులు**  
+ఒక బాక్సులో స్థానిక నిపుణులు, హస్తకళ కారులు, రైతుల ఉత్పత్తులను (ఉదాహరణకు, స్థానిక జామ్, హస్తకళ పనులు, వాటి తురిము పచ్చి పల్పు) తో పంపండి. సభ్యుల పుల్స్/చాట్ గ్రూప్ ద్వారా వార్షికంగా ఏవి బాక్స్‌లో పెట్టాలి అనేది నిర్ణయం తీసుకోండి. మీరు సేకరించడం, ప్యాకింగ్, షిప్పింగ్ చేయండి. సముదాయం ఎంపిక చేసినందున, సభ్యుల చర్న్ రేటు తక్కువగా ఉంటుంది, “మీరు ఎన్నుకున్నది” అనే అదనపు విలువ కోసం ఎక్కువ ధర గుచ్చవచ్చు.  
 
 ---  
 
-### 2️⃣ Urban Micro‑Agri Leasing – “Vertical‑Shelf Farming for Neighbourhoods”  
-**English** – Rent a small rooftop, balcony, or unused indoor space and install a modular vertical‑garden kit (hydroponic shelves, LED grow lights, automatic nutrient pump). Grow high‑value micro‑greens, herbs, or exotic mushrooms. Sell weekly “fresh‑pick boxes” to offices, cafes, and health‑conscious families nearby.  
+### 2️⃣ **VR‑Experience‑Rental for Events & Schools**  
+**What it is:**  
+Set up a portable VR kit (headsets, controllers, a mini‑PC, and a curated library of short, high‑impact experiences – virtual field trips, team‑building simulations, 3D art tours). Rent the kit out to schools, corporate events, birthday parties, or community centers on a per‑hour or per‑day basis. Offer on‑site assistance and a short “how‑to” session. The upfront cost is the hardware; the recurring revenue comes from rentals and optional add‑ons like custom content creation.  
 
-**How to start**  
-1. Locate a 100‑sq‑ft space (your own, a friend’s, or a tiny commercial unit).  
-2. Purchase a starter vertical‑farm kit (≈ $500‑$800).  
-3. Choose a crop with fast turnover: arugula, basil, oyster mushrooms, or wheatgrass (harvest 2‑3 weeks).  
-4. Set a subscription price: ₹1,200‑₹1,800 per week for a 1‑kg mixed box.  
-5. Use WhatsApp Business or a simple Google Form for orders; deliver with a reusable tote.  
+**తెలుగులో:**  
+**విద్యా‑సంస్థలు·ఇవెంట్‌లకు VR‑అనుభవం అద్దె**  
+VR హেড్‌సెట్, కంట్రోలర్, మినీ‑PC, మరియు చిన్న‑చిన్న వర్చువల్‑ఫీల్డ్ ట్రిప్‌లు, టీమ్‑బిల్డింగ్ గేమ్స్, 3D ఆర్ట్ టూర్‌ల వంటి అనుభవాల లైబ్రరీని కలిగి ప్యాక్ చేయండి. ఈ ప్యాకేజీని పాఠశాలలు, కంపెనీ ఇవెంట్‌లు, పుట్టినరోజు పార్టీలు, కమ్యునిటీ హాల్‌లకు గంట‑గంట లేదా రోజు‑రోజు అద్దెకి ఇవ్వండి. సెటప్, సపోర్ట్, “ఎలా వాడాలి” అనే చిన్న ట్యుటోరియల్‌ను కూడా అందించండి. ప్రారంభంలో హార్డ్‌వేర్ ఖర్చు మాత్రమే, అద్దె ద్వారా స్థిర ఆదాయం, అలాగే కస్టమ్ కంటెంట్ సృష్టి ద్వారా అదనపు ఆదాయాన్ని పొందవచ్చు.  
 
 ---  
 
-### 3️⃣ Pop‑up Memory‑Capsule Events  
-**English** – Create a “Memory‑Box” service: a 1‑hour pop‑up studio (a rented community hall or a decorated corner in a café) where families record personal stories, letters, or video messages that are then compiled into a printed booklet + digital video. Charge per session and sell optional keepsake items (USB drives, engraved boxes).  
+### 3️⃣ **AI Prompt‑Engineering Marketplace**  
+**What it is:**  
+Specialize in crafting high‑quality prompts for generative AI tools (ChatGPT, Midjourney, Stable Diffusion, DALL‑E, etc.). Build a lightweight marketplace where businesses can purchase ready‑made prompt packs for specific use‑cases (e‑commerce product descriptions, marketing copy, logo concepts, social‑media graphics). Offer a “custom prompt” service for a higher fee. As AI usage spreads, the demand for expertly engineered prompts is exploding – a skill‑based, low‑overhead business.  
 
-**How to start**  
-1. Partner with a local café, co‑working space or community centre for a weekly 2‑hour “slot”.  
-2. Invest in a good‑quality webcam, a lapel mic, and simple lighting (≈ $300 total).  
-3. Design a clean, printable “Memory‑Book” template (photos, transcripts, QR links).  
-4. Advertise on Facebook neighbourhood groups: “Capture grandma’s recipes & stories before they’re lost.”  
-5. Pricing example: ₹3,500 for a 1‑hour session + ₹1,200 for a printed + USB package.  
+**తెలుగులో:**  
+**AI‑ప్రాంప్ట్‑ఇంజనీరింగ్ మార్కెట్‌ప్లేస్**  
+ChatGPT, Midjourney, Stable Diffusion, DALL‑E వంటి జనరేట్‑యు‑AI టూల్స్ కోసం నాణ్యత‑గల ప్రాంప్ట్‌లను తయారు చేయండి. ఒక సులభమైన ప్లాట్‌ఫాం రూపొందించండి, అక్కడ వ్యాపారాలు “ఉత్పత్తి వివరణలు”, “మార్కెటింగ్ కాపీ”, “లోగో కాన్సెప్ట్”, “సోషియల్‑మీడియా గ్రాఫిక్” వంటి నిర్దిష్ట అవసరాల కోసం ప్రాంప్ట్ ప్యాకేజీలు కొనుగోలు చేయగలవు. ప్రత్యేక‑అనుకూల ప్రాంప్ట్‌లకు అదనపు ఫీ సేవను కూడా అందించండి. AI విస్తరిస్తున్న కొద్దీ ప్రొఫెషనల్‑లెవల్ ప్రాంప్ట్‌లకు డిమాండ్ పెరుగుతుంది – ఇది నైపుణ్య‑ఆధారిత, తక్కువ మూలధన వ్యాపారం.  
 
 ---  
 
-### 4️⃣ Custom AR Filters for Local Businesses  
-**English** – Design short, brand‑specific Augmented‑Reality (AR) filters for Instagram, Snapchat or TikTok that customers can use while they’re in‑store or sharing a post. Think “Try‑on sunglasses” for an eyewear shop, “Animated cake topping” for a bakery, or “Virtual try‑on jewellery” for a boutique. Sell a package (design + 1‑month support) to the shop.  
+### 4️⃣ **Urban Rooftop Micro‑Farming as a Service**  
+**What it is:**  
+Partner with apartment complexes, hotels, or office buildings to convert unused rooftop space into modular, hydroponic micro‑farms. Install stackable grow‑units that produce leafy greens, herbs, or micro‑greens. Charge a subscription fee to the building’s tenants for fresh weekly harvests, and handle all maintenance, pest‑control, and harvesting. You earn from the subscription plus any surplus sold to local restaurants or farmer’s markets.  
 
-**How to start**  
-1. Learn the basics of Spark AR (free) and create 2‑3 demo filters (each 1‑2 minutes video).  
-2. Approach local retailers with a free “sample filter” that features their logo.  
-3. Offer a package: ₹10,000–₹25,000 for one custom filter, plus ₹2,000 per month for updates/analytics.  
-4. Add a “QR‑code poster” in their shop so customers can instantly open the filter.  
-5. Showcase results (increase in user‑generated content) to get referrals.  
+**తెలుగులో:**  
+**నగర‑రోఫ్‌టాప్ మైక్రో‑ఫార్మింగ్ సేవ**  
+అప్పార్ట్మెంట్‌ల, హోటళ్ల, ఆఫీస్ బిల్డింగ్‌ల వాడని రూఫ్‌ టాప్స్‌ను మాడ్యులర్ హైడ్రోపోనిక్‌ వ్యవస్థలుగా మార్చండి. స్టాకబుల్ యూనిట్లలో లీఫీ గ్రీన్లు, గార్డెన్స్, మైక్రో‑గ్రీన్స్‌ను తినవచ్చు. భవన నివాసితులకు వారానికి ఒక బహారట్లు ఇచ్చే సబ్‌స్క్రిప్షన్‌ ఛార్జ్ తీసుకుని, పర్యవేక్షణ, పెస్టు‑కంట్రోల్, స్టేక్ హార్వెస్టింగ్‌ను అన్ని మీరే చేయండి. అదనంగా మిగిలిన రైతు ఉత్పత్తిని స్థానిక రెస్టారెంట్‌లు లేదా ఫార్మర్ మార్కెట్‌లకు కూడా అమ్మి ఆదాయాన్ని పెంచుకోండి.  
 
 ---  
 
-### 5️⃣ Digital Legacy & Asset Monetisation Service  
-**English** – Many people have valuable digital assets (stock photos, ebooks, podcasts, YouTube channels, domain names) that sit unused after they stop creating. Offer a “Digital‑Estate Planner” service: organize, catalog, and set up a revenue‑share agreement that collects royalties, ad‑revenue, or sells the assets after the owner passes or retires. Charge a setup fee and take a small percentage of the income you generate.  
+### 5️⃣ **Digital Asset Licensing for AR Filters & Stickers**  
+**What it is:**  
+Design a library of high‑quality AR (Augmented Reality) filters, stickers, and 3D animations that can be used on platforms like Instagram, Snapchat, TikTok, and even live‑event projection screens. License these assets on a per‑use or subscription basis to influencers, brands, and event organizers. Provide a simple integration kit (API or QR‑code) so clients can instantly apply the assets in their campaigns. With the surge of short‑form video content, ready‑to‑use AR assets are in high demand.  
 
-**How to start**  
-1. Create a simple audit checklist (social‑media accounts, cloud drives, domain portfolio, NFT collections).  
-2. Offer a free 30‑minute consultation to identify “hidden income streams”.  
-3. Set a fixed onboarding fee (₹8,000‑₹12,000) plus 10‑15 % of any recurring revenue you collect on their behalf.  
-4. Use tools like Google Takeout, Zapier, and royalty‑tracking platforms (e.g., Songtrust for music).  
-5. Market via senior‑community newsletters, estate‑planning lawyers, and LinkedIn “Retiree‑Funding” groups.  
+**తెలుగులో:**  
+**AR ఫిల్టర్లు‑స్టికర్లు కోసం డిజిటల్‑ఆస్తి లైసెన్సింగ్**  
+Instagram, Snapchat, TikTok, లైవ్‑ఈవెంట్ ప్రొజెక్షన్ స్క్రీన్‌లకు ఉపయోగించగల AR ఫిల్టర్లు, స్టికర్లు, 3D అనిమేషన్ల  లైబ్రరీని రూపొందించండి. ఇన్ఫ్లుఎన్సర్లు, బ్రాండ్లు, ఈవెంట్ ప్లానర్లు యూజ్‑పై‑బేస్ లేదా సబ్‌స్క్రిప్షన్‑బేస్ లైసెన్స్ కొనుగోలు చేసుకోవచ్చు. సులభమైన ఇంటిగ్రేషన్ (API / QR‑కోడ్) అందించి, వారు తమ క్యాంపెయిన్లో వెంటనే ఉపయోగించగలరు. షార్ట్‑ఫార్మ్ వీడియో కంటెంట్ పెరుగుతున్నందున, సిద్ధ‑అవటువంటి AR ఆస్తుల డిమాండ్ కూడా వేగంగా పెరిగింది.  
 
 ---  
 
-## తెలుగులో 5 కొత్త పద్ధతులు (5 New Money‑Making Ideas in Telugu)  
+**How to Get Started Quickly**
 
-### 1️⃣ నిష్ ఇండస్ట్రీల కోసం AI ప్రాంప్ట్ మార్కెట్‌ప్లేస్  
-**వివరణ** – చాట్GPT, మిడ్‌జర్నీ, DALL‑E వంటివి ఉపయోగిస్తూ న్యాయ‑బ్రీఫ్ రాయడం, వైద్య‑కోడింగ్ సహాయము, రియల్‑ఎస్టేట్ క్యాప్షన్ మొదలైన ప్రత్యేక వ్యాపార సమస్యలకి సిద్ధ‑ప్రాంప్ట్‌లు సృష్టించండి, అమ్మండి. ప్రతి ప్రాంప్ట్‌కి ఒక గైడ్ + డెమో వీడియో ఇవ్వండి.  
+| Idea | First‑Step Action (1‑Week) |
+|------|----------------------------|
+| Community Boxes | Create a simple Google Form poll for a local Facebook group and order a small batch of 20‑30 items for a pilot box. |
+| VR Rental | Purchase a budget‑friendly VR set (e.g., Meta Quest 2 + mini‑PC) and film a 2‑minute demo video for Instagram. |
+| Prompt Marketplace | Write 10 ready‑made prompts for “Product Descriptions” and list them on Gumroad or a personal site. |
+| Rooftop Farming | Approach a nearby café with a 200‑sq‑ft roof, present a one‑page proposal with cost‑share model, and secure a trial spot. |
+| AR Asset Licensing | Use free tools like Spark AR Studio to create one filter, publish it, and reach out to 5 micro‑influencers for a test‑license. |
 
-**ఎలా ప్రారంభించాలి**  
-1. 2‑3 ప్రత్యేక రంగులు (ఉదాహరణ: హెల్త్‑కేర్, లీగల్, రిస్ట్­రో) ఎంచుకోండి.  
-2. పెద్ద LLM‌లో పరీక్షలు చేసి, అధిక‑ నాణ్యత ప్రాంప్ట్‌లను తయారు చేయండి.  
-3. .txt లేదా PDF‑లో గైడ్‌తో ప్యాక్ చేసి, Gumroad/ Etsy/ మీ స్వంత వర్డ్‌ప్రెస్ స్టోర్లో ₹200‑₹1,500 ధరకు పెట్టండి.  
-4. లింక్డ్‌ఇన్ గ్రూపులు, ఫోరమ్‌లు, TikTok షార్ట్ వీడియోల ద్వారా ప్రచారం చేయండి.  
-
----  
-
-### 2️⃣ అర్బన్ మైక్రో‑అగ్రి లీజింగ్ – వర్టికల్ షెల్ఫ్ ఫార్మింగ్  
-**వివరణ** – రూఫ్‌టాప్, బాల్కనీ లేదా ఖాళీ ఇల్లు కోణంలో వర్టికల్‑గార్డెన్ కిట్ (హైడ్రోపోనిక్ షెల్, LED లైట్లు) పెట్టి మైక్రోగ్రీన్స్, హెర్బ్స్ లేదా మష్రూమ్స్ పెంచి, వీక్‌లీ “తాజా బాక్స్‌లు” స్థానిక క్యాఫేలు, ఆఫీస్‌లు, ఆరోగ్య‑సેવకులకు అమ్మండి.  
-
-**ఎలా ప్రారంభించాలి**  
-1. 100 sq ft (≈ 9 sqm) స్థలాన్ని (నిజమే, మీ కుటుంబ సభ్యుని ఓ బాగి లేదా చిన్న కమర్షియల్ యూనిట్) కనుగొనండి.  
-2. ప్రారంభ వర్టికల్‑ఫార్మ్ కిట్ (₹35,000‑₹45,000) కొని పెట్టండి.  
-3. రోజుకు 2‑3 వారాలలో పంట (అరుగులా, బాసిల్, ఓయిస్టర్ మష్రూమ్) వృద్ధి చేయండి.  
-4. వారానికి ఒక బాక్స్ (≈ 1 kg) ధరను ₹1,200‑₹1,800 గా పెట్టండి.  
-5. WhatsApp Business లేదా Google Form ద్వారా ఆర్డర్లు తీసుకుని, పునర్వినియోగ టోట్‌లో పంపండి.  
-
----  
-
-### 3️⃣ పాప్‑అప్ మెమరీ‑క్యాప్సూల్ ఈవెంట్‌లు  
-**వివరణ** – 1 గంటల స్టూడియో (కమ్యూనిటీ హాల్, కెఫె ఒక కోణం) ఏర్పాటు చేసి, కుటుంబాలు వ్యక్తిగత కథలు, లేఖలు, వీడియో మెసేజ్‌లను రికార్డు చేయించండి. వాటిని ప్రింట్ బుక్ + డిజిటల్ వీడియోగా మార్చి, USB లేదా ఎంగ్రేవ్‌డ్ బాక్స్‌లో ఇవ్వండి.  
-
-**ఎలా ప్రారంభించాలి**  
-1. ఒక స్థానిక కెఫె లేదా కో‑వర్కింగ్ స్పేస్‌తో 2‑గంటల స్లాట్ కోసం ఒప్పందం చేసుకోండి.  
-2. మంచి వెబ్‌క్యామ్, ల్యాపెల్ మైక్, సింపుల్ లైటింగ్ (₹20,000) పెట్టుబడి పెట్టండి.  
-3. ముద్రణ‑బుక్ టెంప్లేట్ (ఫోటోలు, ట్రాన్స్‌క్రిప్ట్, QR‑లింక్) డిజైన్ చేయండి.  
-4. ఫేస్‌బుక్/వాట్సాప్‌లో “బోలే అమ్మమ్మ రహస్య వంటలు, కథలు”లా ప్రచారం చేయండి.  
-5. ధర: 1 గంట + ఎడిటింగ్ ₹3,500, అదనపు బుక్ + USB ఎంపికకు ₹1,200.  
-
----  
-
-### 4️⃣ స్థానిక వ్యాపారాల కోసం కస్టమ్ AR ఫిల్టర్లు  
-**వివరణ** – Instagram, Snapchat, TikTok కోసం చిన్న AR ఫిల్టర్లు (గ్లాసెస్ ట్రై‑ఆన్, షూట్‑‑లైట్ కేక్, వర్చువల్ జువెల్రీ) రూపొందించండి. వాటిని స్టోర్‌లో QR‑కోడ్ ద్వారా లేదా సోషల్‌లో షేర్ చేసుకోవడానికి ఇవ్వండి.  
-
-**ఎలా ప్రారంభించాలి**  
-1. Spark AR (ఉచితం) నేర్చుకుని 2‑3 డేమో ఫిల్టర్లు తయారు చేసుకోండి.  
-2. స్థానిక రిటైల్‌ స్టోర్లకు ఉచిత “సాంపిల్ ఫిల్టర్” చూపండి.  
-3. ప్రతి కస్టమ్ ఫిల్టర్‌కు ₹10,000‑₹25,000, 1‑మంత ఉంచడానికి నెలకు ₹2,000 ఫీజు ఆఫర్ చేయండి.  
-4. QR‑కోడ్ పోస్టర్లు, స్టోర్‌ లో మీల్దె ఫిల్టర్‌ను స్కాన్ చేసి తక్షణమే ఉపయోగించగలిగేలా చేయండి.  
-5. కస్టమర్‑జెనరేటెడ్ కంటెంట్ (UGC) పెరిగే ఫలితాలు చూపి రిఫరల్స్ పొందండి.  
-
----  
-
-### 5️⃣ డిజిటల్ లెగసీ & ఆస్తి మోనిటైజేషన్ సేవ  
-**వివరణ** – స్టాక్ ఫోటోలు, ఇ‑బుక్స్, పోడ్‌కాస్ట్‌లు, యുട్యూబ్ ఛానెల్స్, డొమైను మొదలైన విలువైన డిజిటల్ ఆస్తులను ప్రశంసించవలసిన వారికి (వృద్ధులు, రిటైరీ) పూర్తిగా నిర్వహణ, ఆదాయ‑షేరింగ్ సేవలు ఇవ్వండి. మీరు వాటి నుండి రాయల్టీలు, అడ్వర్టైజింగ్ లేదా అమ్మకాలు తీసుకుని, కొంత భాగం మీకు, మిగులు వారికి.  
-
-**ఎలా ప్రారంభించాలి**  
-1. “డిజిటల్ ఎస్టేట్ చెక్‌లిస్ట్” (సోషల్‑మీడియా, క్లౌడ్ డ్రైవ్స్, డోమైన్లు, NFTలు) సిద్ధం చేయండి.  
-2. 30‑నిమిషాల ఉచిత కన్సల్టేషన్ ద్వారా “దాగి ఉన్న ఆదాయ మూలాలు” చూపండి.  
-3. సెటప్ ఫీజు ₹8,000‑₹12,000 + సేకరించిన రెవెన్యూ 10‑15 % అడుగు.  
-4. Google Takeout, Zapier, Songtrust (మ్యూజిక్) వంటి టూల్స్ ఉపయోగించి రాయల్టీలు ట్రాక్ చేయండి.  
-5. సీనియర్ కమ్యూనిటి న్యూస్‌లెటర్లు, ఇన్హెరిటెన్స్ లాయర్లు, LinkedIn “Retiree Funding” గ్రూప్‌ల ద్వారా మార్కెటింగ్ చేయండి.  
-
----  
-
-**Quick Recap**  
-
-| # | English Idea | Telugu Name |
-|---|--------------|-------------|
-| 1 | AI Prompt Marketplace for Niche Industries | నిష్ ఇండస్ట్రీల AI ప్రాంప్ట్ మార్కెట్ |
-| 2 | Urban Micro‑Agri Leasing – Vertical Shelf Farming | అర్బన్ మైక్రో‑అగ్రి లీజింగ్ |
-| 3 | Pop‑up Memory‑Capsule Events | పాప్‑అప్ మెమరీ క్యాప్సూల్ ఈవెంట్ |
-| 4 | Custom AR Filters for Local Businesses | స్థానిక వ్యాపారాల కోసం కస్టమ్ AR ఫిల్టర్ |
-| 5 | Digital Legacy & Asset Monetisation Service | డిజిటల్ లెగసీ & ఆస్తి మోనిటైజేషన్ సేవ |
-
-Pick any that resonate with your skills, location, or network, and start executing the step‑by‑step plan above. Good luck! 🚀
+Pick the one that aligns best with your skills, local resources, and passion—each can be launched with minimal upfront cost and scaled as demand grows. Good luck!
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-06-25-02-00.md](notes/2026-06-25-02-00.md)
 - [2026-06-24-22-57.md](notes/2026-06-24-22-57.md)
 - [2026-06-24-21-15.md](notes/2026-06-24-21-15.md)
 - [2026-06-24-19-23.md](notes/2026-06-24-19-23.md)
