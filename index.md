@@ -4,31 +4,173 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-## 5 NEW & PRACTICAL MONEY‑MAKING IDEAS  
-*(English + తెలుగు)*  
+**5 NEW & PRACTICAL MONEY‑MAKING IDEAS**  
+*(English + Telugu)*  
 
-| # | Idea (English) | How It Works (English) | Idea (తెలుగు) | ఎలా పని చేస్తుంది (తెలుగు) |
-|---|----------------|------------------------|----------------|---------------------------|
-| 1 | **Micro‑Garden‑in‑a‑Box for City Apartments** | Design and sell ready‑to‑plant “box kits” (soil, seeds, LED grow‑light, instructions) for herbs, micro‑greens, or dwarf vegetables. Offer a **subscription** for refills and seasonal varieties. Target busy professionals, restaurants with limited kitchen space, and schools that want a hands‑on science project. | **నగర అపార్ట్మెంట్‌ల కోసం “మైక్రో‑గార్డెన్‑ఇన్‑అ‑బాక్స్”** | సిద్ధంగా ఉన్న “బాక్స్ కిట్‌లు” (మట్టి, విత్తనాలు, LED లైట్లు, స్టెప్పు‑బై‑స్టెప్పు మాన్యువల్) అమ్మండి. హర్బ్స్, మైక్రో‑గ్రీన్స్ లేదా చిన్న కూరగాయల కోసం. **సబ్‌స్క్రిప్షన్** ద్వారా రీఫిల్‌లు, సీజనల్ వేరియంట్స్ అందించండి. బిజీ ప్రొఫెషనల్స్, చిన్న టేబుల్‑టాప్యులర్ రెస్టారంట్లు, స్కూల్స్‌కి వాస్తవ‑ప్రయోగ ప్యాకేజీ. |
-| 2 | **AI Prompt‑Engineering Workshops for Non‑Tech Professionals** | Build short (2‑hour) live workshops that teach teachers, marketers, or salespeople how to craft effective prompts for popular AI tools (ChatGPT, Midjourney, DALL‑E). Charge per seat and later sell recorded versions as a recurring micro‑course. Companies are paying premium for up‑skilling staff in AI usage. | **AI ప్రాంప్ట్‑ఎంజినీరింగ్ వర్క్‌షాప్‌లు** | 2‑గంటల లైవ్ వర్క్‌షాప్‌లు రూపొందించండి; ఇందులో ఉపాధ్యాయులు, మార్కెటర్లు, సేల్స్‌పీపుల్‌కి ChatGPT, Midjourney, DALL‑E వంటి AI టూల్స్‌కి బాగు ప్రాంప్ట్‌లను ఎలా తయారుచేయాలో నేర్పించండి. ప్రతి సిట్‌కి ఫీజు వసూలు చేసి, తర్వాత రికార్డు చేయబడిన వెర్షన్‌ను మైక్రో‑కోర్స్‌గా అమ్మండి. కార్పొరేట్స్‌కి AI‑స్కిల్స్‌ పెంచడంలో బడ్జెట్ చాలా ఉంది. |
-| 3 | **Virtual‑Reality (VR) Heritage Tours for Diaspora Communities** | Partner with local museums or historical societies to digitize heritage sites (temples, forts, villages) in 3‑D. Offer a **pay‑per‑view** or monthly VR‑access subscription aimed at people living abroad who want to “visit” their hometowns with immersive narration in their native language. | **వర్చువ‌ల్ రియాలిటీ (VR) హెరిటేజ్ టూర్లు** | స్థానిక మ్యూజియమ్స్, చారిత్రక సంస్థలతో కలిసి దేవాలయాలు, కోటలు, గ్రామాలు వంటి స్థానిక సంపదను 3‑డి గా మార్చండి. వాహన‑వీక్షణ (pay‑per‑view) లేదా నెలవారీ సబ్‌స్క్రిప్షన్ ద్వారా విదేశాలలో నివసిస్తున్న వారి స్వస్థలాన్ని “విజిట్” చేయండి, స్థానిక భాషలో గైడెడ్ నారేషన్‌తో. |
-| 4 | **Zero‑Waste Upcycled Home‑Decor Studio** | Collect discarded materials (glass bottles, pallets, old vinyl records, fabric scraps) from neighborhoods and transform them into stylish home‑decor items (lamps, wall‑art, rugs). Sell via pop‑up stalls, local boutiques, or a small e‑commerce site that emphasizes **eco‑storytelling** (each product’s origin shown). Offer custom orders for corporate gifting. | **జీరో‑వేస్ట్ అప్‌సైక్ల్డ్ హోమ్‑డెకో స్టూడియో** | పక్కన పారేయబడిన గ్లాస్ బాటిల్లు, ప్యాలెట్స్, విన్‌యిల్ రికార్డ్స్, ఫాబ్రిక్ స్క్రాప్స్‌ను సేకరించి, లాంప్లు, వాల్‑ఆర్ట్, రగ్గులు వంటి స్టైలిష్ హోమ్‑డెకోగా మార్చండి. పాప్‑అప్ స్టాళ్లలో, స్థానిక బుటిక్‌లలో, లేదా చిన్న ఈ‑కామర్స్ ద్వారా **ఇకో‑స్టోరీటెల్లింగ్**తో (ఉత్పత్తి మూలం చూపించండి) అమ్మండి. కంపెనీలు బోనస్‌ కోసం కస్టమ్ గిఫ్ట్స్ కూడా ఇవ్వవచ్చు. |
-| 5 | **Localized Hyper‑Local Subscription Boxes for “Neighborhood Pride”** | Curate a monthly box that celebrates a specific neighborhood’s culture: local snacks, handmade crafts, mini‑history booklets, QR‑codes linking to oral‑history videos, and a “challenge card” (e.g., visit a hidden mural). Charge a modest subscription and partner with local micro‑manufacturers, cafés, and cultural NGOs. The model can be replicated city‑wide. | **స్థానిక “పట్టణ గర్వం” సబ్‌స్క్రిప్షన్ బాక్సులు** | ప్రతి పక్కవారి సంస్కృతి, స్థానిక స్నాక్స్, హస్తకళా ఉత్పత్తులు, చిన్న చరిత్ర బుక్లెట్, QR‑కోడ్ ద్వారా మూల‑వాయిస్ వీడియోలు, “చాలెంజ్ కార్డ్” (ఉదా: ఒక గుప్త మురలె)లను కలిగిన నెలసరి బాక్స్‌ను రూపొందించండి. చిన్న చందా వసూలు చేసి, స్థానిక చిన్న‑ఉత్పత్తిదార్లు, క్యాఫేలు, సాంస్కృతిక NGOs తో భాగస్వామ్యం చేయండి. ఈ మోడల్‌న్ని నగరమంతా అమలు చేయవచ్చు. |
+---  
 
----
+### 1️⃣ NFC‑Powered “Pop‑Up Heritage Tours”  
+**What it is:**  
+Install low‑cost NFC stickers at historic sites, temples, or hidden‑gem locales. Visitors tap their phone, instantly streaming a professionally‑narrated, multilingual audio‑visual tour (history, myths, local legends). Sell a one‑time access fee or a subscription for unlimited tours across a city/region.  
 
-### Quick Tips for Getting Started
-1. **Validate First** – Run a 2‑week pilot with a tiny batch (10–20 units or 5‑10 workshop seats) and collect feedback before scaling.  
-2. **Leverage Community** – Use local WhatsApp/Telegram groups, community centers, or school newsletters to spread the word fast and cheap.  
-3. **Show the Story** – Whether it’s an upcycled lamp or a VR heritage tour, customers love to know *where* the product came from and *why* it matters.  
-4. **Automate Repeat Orders** – For subscription ideas, set up a simple Stripe/PayPal recurring payment and an email reminder system (Mailchimp, ConvertKit).  
-5. **Document Everything** – Record processes (e.g., how to pack a micro‑garden box) so you can train helpers or eventually hand over the business.
+**How to start:**  
+1. Research 5‑10 under‑touristed cultural spots.  
+2. Record short (2‑4 min) high‑quality audio/video clips (you can hire local storytellers).  
+3. Use a platform like **Ubique** or **TapTag** to host the content and generate QR/NFC tags.  
+4. Partner with local tourism boards or small hotels for cross‑promotion.  
+5. Collect payments via Stripe/PayPal or a QR‑code‑based wallet.  
 
-These five concepts are designed to be **hands‑on, low‑to‑moderate upfront cost, and adaptable to any city or town**—perfect for turning a creative spark into a steady income stream. Happy launching! 🚀
+**Potential earnings:** ₹2,000‑₹5,000 per tour per month (₹500‑₹1,000 per 100 scans). Scale by adding more locations or offering premium “behind‑the‑scenes” packs.  
+
+---  
+
+**NFC‑సক্ষম “పాప్‑అప్ వారసత్వ పర్యటనలు**  
+**ఏమిటి:**  
+చారిత్రక స్థలాలు, దేవాలయాలు, లేదా తక్కువ తెలిసిన “దాగిన రత్నాలు” వద్ద తక్కువ ఖర్చుతో NFC స్టికర్లు అమర్చి, సందర్శకులు ఫోన్తో ట్యాపు చేసి, బహుభాషా, ప్రొఫెషనల్‌ ఆడియో‑వీడియో టూర్ (చరిత్ర, పురాణాలు, స్థానిక కథలు) వీక్షించగలరు. ప్రతి పర్యటనకు ఒకసారి ఫీజు లేదా నగర‑ప్రాంతం అంతట పారామర్శిత యాక్సెస్ కోసం సభ్యత్వాన్ని అమ్మండి.  
+
+**ఎలా ప్రారంభించాలి:**  
+1. 5‑10 ఆధికంగా పర్యటనలని కలిగించని స్థలాలను పరిశోధన చేయండి.  
+2. స్థానిక కథనకారులతో 2‑4 నిమిషాల టేజీ-క్వాలిటీ ఆడియో/వీడియో రికార్డు చేయండి.  
+3. **Ubique** లేదా **TapTag** వంటి ప్లాట్‌ఫారమ్‌లతో కంటెంట్ హోస్ట్ చేసి QR/NFC ట్యాగ్‌లు సృష్టించండి.  
+4. స్థానిక టూరిజం బోర్డ్లు లేదా చిన్న హోటల్స్‌తో భాగస్వామ్యాలు కల్పించండి.  
+5. Stripe/PayPal లేదా QR‑కోడ్ వాలెట్ ద్వారా చెల్లింపులు తీసుకోండి.  
+
+**ఆదాయం అవకాశం:** ప్రతి టూర్ నెలకు ₹2,000‑₹5,000 (100 స్కాన్లకు ₹500‑₹1,000). మరింత స్థలాలు లేదా ప్రీమియం “బ్యాక్‑ది‑సీన్స్” ప్యాక్‌లు జోడించి పెంపు చేయండి.  
+
+---  
+
+### 2️⃣ Niche‑AI Prompt Marketplace  
+**What it is:**  
+Create a curated marketplace where you sell finely‑tuned AI prompts for specialized professions (e.g., legal contract drafting, nutrition‑plan creation, architectural concept sketches). Buyers purchase a prompt pack, plug it into ChatGPT, Midjourney, or other models, and get instant, high‑quality outputs.  
+
+**How to start:**  
+1. Choose 3‑4 high‑value niches you understand or can research quickly.  
+2. Test dozens of prompts, refine them for accuracy, tone, and output format.  
+3. Build a simple Shopify/WordPress store with digital‑download capability.  
+4. Offer a “free sample” prompt to capture email leads, then upsell premium bundles.  
+5. Monetise further with a subscription tier that delivers fresh prompts monthly.  
+
+**Potential earnings:** ₹1,500‑₹4,000 per bundle; with a 200‑buyer base you can clear ₹3‑₹8 Lakhs per month.  
+
+---  
+
+**నిష‑AI ప్రాంప్ట్ మార్కెట్‌ప్లేస్**  
+**ఏమిటి:**  
+విశేష వృత్తులకు (ఉదాహరణ: న్యాయ ఒప్పందాలు, పోషక‑ప్లాన్, వాస్తుశిల్ప కాన్సెప్ట్‌లు) అనుకూలంగా రూపొందించిన AI ప్రాంప్ట్‌లను అమ్మే కురేటెడ్ మార్కెట్‌ప్లేస్. కొనుగోలుదారులు ఒక ప్రాంప్ట్ ప్యాక్ కొనుగోలు చేసి, ChatGPT, Midjourney లేదా ఇతర మోడల్స్‌లో పెట్టి, తక్షణమే ఉన్నత‑నాణ్యత ఫలితాలు పొందుతారు.  
+
+**ఎలా ప్రారంభించాలి:**  
+1. మీరు అర్థం చేసుకునే 3‑4 విలువైన నిష్‌లను ఎంపిక చేయండి.  
+2. అనేక ప్రాంప్ట్‌లను పరీక్షించి, ఖచ్చితత్వం, టోన్, ఔట్‌పుట్ ఫార్మాట్‌లను మెరుగుపరచండి.  
+3. డిజిటల్‑డౌన్‌లోడ్ సామర్థ్యం కలిగిన సులభ Shopify/WordPress స్టోర్ నిర్మించండి.  
+4. “ఉచిత నమూనా” ప్రాంప్ట్‌ ఇచ్చి ఇమెయిల్ లీడ్స్‌ను సేకరించి, ప్రీమియం బండిల్స్‌కి అప్‌సెల్ చేయండి.  
+5. నెలవారీ కొత్త ప్రాంప్ట్‌లు పంపే సభ్యత్వ టియర్‌ ద్వారా అదనపు ఆదాయం పొందండి.  
+
+**ఆదాయం అవకాశం:** ఒక్క బండిల్‌కు ₹1,500‑₹4,000; 200 కొనుగోలుదారులతో నెలకు ₹3‑₹8 లక్షల వరకు సాధ్యమే.  
+
+---  
+
+### 3️⃣ Zero‑Waste Packaging Design Service for Small Brands  
+**What it is:**  
+Offer a “green‑pack” consultancy that designs cheap, reusable, or compostable packaging solutions for local food stalls, boutique cosmetics, and craft sellers. Use locally sourced materials (e.g., banana leaf sheets, wheat‑straw cartons). Charge a set‑up fee plus a royalty per unit sold.  
+
+**How to start:**  
+1. Partner with a local material supplier (agri‑waste, paper mill).  
+2. Build a small portfolio using 2‑3 pilot clients (e.g., a street‑food vendor).  
+3. Offer three tiers – “Starter” (simple biodegradable wrapper), “Pro” (custom printed reusable container), “Premium” (subscription‑based refill system).  
+4. Highlight cost‑saving vs. single‑use plastic and market the eco‑badge for the client’s brand.  
+5. Expand through a B2B SaaS portal where clients upload product dimensions and instantly get design & cost quotes.  
+
+**Potential earnings:** Setup ₹20,000‑₹50,000 + 5‑10 % royalty per unit; with 30 active clients you can earn >₹10 Lakhs annually.  
+
+---  
+
+**స్మాల్ బ్రాండ్ల కోసం జీరో‑వెస్ట్ ప్యాకేజింగ్ డిజైన్ సేవ**  
+**ఏమిటి:**  
+చిన్న ఫుడ్ స్టాళ్లు, బుటిక్ బ్యూటీ, హస్తకళ విక్రేతలకు చవుకైన, పునర్వినియోగ‑లేదా కంపోస్ట్‑చేయగల ప్యాకేజింగ్ పరిష్కారాలను రూపకల్పన చేసే “గ్రీన్‑ప్యాక్” కన్సల్టెన్సీ. స్థానిక పదార్థాలు (బనానా లెవ్ షీట్స్, గోధుమ‑శాస్ట్ర్ కార్టూన్లు) ఉపయోగించండి. సెటప్ ఫీసు + యూనిట్‑ప్రతి రాయల్టీ వసూలు చేయండి.  
+
+**ఎలా ప్రారంభించాలి:**  
+1. స్థానిక పదార్థ సరఫరాదారు (కృషి‑వెస్ట్, పేపర్ మిల్) తో భాగస్వామ్యం స్థాపించండి.  
+2. 2‑3 పైలట్ క్లయింట్లతో (ఉదాహరణ: ఒక స్ట్రీట్‑ఫుడ్ విక్రేత) పోర్ట్‌ఫోలియో రూపొందించండి.  
+3. మూడు స్థాయిలను అందించండి – “స్టార్టర్” (సింపుల్ బయోడిగ్రేడబుల్ రాపర్), “ప్రో” (కస్టమ్ ప్రింటెడ్ రీయూజబుల్ కంటైనర్), “ప్రిమియం” (రిఫిల్ సబ్‌స్క్రిప్షన్ సిస్టమ్).  
+4. సింగిల్‑యూజ్ ప్లాస్టిక్ కంటే ఖర్చు‑సేవింగ్, పర్యావరణ‑బ్యాడ్జ్‌లను క్లయింట్ బ్రాండ్‌లో హైలైట్ చేయండి.  
+5. B2B SaaS పోర్టల్ ద్వారా క్లయింట్లు ప్రోడక్ట్‑డైమెన్షన్‌లు అప్లోడ్ చేసి, తక్షణంలు డిజైన్ & ఖర్చు కోట్ పొందేలా విస్తరించండి.  
+
+**ఆదాయం అవకాశం:** సెటప్‌కి ₹20,000‑₹50,000 + యూనిట్‑ప్రతి 5‑10 % రాయల్టీ; 30 యాక్టివ్ క్లయింట్లతో సంవత్సరానికి ₹10 లక్షలకుపై ఆదాయం సాధ్యమే.  
+
+---  
+
+### 4️⃣ Digital‑Legacy Management (DLM) Service  
+**What it is:**  
+A subscription service that helps people catalog, secure, and hand over their digital assets (social media, crypto wallets, domain names, photos) to heirs or trusted contacts after death. Provide encrypted vaults, legal‑ready “digital will” templates, and a “trigger‑on‑death” process using biometric or court‑order verification.  
+
+**How to start:**  
+1. Build a secure cloud vault (use AWS S3 with end‑to‑end encryption).  
+2. Collaborate with a lawyer to draft a compliant digital‑will template (Indian IT Act, personal data laws).  
+3. Offer a 3‑tier plan: Basic (inventory & encrypted storage), Pro (legal template + notarisation), Premium (annual check‑in, executor service).  
+4. Market via LinkedIn, senior‑citizen groups, and funeral‑home partners.  
+5. Price at ₹5,000‑₹12,000 per year; aim for 1,000 subscribers → ₹50‑₹120 Lakhs annually.  
+
+---  
+
+**డిజిటల్‑లెగసీ మేనేజ్‌మెంట్ (DLM) సేవ**  
+**ఏమిటి:**  
+మరణం తర్వాత వ్యక్తి యొక్క డిజిటల్ ఆస్తులను (సోషల్ మీడియా, క్రిప్టో వాలెట్లు, డొమైన్ నేమ్స్, ఫోటోలు) క్యాటలాగ్, సెక్యూర్, వారసులకు లేదా నమ్మక‑యుక్త వ్యక్తులకు హస్తాంతర చేయడంలో సహాయపడే సబ్‌స్క్రిప్షన్ సేవ. ఎన్‌క్రిప్టెడ్ వాల్ట్, చట్ట‑సంకలిత “డిజిటల్ వియిల్” టెంప్లేట్లు, కోర్టు‑ఆర్డర్ లేదా బయోమెట్రిక్ ధృవీకరణ ద్వారా “మరణ‑ట్రిగ్గర్” ప్రక్రియ అందించండి.  
+
+**ఎలా ప్రారంభించాలి:**  
+1. AWS S3 వంటి పైన‑టు‑పైన ఎన్‌డ‑టు‑ఎన్‌డ ఎన్‌క్రిప్షన్‌తో సెక్యూర్ క్లౌడ్ వాల్ట్ నిర్మించండి.  
+2. భారతీయ IT Act, పర్సనల్ డేటా చట్టాలకు అనుగుణంగా లీగల్ టెంప్లేట్ కోసం వకీల్‌తో భాగస్వామ్యం చేయండి.  
+3. 3‑టియర్ ప్లాన్‌ను అందించండి – బేసిక్ (ఇన్వెంటరీ & ఎన్‌క్రిప్టెడ్ స్టోరేజ్), ప్రో (లీగల్ టెంప్లేట్ + నవోనాటరీజేషన్), ప్రీమియం (వార్షిక చెక్‑ఇన్, ఎగ్జిక్యూటర్ సర్వీస్).  
+4. LinkedIn, సీనియర్‑సిటిజన్ గ్రూప్‌లు, ఫ్యునరల్‑హోమ్ భాగస్వామ్యాల ద్వారా మార్కెటింగ్ చేయండి.  
+5. పీరియాడిక్ ఛార్జ్ ₹5,000‑₹12,000/సంవత్సరం; 1,000 సభ్యులు ఐతే ₹50‑₹120 లక్షల ఆదాయం.  
+
+---  
+
+### 5️⃣ Community‑Solar Token Platform (Blockchain‑Based)  
+**What it is:**  
+A localized platform where neighbourhoods collectively invest in a small solar farm or rooftop panels. Each investor receives blockchain‑based “solar tokens” that represent a share of the generated kWh. Tokens can be sold, traded, or redeemed for electricity bills at a discounted rate.  
+
+**How to start:**  
+1. Identify a community (e.g., apartment complex, village) and secure land/rooftop space.  
+2. Partner with a solar EPC firm to install 50‑100 kW system (≈ ₹40‑₹50 Lakhs).  
+3. Use an existing blockchain (Polygon, Binance Smart Chain) to mint ERC‑1155 tokens for each kWh‑share.  
+4. Launch a crowdfunding portal (Ketto/ImpactGuru) for token purchase (₹1,000‑₹10,000 per token).  
+5. Negotiate with the local utility to accept token‑based bill deductions.  
+
+**Potential earnings:** 10‑15 % ROI for you as the facilitator (installation fee + transaction fee). With 10‑15 communities of 50 investors each, you can generate ₹1‑₹2 Crore per year.  
+
+---  
+
+**కమ్యూనిటీ‑సోలార్ టోకెన్ ప్లాట్ఫాం (బ్లాక్చెయిన్‑ఆధారిత)**  
+**ఏమిటి:**  
+ఒక పక్క‌పక్కన ఉన్న ప్రాంతాలు కలిసి చిన్న సోలార్ ఫారం లేదా రూఫ్‌టాప్ ప్యానల్స్‌లో పెట్టుబడి పెట్టే ప్లాట్‌ఫారం. ప్రతి పెట్టుబడిదారుడు ఉత్పత్తి అయిన kWh‑షేర్‌ను సూచించే బ్లాక్చెయిన్‑ఆధారిత “సోలార్ టోకెన్లు” పొందుతారు. టోకెన్లు అమ్ముకోవచ్చు, ట్రేడ్ చేయవచ్చు, లేదా ఇలెక్టర్ బిల్లు తగ్గించిన రేట్లో రిడీమ్ చేయవచ్చు.  
+
+**ఎలా ప్రారంభించాలి:**  
+1. ఒక కనిష్ట సముదాయం (అపార్ట్‌మెంట్, పల్లె) ఎంపిక చేసి, భూమి/రూఫ్‌టాప్ స్థలం సురక్షితం చేయండి.  
+2. 50‑100 kW సిస్టమ్ (≈ ₹40‑₹50 లక్షల) ఇన్‌స్టాల్ చేయడానికి సోలార్ EPC ఫర్మ్‌తో భాగస్వామ్యం చేయండి.  
+3. ప్యాలిగాన్, బిన్‌యాన్స్ స్మార్ట్ చెయిన్ వంటి బ్లాక్చెయిన్ వాడి ERC‑1155 టోకెన్లను మింట్ చేయండి (ప్రతి kWh‑షేర్‌కి ఒక టోకెన్).  
+4. Ketto/ImpactGuru వంటి క్రౌడ్‌ఫండింగ్ పోర్టల్ ద్వారా టోకెన్ కొనుగోలు (₹1,000‑₹10,000 టోకెన్) ప్రారంభించండి.  
+5. స్థానిక యుటిలిటీలతో టోకెన్‑బేస్డ్ బిల్లు తగ్గింపు కోసం ఒప్పందం సంతకం చేయండి.  
+
+**ఆదాయం అవకాశం:** మీరు ఫాసిలిటేటర్‌గా 10‑15 % ROI (ఇన్‌స్టాలేషన్ ఫీస్ + ట్రాన్సాక్షన్ ఫీస్). 10‑15 సముదాయాలు, ప్రతీదానికి 50 పెట్టుబడిదారులు ఉంటే, సంవత్సరానికి ₹1‑₹2 కోట్లు ఆదాయాన్ని సాధించవచ్చు.  
+
+---  
+
+**Quick Recap**  
+
+| # | Idea | Core Value | Typical Pricing Model |
+|---|------|------------|------------------------|
+| 1 | NFC Heritage Tours | Instant, location‑based storytelling | Per‑scan fee / monthly subscription |
+| 2 | Niche‑AI Prompt Marketplace | Time‑saving AI prompts for professionals | One‑time bundle price + subscription |
+| 3 | Zero‑Waste Packaging Design | Eco‑friendly, cost‑saving packaging | Setup fee + unit royalty |
+| 4 | Digital‑Legacy Management | Secure hand‑over of digital assets | Annual subscription per user |
+| 5 | Community‑Solar Tokens | Shared renewable energy investment | Token sale + facilitator fee |
+
+Each of these concepts can be launched with a modest initial investment (₹2‑5 Lakhs) and scaled through partnerships, digital marketing, and automation. Pick the one that aligns best with your interests, local market needs, and available resources, and start prototyping within 30 days! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-06-25-19-42.md](notes/2026-06-25-19-42.md)
 - [2026-06-25-16-17.md](notes/2026-06-25-16-17.md)
 - [2026-06-25-13-57.md](notes/2026-06-25-13-57.md)
 - [2026-06-25-10-31.md](notes/2026-06-25-10-31.md)
