@@ -4,125 +4,35 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-**5 NEW, UNCOMMON Money‑Making Ideas**  
-*(Each idea is explained in English first, then in Telugu. All concepts are practical and can be started with modest resources.)*  
+## 5 NEW Money‑Making Ideas  
+*(Each idea is explained in English **and** in Telugu so you can share it with a wider audience.)*  
+
+| # | Idea (English) | How it Works & Why It’s Practical | Idea (Telugu) | పనిచేయు విధానం & ప్రయోజనం |
+|---|----------------|----------------------------------|----------------|---------------------------|
+| **1** | **AR Home‑Staging Service for Real‑Estate Agents** | • Use affordable AR apps (e.g., ARKit, Unity) to virtually furnish empty properties.<br>• Offer a “virtual‑staging package” (photos, 3‑D walkthrough, social‑media clips) for a flat fee per listing.<br>• Real‑estate agents pay because staged homes sell 20‑30 % faster and for higher prices.<br>• Startup cost: a decent laptop, AR software subscription, a library of 3‑D furniture models (many are free). | **రియల్ ఎస్టేట్ ఏజెంట్లకు AR హోమ్‑స్టేజింగ్ సేవ** | • ARKit, Unity వంటి సులభంగా లభించే AR యాప్‌ల ద్వారా ఖాళీ ఇళ్లను వర్చువల్‌గా అమర్చుతారు.<br>• “వర్చువల్‑స్టేజింగ్ ప్యాకేజ్” (ఫోటోలు, 3‑డి వాక్‑థ్రూ, సోషల్‑మీడియో క్లిప్)ను ప్రతి లిస్టింగ్‌కు స్థిర రుసుము వసూలు చేస్తారు.<br>• స్టేజింగ్ చేయబడిన ఇళ్లు 20‑30 % వేగంగా అమ్ముడవుతాయి, ధర కూడా ఎక్కువగా ఉంటుంది; అందుకే ఎజెంట్లు ఖచ్చితంగా చెల్లిస్తారు.<br>• ప్రారంభ ఖర్చు: నోట్‌బుక్, AR సాఫ్ట్‌వేర్ సబ్‌స్క్రిప్షన్, ఫ్రీ 3‑డి ఫర్నిచర్ మోడల్స్ (అధికంగా ఉచితం). |
+| **2** | **Eco‑Friendly DIY Home‑Repair Subscription Box** | • Curate a monthly box with biodegradable sealants, reusable sandpaper, plant‑based paint‑remover, and a printable “repair guide” (QR‑code to video).<br>• Target renters, tiny‑home owners, and eco‑conscious DIYers.<br>• Charge ₹1,200‑₹1,500 per month; source bulk supplies from green manufacturers and keep margins ~30 %.<br>• Upsell one‑off “tool kits” (e.g., mini‑router, cordless screwdriver) as add‑ons. | **పర్యావరణ‑హిత DIY హోమ్ రిపేర్‌ సబ్‌స్క్రిప్షన్ బాక్స్** | • జీరో‑వెస్ట్ సీలెంట్, రీయూజబుల్ సాండ్‌పేపర్, ప్లాంట్‑బేస్డ్ పెయింట్ రిమూవర్, QR‑కోడ్ ద్వారా వీడియో గైడ్ వంటి అంశాలతో నెలకు ఒక బాక్స్ సిద్ధం చేయండి.<br>• రెంటర్లు, చిన్న ఇళ్ల సొంతకర్తలు, పర్యావరణ‑చైతన్య DIY ప్రేమికులు లక్ష్యంగా పెట్టుకోండి.<br>• ప్రతి బాక్సుకు ₹1,200‑₹1,500 ఛార్జ్ చేయండి; గ్రీన్ మెన్యుఫ్యాక్చరర్ల నుంచి బల్క్‌లో తీసుకుని 30 % లాభం పొందవచ్చు.<br>• మిని‑రౌటర్ లేదా కార్డ్లెస్ స్క్రూడ్రైవర్ వంటి “టూల్ కిట్”లను అదనంగా విక్రయించవచ్చు. |
+| **3** | **Urban Beekeeping & Pollination Service for Small Cafés & Rooftop Gardens** | • Set up 5–10 hives on rooftops or balcony spaces (permits vary by city).<br>• Offer two revenue streams: (a) sell locally‑branded honey & beeswax candles; (b) charge cafés a monthly “pollination fee” (≈ ₹5,000) to boost their garden herbs & flowering plants, improving ambiance & herb flavor. <br>• Bees are in decline; municipalities often give incentives for “green roofs.” | **సందర్భ‑నగరంలో తేనెటీగల నిర్వహణ & పాలు‑దిచే సేవ** | • 5‑10 హైవ్స్‌ని బేలెర్స్, బాల్కనీలు లేదా రూఫ్‌ టాప్‌లపై ఏర్పాటు చేయండి (పర్మిట్లు నగరాన్ని బట్టి వేరే‑వేరే).<br>• రెండు ఆదాయ మార్గాలు: (a) స్థానిక బ్రాండ్‌ హనీ, బీ వాక్స్ క్యాండిల్‌లు విక్రయించండి; (b) క్యాఫేలకు నెలకు సుమారు ₹5,000 “పాలన‑ఫ్రీక్వెన్సీ” ఫీ వసూలు చేయండి – ఇది వారి గార్డెన్‌ గసగసలు, పూలు, హర్బ్స్‌ పెరుగుదలకు సహాయపడుతుంది, రుచిని మెరుగుపరుస్తుంది.<br>• తేనెటీగల జనాభా తగ్గిపోతోందని, పర్యావరణ‑రూఫ్‌లకు ప్రభుత్వ ప్రోత్సాహం కూడా ఉంటుంది. |
+| **4** | **AI‑Generated Custom Voice Avatars for Brands & Content Creators** | • Use text‑to‑speech platforms (e.g., ElevenLabs, Respeecher) to craft a unique “voice fingerprint” for a brand (tone, speed, accent).<br>• Offer a subscription (₹8,000‑₹12,000/mo) that includes “X minutes of fresh audio per month” for podcasts, ads, IVR, or social clips.<br>• Provide a quick onboarding: client fills a short questionnaire, you generate the voice, and deliver a simple API key.<br>• High demand because video & audio content has exploded, and custom voices help stand out without hiring voice‑over talent. | **బ్రాండ్స్‌ కోసం AI‑ఆధారిత కస్టమ్ వాయిస్ అవతార్** | • ElevenLabs, Respeecher వంటి టెక్స్ట్‑టు‑స్పీచ్ టూల్స్‌ను ఉపయోగించి బ్రాండ్‑స్పెసిఫిక్ “వాయిస్ ఫింగర్‌ప్రింట్” (టోన్, స్పీడ్, యాక్సెంట్) తయారు చేయండి.<br>• నెలవారీ సబ్‌స్క్రిప్షన్ (₹8,000‑₹12,000) ద్వారా పాడ్కాస్ట్, ప్రకటన, IVR, సోషల్ క్లిప్‌లకు “X నిమిషాలు కొత్త ఆడియో” అందించండి.<br>• క్లయింట్ ఒక చిన్న ప్రశ్నాపత్రికను పూరిస్తాడు → మీరు వాయిస్‌ను రూపొందించి API కీ ఇస్తారు.<br>• వీడియో‑ఆడియో కంటెంట్ పెరుగుతున్నందున, కస్టమ్ వాయిస్‌లు టాలెంట్‌ నియామకం లేకుండానే ప్రత్యేకతనిస్తాయి. |
+| **5** | **Portable Wi‑Fi Hotspot Rental for Pop‑up Events & Markets** | • Buy a few high‑capacity 5G mobile routers (≈ ₹20,000 each) and a data plan with unlimited night‑time bandwidth.<br>• Rent them out to event organizers (festivals, food‑markets, trade‑shows) for ₹1,500‑₹2,500 per day, including set‑up and on‑site support.<br>• Offer “wired‑back‑up” Ethernet cables for vendors who need stable POS connections.<br>• Increasingly, small vendors and attendees demand reliable internet, yet many venues don’t provide it. | **పాప్‑అప్ ఈవెంట్స్ కోసం పోర్టబుల్ Wi‑Fi హాట్‌స్పాట్ ‌వాటింపు** | • 5G మొబైల్ రౌటర్లు (సుమారు ₹20,000) కొంత గిరవండి, రాత్రి‑సమయం అన్లిమిటెడ్ డేటా ప్లాన్ తీసుకోండి.<br>• ఈవెంట్ నిర్వాహకులకు (ఫెస్టివల్స్, ఫుడ్‑మార్కెట్లు, ట్రేడ్‑షోలు) రోజుకు ₹1,500‑₹2,500 రేటులో బోక్స్ ఇవ్వండి – సెటప్, ఆన్‑సైట్ సహాయంతో.<br>• వాణిజ్యులు POS (పాయింట్‑ఆఫ్‑సేల్) కోసం స్థిరమైన కనెక్షన్ కోరితే, ఈథర్నెట్ కేబుల్ కూడా అందించండి.<br>• చిన్న స్టాల్ యజమానులు, హాజరైనవారు నమ్మదగిన ఇంటర్నెట్ కోరుకుంటారు, ఎక్కువ స్థలాల్లో ఇది లేని పరిస్థితి ఉంటుంది. |
 
 ---
 
-## 1️⃣ “Pop‑Up Skill‑Swap Booths”  
-### English  
-- **Concept:** Set up a small, movable booth (e.g., a kiosk in a mall, a market stall, or a parked trailer) where people trade a **15‑minute skill lesson** for a fee (₹500‑₹2,000).  
-- **How it works:** You partner with local hobbyists – a guitarist teaching a chord, a chef showing a quick recipe, a photographer demo‑shooting, etc. Customers pay for a “skill‑swap ticket” and get a hands‑on mini‑workshop. You keep a percentage of each ticket and charge the instructors a small stall‑rental fee.  
-- **Why it’s fresh:** It turns the gig‑economy into an **experience‑exchange marketplace** rather than a service‑sale. The physical booth creates buzz and repeat foot‑traffic.  
-- **Start‑up cost:** ₹30k‑₹80k for a portable kiosk, basic signage, and a simple booking app (or a Google Form).  
-- **Potential earnings:** 20‑30 tickets per day × ₹1,000 ≈ ₹20k‑₹60k daily during high‑traffic seasons.  
+### Quick Start Checklist for Any Idea  
 
-### తెలుగు  
-- **సంకల్పన:** షాపింగ్ మాల్, బజార్లో, లేదా ట్రైలర్‌లో చిన్న,  మూవబుల్ బూత్‌ ఏర్పాటు చేసి, 15‑నిమిషాలు స్కిల్ ట్యుటోరియల్ కోసం టికెట్ (₹500‑₹2,000) విక్రయించండి.  
-- **ఎలా పనిచేస్తుంది:** స్థానిక హాబీ‑ఎక్స్‌పర్ట్స్ (గిటార్‑వాద్యవాడు, షెఫ్, ఫోటోగ్రాఫర్) తో కలిసి వాళ్లు చిన్న‑వర్క్‌షాప్‌ ఇస్తారు. కస్టమర్లు టికెట్‌ కొనుగోలు చేసి, క్లాస్‌ పొందుతారు. మీరు ప్రతి టికెట్‌ లో శాతం + ఎక్స్‌పర్ట్‌కు స్టాల్‌ ఫీ వసూలు చేస్తారు.  
-- **క్యాంచి విషయం:** సేవల విక్రయం కాదు, **అనుభవ‑వాణిజ్యం**. ఫిజికల్ బూత్‌ మళ్లీ‑మళ్లీ కస్టమర్లు ఆకర్షిస్తుంది.  
-- **ప్రారంభ పెట్టుబడి:** ₹30,000‑₹80,000 (పోర్టబుల్ బూత్‌, సైనేజ్, బుకింగ్ యాప్ లేదా గూగుల్‌ ఫారమ్).  
-- **అంచనా లాభం:** రోజుకు 20‑30 టికెట్లు × ₹1,000 ≈ రోజుకు ₹20,000‑₹60,000 (పీక్‌ సీజన్లలో).  
+| Step | Action | Why It Helps |
+|------|--------|--------------|
+| 1️⃣ | **Validate Demand** –Run a 1‑question Google Form or Instagram poll. | Confirms there’s real interest before you spend money. |
+| 2️⃣ | **Prototype & Test** –Create a low‑cost pilot (e.g., one AR‑staged room, one honey‑box, one hotspot). | Gives you feedback, lets you refine pricing, and builds first‑customer testimonials. |
+| 3️⃣ | **Legal & Permits** –Check local regulations (e.g., beekeeping licences, Wi‑Fi spectrum rules). | Avoids costly fines and builds trust with clients. |
+| 4️⃣ | **Build a Mini‑Website / Landing Page** –Use Carrd, Webflow, or a simple WordPress theme. | Professional look + a place to capture leads and take pre‑orders. |
+| 5️⃣ | **Launch with a “Beta‑Discount”** –Offer 20‑30 % off for the first 5 customers. | Drives early sales and creates word‑of‑mouth momentum. |
 
----
-
-## 2️⃣ “Urban Micro‑Farming Rental Pods”  
-### English  
-- **Concept:** Install compact, self‑watering hydroponic “pods” (≈1 m² each) on rooftops, balconies, or vacant lot fences. Rent them to city dwellers who want fresh herbs/leafy greens but lack space or time.  
-- **Features:** Each pod comes with a starter kit (seeds, nutrient mix, solar‑powered pump) and a QR‑code linked to a mobile app that sends watering reminders, growth tips, and harvest‑time alerts.  
-- **Revenue model:** Monthly rent (₹1,500‑₹4,000 per pod) + optional “harvest‑assist” service (extra ₹500). Maintenance is minimal—once‑a‑week check‑ups.  
-- **Why it’s fresh:** Combines the trending “home‑grown” movement with **real‑estate‑utilization** (unused rooftop space becomes income).  
-- **Start‑up cost:** ₹10k‑₹15k per pod (fabricated PVC frame, pump, nutrients). You can start with 5‑10 pods and scale.  
-
-### తెలుగు  
-- **సంకల్పన:** నగరాల్లో పైకప్పు, బాల్కనీ లేదా ఖాళీ లాట్‌ యొక్క గోడలపై 1 m² పరిమాణంలో స్వయంచాలకంగా నీరు ఇచ్చే హైడ్రోపోనిక్ పోడ్లు స్థాపించండి. స్థల‑లేమి లేదా సమయ‑లేమి ఉన్న వారికి తాజా హర్బ్, గ్రీన్‌లు అందించేందుకు ఈ పొడ్లను బద్దెకె (₹1,500‑₹4,000) నెలకు అద్దె ఇవ్వండి.  
-- **ఫీచర్లు:** సీడ్స్, న్యూట్రియెంట్‑మిక్స్, సౌర‑పంప్‌తో స్టార్టర్‌కిట్, QR‑కోడ్ లింక్ యాప్ (నీరు ఇచ్చే అలర్ట్స్, పెరుగుదల సలహాలు, పండు సమయం).  
-- **ఆదాయ మూలం:** నెలవారీ అద్దె + “హవెస్ట్‑అసిస్ట్” (₹500). వారానికి ఒకసారి సులభ మెయింటెనెన్స్.  
-- **క్యాంచి విషయం:** “హోమ్‑గ్రోనింగ్” ట్రెండ్‌ను **నివాస‑ఐస్తేట్ వినియోగంతో** కలిపి.  
-- **ప్రారంభ ఖర్చు:** ఒక్క పాడ్‌కు ₹10,000‑₹15,000 (PVC ఫ్రేమ్, పంప్, న్యూట్రియెంట్). 5‑10 పాడ్స్‌తో మొదలుపెట్టవచ్చు.  
-
----
-
-## 3️⃣ “AR‑Enabled Historical Walks for Tourists”  
-### English  
-- **Concept:** Develop an **augmented‑reality (AR) mobile app** that overlays historical scenes, stories, and 3‑D reconstructions onto real‑world locations in a city. Sell city‑wide “history‑tour passes” to tourists and schools.  
-- **Execution steps:**  
-  1. Research 5‑10 notable sites (e.g., old forts, markets).  
-  2. Partner with local historians and graphic artists to create 3‑D models and audio narrations.  
-  3. Use AR SDKs (e.g., Unity AR Foundation, Vuforia) to bind the content to GPS coordinates.  
-  4. Offer a **freemium** version (basic info) and a **premium** pass (full AR experience + offline maps) for ₹500‑₹1,200.  
-- **Why it’s fresh:** While many cities have audio guides, few provide **immersive visual AR** that turns a walk into a living museum.  
-- **Start‑up cost:** Approx. ₹4‑6 Lakhs (content creation, app development, minor marketing). Break‑even within 6‑9 months with 5,000 premium downloads.  
-
-### తెలుగు  
-- **సంకల్పన:** ఒక **ఆగ్మెంటెడ్‑రియాలిటీ (AR) మొబైల్ యాప్** తయారు చేసి, నగరంలోని చారిత్రక స్థలాలను 3‑డి మోడల్స్, ఆడియో కథనాలతో నిజ‑సమయంలో చూపించండి. పర్యాటకులు, పాఠశాలలకి “హిస్టరీ‑టూర్” పాస్ విక్రయించండి.  
-- **చర్యల క్రమం:**  
-  1. 5‑10 ప్రముఖ స్థలాలను ఎంపికచేసి పరిశోధన.  
-  2. స్థానిక చరిత్రకారులు, గ్రాఫిక్స్ ఆర్టిస్టులతో కలిసి 3‑డి మోడల్స్, వాయిస్‌‑ఓవర్‌లు తయారుచేయండి.  
-  3. Unity AR Foundation, Vuforia వంటి AR SDKలు ఉపయోగించి GPS‑కో‑ఆర్డినేట్‌లకు కంటెంట్ బైండ్ చేయండి.  
-  4. **ఫ్రీమియమ్** (సాధారణ సమాచారం) & **ప్రీమియం** (పూర్తి AR + offline మ్యాప్) – ధర ₹500‑₹1,200.  
-- **క్యాంచి విషయం:** సాధారణ ఆడియో‑గైడ్‌లు లేకుండా, **దృశ్య‑సంభవన AR** ద్వారా చారిత్రక నడకను జీవిన స్టేజియంగా మార్చటం.  
-- **ప్రారంభఖర్చు:** సుమారు ₹4‑6 లక్షలు (కంటెంట్ తయారీ, యాప్ అభివృద్ధి, మార్కెటింగ్). 5,000 ప్రీమియం డౌన్‌లోడ్‌లతో 6‑9 నెలల్లో బ్రేక్‑ఈవెన్.  
-
----
-
-## 4️⃣ “Zero‑Waste Bulk‑Refill Stations for Household Essentials”  
-### English  
-- **Concept:** Open a small storefront (or partner with an existing grocery) that sells everyday items—shampoo, detergent, spices, cooking oil—in **refill‑only** bulk containers. Customers bring their own jars or buy reusable glass bottles on‑site.  
-- **Revenue streams:**  
-  1. **Product markup** (≈ 15‑20 %).  
-  2. **Bottle‑sale** (₹150‑₹400 per glass/steel container).  
-  3. **DIY‑mix workshops** (₹500 per session) where customers learn to make their own natural cleaners or spice blends.  
-- **Why it’s fresh:** The zero‑waste movement is growing, but most cities lack a *single‑stop* bulk‑refill shop for **all** household staples—not just dry goods.  
-- **Start‑up cost:** ₹3‑5 Lakhs (lease ≈ ₹1 Lakh/mo, initial inventory, glass bottles, simple POS).  
-
-### తెలుగు  
-- **సంకల్పన:** ఒక చిన్న షాప్ (లేదా ఇప్పటికే ఉన్న గ్రోసరీ స్టోర్‌ తో భాగస్వామ్యం) లో షాంపూ, డిటర్జెంట్, మసాలాలు, వంట నూనె వంటి दैनिक వస్తువులను **రీఫిల్‑మాత్రమే** (బల్క్) విక్రయించండి. కస్టమర్లు తమ గ్లాసు/బాటిల్స్ తీసుకురావచ్చు లేదా స్టోర్‌లో రీయూజబుల్ గ్లాస్/స్టీల్ బాటిల్‌లు కొనవచ్చు.  
-- **ఆదాయ మూలాలు:**  
-  1. **ఉత్పత్తి మార్జిన్** ≈ 15‑20 %  
-  2. **బాటిల్ విక్రయం** (₹150‑₹400 ప్రతి)  
-  3. **DIY‑మిక్స్ వర్క్‌షాప్** (ప్రతి సెషన్ ₹500) – సహజ క్లీనర్ లేదా మసాలా బ్లెండ్ చేయడాన్ని నేర్పండి.  
-- **క్యాంచి విషయం:** జీరో‑వెస్ట్ ట్రెండ్‌ పెరుగుతూ ఉంది, కానీ **సర్వ‑హౌస్​హోల్డ్** వస్తువులకు ఒకే చోట బల్క్‑రిఫిల్ షాప్‌ లేదు.  
-- **ప్రారంభ ఖర్చు:** ₹3‑5 లక్షలు (లీజ్ ≈ ₹1 లక్ష/మొ, ప్రారంభ స్టాక్, గ్లాసు బాటిల్స్, సింపుల్ POS).  
-
----
-
-## 5️⃣ “AI‑Generated Personalized Jingles for Small Brands”  
-### English  
-- **Concept:** Use generative‑AI audio tools (e.g., **OpenAI’s Jukebox**, **Soundraw**, **AIVA**) to create short, custom jingles (5‑15 seconds) for micro‑businesses, Instagram influencers, and local events. Offer a **quick‑turnaround (24‑48 hrs) package**.  
-- **Business model:**  
-  * **Standard** – 1‑minute custom jingle, 2 revisions – ₹4,000.  
-  * **Premium** – 30‑sec full‑mix with vocal tagline, royalty‑free license – ₹8,000.  
-  * **Subscription** – 5 jingles per month for ₹25,000 (ideal for agencies).  
-- **Why it’s fresh:** While AI music generators exist, few have packaged them as a **turnkey service** for ultra‑small brands that can’t afford a composer. Your value‑add is rapid delivery, simple licensing, and optional voice‑over integration.  
-- **Start‑up cost:** Laptop + software subscription (≈ ₹30,000/yr) + basic marketing. No need for a studio.  
-
-### తెలుగు  
-- **సంకల్పన:** OpenAI Jukebox, Soundraw, AIVA లాంటి జనరేటివ్‑AI ఆడియో టూల్స్‌ను ఉపయోగించి, చిన్న వ్యాపారాలు, Instagram ఇన్‌ఫ్లూయెన్సర్లు, స్థానిక ఈవెంట్స్‌ కోసం 5‑15 సెకన్ల **కస్టమ్ జింగిల్స్** తయారు చేయండి. 24‑48 గంటలలో డెలివరీ చెయ్యగల **త్వరిత ప్యాకేజీ** అందించండి.  
-- **ఆదాయ నమూనా:**  
-  * **స్టాండర్డ్** – 1‑నిమిషం జింగిల్, 2 రివిజన్లు – ₹4,000  
-  * **ప్రీమియం** – 30‑సెకన్ల ఫుల్‑మిక్స్ + వాయిస్‑ట్యాగ్‑లైన్, రాయల్టీ‑ఫ్రీ లైసెన్స్ – ₹8,000  
-  * **సబ్‌స్క్రిప్షన్** – నెలకు 5 జింగిల్స్ – ₹25,000 (ఏజెన్సీలకు అనుకూలం)  
-- **క్యాంచి విషయం:** AI‑మ్యూజిక్ జనరేటర్లను **చిన్న‑బ్రాండ్లకు** టర్న్కీ‑సర్వీస్‌ గా అందించటం. మీరు వేగవంతమైన డెలివరీ, సింపుల్ లైసెన్సింగ్, ఐచ్చిక వాయిస్‑ఓవర్‌ను విలువ‑జోడింపుగా పెడతారు.  
-- **ప్రారంబ ఖర్చు:** ల్యాప్‌టాప్ + సాఫ్ట్‌వేర్ సబ్‌స్క్రిప్షన్ (≈ ₹30,000/సంవత్సరం) + మార్కెటింగ్. స్టూడియో అవసరం లేదు.  
-
----
-
-### Quick Take‑away Checklist  
-
-| # | Idea | Minimum Investment | Expected Pay‑back (6‑12 months) |
-|---|------|--------------------|-------------------------------|
-| 1 | Pop‑Up Skill‑Swap Booths | ₹30‑80 k | ₹10‑30 Lakhs (high‑traffic locations) |
-| 2 | Urban Micro‑Farming Pods | ₹10‑15 k per pod | ₹5‑12 Lakhs (10‑15 pods) |
-| 3 | AR Historical Walks | ₹4‑6 Lakhs (app) | ₹5‑8 Lakhs (5k premium downloads) |
-| 4 | Zero‑Waste Bulk‑Refill Station | ₹3‑5 Lakhs | ₹8‑15 Lakhs (first year) |
-| 5 | AI‑Generated Jingles | ₹30 k (software) | ₹12‑20 Lakhs (30‑50 clients) |
-
-Pick the one that resonates most with your skills, location, and capital, and start prototyping within **30 days** – the sooner you test the market, the faster you’ll know what works! 🚀
+Feel free to mix and match—e.g., combine the **DIY repair box** with the **AR‑staging** by offering virtual “how‑to” overlays, or sell **honey‑infused candles** alongside the **urban beekeeping** service. The key is to start small, iterate fast, and leverage the unique angle each idea provides. Happy entrepreneuring! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-06-28-10-18.md](notes/2026-06-28-10-18.md)
 - [2026-06-28-07-42.md](notes/2026-06-28-07-42.md)
 - [2026-06-28-02-06.md](notes/2026-06-28-02-06.md)
 - [2026-06-27-22-51.md](notes/2026-06-27-22-51.md)
