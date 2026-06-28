@@ -5,145 +5,62 @@ Updated every 2 hours 🚀
 ## 🆕 Latest Idea
 
 **5 NEW & PRACTICAL MONEY‑MAKING IDEAS**  
-*(Each idea is explained in English first, then in Telugu)*  
+*(Each idea is presented first in English, then in తెలుగు (Telugu) so you can read/implement it in either language.)*  
 
 ---
 
-## 1️⃣ AI‑Generated Prompt Marketplace  
+## 1️⃣  “Micro‑Mobility Asset Rental for Tiny‑Spaces”
+**English** – Buy a few compact, low‑cost electric scooters or fold‑able e‑bikes and place them in residential complexes, coworking hubs, or college campuses where a full‑blown scooter‑share fleet would be overkill. Use a simple QR‑code‑based app or even WhatsApp business to let members reserve, unlock, and pay per‑minute. Because the assets are few, maintenance costs stay low, and you can charge a premium for “door‑to‑door” convenience in niche locations that big operators ignore.
 
-**English**  
-- **What it is:** Create and sell high‑quality prompts for AI tools (ChatGPT, Midjourney, DALL‑E, Stable Diffusion, etc.).  
-- **Why it works:** Businesses, marketers, designers and educators are paying premium prices for prompts that consistently produce the exact style, tone or visual look they need.  
-- **How to start:**  
-  1. Choose a niche (e.g., “LinkedIn‑style copy for SaaS”, “Cinematic fantasy concept art”).  
-  2. Build a small catalog (30‑100 ready‑to‑use prompts).  
-  3. Host them on a simple Shopify/WordPress store or list on platforms such as PromptBase, Etsy, or Gumroad.  
-  4. Offer a “prompt‑tuning” add‑on service for $15‑$30 per request.  
-- **Revenue model:** One‑time sales ($5‑$30 per prompt pack) + optional subscription for monthly fresh prompt drops ($20‑$40/month).  
-
-**తెలుగు**  
-- **ఏమిటి:** ChatGPT, Midjourney, DALL‑E, Stable Diffusion లాంటి AI సాధనాల కోసం నాణ్యత గల “ప్రాంప్ట్‌లు” తయారు చేసి విక్రయించడం.  
-- **ఎందుకు పని చేస్తుంది:** వ్యాపారాలు, మార్కెటర్లు, డిజైనర్లు, విద్యాసంస్థలు తమకు కావలసిన శైలి, టోన్ లేదా విజువల్ లుక్‌ను స్థిరంగా పొందడానికి మంచి ప్రాంప్ట్‌లకు ఎక్కువ డబ్బు చెల్లిస్తారు.  
-- **ఎలా ప్రారంభించాలి:**  
-  1. ఒక నిష్ ఎన్నుకోండి (ఉదా: “SaaS LinkedIn కాపీ”, “సినిమాటిక్ ఫ్యాంటసీ కాన్సెప్టు ఆర్ట్”).  
-  2. 30‑100 సిద్ధమైన ప్రాంప్ట్‌ల చిన్న క్యాటలాగ్ సృష్టించండి.  
-  3. Shopify/WordPress దుకాణం లేదా PromptBase, Etsy, Gumroad వంటి ప్లాట్‌ఫార్మ్‌లలో జాబితా చేయండి.  
-  4. “ప్రాంప్ట్‑ట్యూనింగ్” సేవను $15‑$30cada కి ఇవ్వండి.  
-- **ఆదాయ మోడల్:** ఒక్కో క్షేత్రమొత్తం విక్రయం ($5‑$30/ప్యాక్) + నెలకు కొత్త ప్రాంప్ట్‌లను పంపే సబ్‌స్క్రిప్షన్ ($20‑$40/నెల).  
+**Telugu** – కొన్ని చిన్న, ధర తక్కువలో ఉండే ఎలక్ట్రిక్ స్కూటర్లు లేదా తిరగుతూ తీసుకెళ్లగల‑ఇ‑బైక్‌లు కొనండి. ఇవి రెసిడెన్షియల్ కోంప్లెక్స్, కో‑వర్కింగ్ స్పేస్‌లు, లేదా కాలేజ్ క్యాంపస్‌లలో పెట్టండి – అక్కడ పెద్ద‑స్కేలు స్కూటర్‑షేర్ అవసరం లేదు. QR‑కోడ్ లేదా WhatsApp బిజినెస్ ద్వారా రిజర్వ్, అన్‌లాక్, పేట్‑పర్‑మినిట్ చేసే యాప్‌/సిస్టమ్ ఏర్పాటు చేయండి. ఆస్తి సంఖ్య తక్కువగా ఉండటం వల్ల నిర్వహణ ఖర్చు తక్కువ; పెద్ద కంపెనీలు దృష్టి పించనటువంటి ప్రాంతాలలో మీరు ప్రీమియం ఛార్జ్ చేసుకోవచ్చు.
 
 ---
 
-## 2️⃣ Local‑Experience “Pop‑Up” Tours  
+## 2️⃣  “AR‑Powered Local History Tours”
+**English** – Develop short, location‑specific augmented‑reality (AR) experiences that overlay historic photos, anecdotes, and 3‑D reconstructions onto landmarks. Sell the experience as a one‑time download or a subscription to city‑tour operators, hotels, and schools. You can even license the AR “layers” to tourism boards who want a tech‑savvy way to attract visitors.
 
-**English**  
-- **What it is:** Curate short, immersive “pop‑up” tours in your city (e.g., hidden‑history walks, street‑food hunting, night‑photography hunts) and sell tickets for a 2‑3‑hour experience.  
-- **Why it works:** Travelers and locals alike crave authentic, off‑the‑beaten‑path experiences, but they don’t have the time or knowledge to plan them.  
-- **How to start:**  
-  1. Map 3‑5 unique routes/activities (use Google Maps, local archives, community groups).  
-  2. Partner with a local café or shop for a “welcome drink” or snack (cross‑promotion).  
-  3. List tours on Eventbrite, Airbnb Experiences, or a simple landing‑page with Calendly booking.  
-  4. Offer “VIP” add‑ons: private guide, photo‑editing, souvenir PDF guide.  
-- **Revenue model:** Ticket price $30‑$70 per person + up‑sell on food/drink commissions or merchandise.  
-
-**తెలుగు**  
-- **ఏమిటి:** మీ నగరంలో చిన్న, పూర్తిగా మునిగిపోయే “పాప్‑అప్” టూర్లను రూపొందించి (ఉదా: మరచిపోయిన చరిత్ర నడతలు, వీధి ఫుడ్ హంట్, రాత్రి ఫోటోగ్రఫీ హంట్) 2‑3 గంటల అనుభవానికి టికెట్లను అమ్మడం.  
-- **ఎందుకు పని చేస్తుంది:** ప్రయాణికులు, స్థానిక నివాసితులు రెండూ నిజమైన, సాధారణ మార్గాలకి బయట ఉన్న అనుభవాలను కోరుకుంటారు, కానీ వీటిని ప్లాన్ చేయడానికి సమయం లేదా జ్ఞానం లేదు.  
-- **ఎలా ప్రారంభించాలి:**  
-  1. 3‑5 ప్రత్యేక మార్గాలు/కార్యకలాపాలు మ్యాప్ చేయండి (Google Maps, స్థానిక ఆర్కైవ్లు, కమ్యూనిటీ గ్రూప్‌లు).  
-  2. స్థానిక కేఫే లేదా షాప్‌తో “వెల్కమ్ డ్రింక్” లేదా స్నాక్ కోసం భాగస్వామ్యం చేయండి (క్రాస్‑ప్రమోషన్).  
-  3. Eventbrite, Airbnb Experiences లేదా Calendly‑తో బుకింగ్ పేజీకి టూర్లను జోడించండి.  
-  4. “VIP” అదనాలు: వ్యక్తిగత గైడ్, ఫోటో‑ఎడిటింగ్, స్మరణిక PDF గైడ్.  
-- **ఆదాయ మోడల్:** ప్రతి వ్యక్తికి $30‑$70 టికెట్ ధర + ఫుడ్/డ్రింక్ కమిషన్ లేదా స్మరణిక విక్రయాల్లో అదనపు ఆదాయం.  
+**Telugu** – స్థానిక చరిత్రను చూపించే చిన్న‑పొడవు AR (ఆగ్మెంటెడ్ రియాలిటీ) అప్లికేషన్‌ను రూపొందించండి. ముఖ్యమైన ప్రదేశాలపై పురాతన ఫోటోలు, కథలు, 3‑డి మోడల్స్‌ను చూపే “లేయర్లు”ను యూజర్లు చూడగలరు. ఈ అనుభవాన్ని ఒక్కసారి కొనుగోలు లేదా నగర‑టూర్ ఏజెన్సీలు, హోటళ్ళు, పాఠశాలల కోసం సబ్‌స్క్రిప్షన్ రూపంలో అమ్మండి. మరి టూరిజం బోర్డులకు లైసెన్స్ ఇవ్వడం ద్వారా అదనపు ఆదాయాన్ని సృష్టించవచ్చు.
 
 ---
 
-## 3️⃣ “Digital Legacy” Service for Seniors  
+## 3️⃣  “DIY Plant‑Care Subscription Kits”
+**English** – Assemble monthly “plant‑care boxes” for urban dwellers who want a green touch but lack time/knowledge. Each box includes a small low‑maintenance plant, a biodegradable pot, pre‑measured organic fertilizer, and a QR‑code video tutorial tailored to that plant’s stage of growth. Charge a recurring fee and partner with local nurseries for bulk supply discounts.
 
-**English**  
-- **What it is:** A service that helps elderly families digitize old photos, letters, and home videos, then organizes them into an interactive family website or a printed coffee‑table book.  
-- **Why it works:** Many seniors have priceless memories stored on paper, tape, or old hard drives; they want them preserved but can’t navigate modern tech.  
-- **How to start:**  
-  1. Offer a “memory‑audit” via phone or video call (free 15‑min intro).  
-  2. Charge per hour of digitization ($40‑$60) plus a fixed package for website creation ($250) or printed book ($150).  
-  3. Use simple tools: Scan‑to‑PDF apps, Adobe Lightroom, Wix/WordPress for the site, and Blurb or Mixbook for print.  
-  4. Market through senior centers, local churches, and Facebook community groups.  
-- **Revenue model:** Hourly digitization + optional premium packages (interactive timeline, voice‑over storytelling).  
-
-**తెలుగు**  
-- **ఏమిటి:** వృద్ధుల కుటుంబాలకు పాత ఫొటోలు, లేఖలు, హోమ్ వీడియోలను డిజిటైజ్ చేసి, వాటిని ఇంటరాక్టివ్ కుటుంబ వెబ్‌సైట్ లేదా బుక్ (కాఫీ‑టేబుల్)గా ఏర్పాటుచేసే సేవ.  
-- **ఎందుకు పని చేస్తుంది:** అనేక సీనియర్స్ పాత పేపర్స్, టేప్, పాత హార్డ్ డ్రైవ్‌లలో అమూల్యమైన స్మృతులను కలిగి ఉంటారు; వాటిని కాపాడాలనుకుంటారు కానీ కొత్త టెక్నాలజీని అర్థం చేసుకోవడం వీలుపడదు.  
-- **ఎలా ప్రారంభించాలి:**  
-  1. 15‑నిమిషాల ఫ్రీ “మెమరీ‑ఆడిట్”‌ను ఫోన్ లేదా వీడియో కాల్ ద్వారా ఇవ్వండి.  
-  2. డిజిటైజేషన్‌కు గంటకు $40‑$60, వెబ్‌సైట్ సృష్టికి ఫిక్స్డ్ ప్యాకేజ్ $250, బుక్ కోసం $150.  
-  3. Scan‑to‑PDF యాప్‌లు, Adobe Lightroom, Wix/WordPress (సైట్) మరియు Blurb లేదా Mixbook (ప్రింట్) వంటి సులభ టూల్స్ వాడండి.  
-  4. సీనియర్ సెంటర్లు, చర్చిలు, ఫేస్బుక్ కమ్యూనిటీ గ్రూప్‌ల ద్వారా ప్రమోట్ చేయండి.  
-- **ఆదాయ మోడల్:** గంటల ఆధారంగా డిజిటైజేషన్ + ఐచ్చిక ప్రీమియం ప్యాకేజీలు (ఇంటరాక్టివ్ టైమ్‌లైన్, వాయిస్‑ఓవర్ కథలు).  
+**Telugu** – నగరంలో జీవికను కోరుకునే, కానీ సమయం/జ్ఞానం లేకుండా ఉండే వారికోసం నెలవారీ “ప్లాంట్‑కేర్ బాక్సెస్” తయారు చేయండి. ప్రతి బాక్స్‌లో చిన్న, తక్కువ‑పరిచర్య అవసరమున్న మొక్క, బయో‑డిగ్రేడబుల్ ప్యాట్, ముందుగా కొలిచిన ఆర్గానిక్ ఫర్టిలైజర్, అలాగే ఆ మొక్క వృద్ధి దశకు అనుగుణంగా QR‑కోడ్ వీడియో ట్యుటోరియల్ ఉంటుంది. సభ్యత్వ ఫీజు వసూలు చేసి, స్థానిక నర్సరీలతో బల్క్‌లో కొనుగోలు చేసి నష్టాన్ని తగ్గించండి.
 
 ---
 
-## 4️⃣ “Green‑Roof” Rental for Urban Buildings  
+## 4️⃣  “Personal Data‑Audit & Privacy Coaching”
+**English** – With privacy regulations tightening, many individuals worry about their digital footprints. Offer a service where you scan a client’s online presence (social media, data‑broker listings, apps), generate a “privacy score,” and provide a step‑by‑step remediation plan (e.g., account deletions, permission tweaks, credit‑freeze). Price it as a one‑off audit or a quarterly retainer for ongoing monitoring.
 
-**English**  
-- **What it is:** Install and lease modular, low‑maintenance green‑roof systems (succulents, herbs, micro‑vegetables) to office towers, apartment complexes, or schools.  
-- **Why it works:** Cities are pushing for sustainability credits, storm‑water management, and aesthetic upgrades; property owners pay for the hardware, installation, and ongoing care.  
-- **How to start:**  
-  1. Partner with a local nursery or hydroponics supplier for bulk plant material.  
-  2. Offer a “turnkey” package: design, lightweight modular trays, drip‑irrigation, and monthly maintenance.  
-  3. Sign a 3‑5 year lease where the building pays a monthly fee ($1‑$2 per sq‑ft).  
-  4. Highlight benefits for LEED certification, tax rebates, and tenant wellbeing.  
-- **Revenue model:** Monthly lease fee + optional premium for seasonal re‑planting or harvesting (e.g., herbs for on‑site café).  
-
-**తెలుగు**  
-- **ఏమిటి:** నగరాల్లో ఉన్న ఆఫీస్ టవర్స్, అపార్ట్మెంట్ కాంప్లెక్స్‌లు, పాఠశాలల పైభాగంలో మాడ్యులర్, తక్కువ నిర్వహణ అవసరమైన గ్రీన్‑రూఫ్ (సక్కులెంట్, ఔషధ మొక్కలు, మైక్రో‑వెజిటేబుల్స్) ఇన్‌స్టాల్ చేసి, వాటిని లీజ్ ఇవ్వడం.  
-- **ఎందుకు పని చేస్తుంది:** నగరాలు స్థిరత్వ క్రెడిట్స్, వర్ష‑నీటి నిర్వహణ, అందమైన రూప‑మార్పు కోసం బలమైన ప్రోత్సాహాలు ఇస్తున్నాయి; ప్రాపర్టీ యజమానులు హార్డ్‌వేర్, ఇన్‌స్టాలేషన్, మెంటెనెన్స్ కోసం చెల్లిస్తారు.  
-- **ఎలా ప్రారంభించాలి:**  
-  1. స్థానిక నర్సరీ లేదా హైడ్రోపోనిక్స్ సరఫరాదారుతో పెద్ద పరిమాణ మొక్కల కోసం భాగస్వామ్యం చేయండి.  
-  2. “టర్న్‌కీ” ప్యాకేజ్: డిజైన్, లైట్‌వెయిట్ మాడ్యులర్ ట్రేలు, డ్రిప్‑ఇరిగేషన్, నెలవారీ మానిటెనెన్స్.  
-  3. 3‑5 సంవత్సరాల లీజ్ సంతకం చేయండి, ప్రతి చ.అ.కు $1‑$2 నెలవారీ ఫీజు.  
-  4. LEED సర్టిఫికేషన్, పన్ను రీబేట్లు, టెనెంట్ ఆరోగ్య‑ఆనందం వంటి లాభాలు చూపండి.  
-- **ఆదాయ మోడల్:** నెలవారీ లీజ్ ఫీజు + సీజనల్ మార్చు లేదా హర్బ్స్ పెరుగుదల (క్యాఫేకు) వంటి ఐచ్చిక ప్రీమియం.  
+**Telugu** – డేటా‑ప్రైవసీ చట్టాలు కఠినమవుతూ, ప్రజలు తమ ఆన్‌లైన్‑ట్రేస్ గురించి ఆందోళన చెందుతున్నారు. మీరు ఒక సేవను అందించండి – క్లయింట్ యొక్క సోషల్ మీడియా, డేటా‑బ్రోకర్, యాప్ సమాచారం విశ్లేషణ, “ప్రైవసీ స్కోరు” రూపొందించి, సులభమైన పరిష్కారాలు (అకౌంట్ తీసివేత, అనుమతుల సవరణ, క్రెడిట్‑ఫ్రీజ్) ఇవ్వండి. ఒకసారి‑మూల్యాంకనంగా లేదా ప్రతి త్రైమాసికంగా రిటైనర్ రూపంలో ధర నిర్ణయించవచ్చు.
 
 ---
 
-## 5️⃣ “Skill‑Swap” Subscription Platform  
+## 5️⃣  “Community‑Scale Waste‑to‑Energy Mini‑Grids”
+**English** – Install small, modular anaerobic digesters or gas‑capture units in neighborhoods that generate organic waste (kitchen scraps, garden trimmings). The captured biogas can be sold to local household‑level cook‑stoves or mini‑generators, and the remaining compost can be packaged as premium fertilizer for urban gardeners. Funding can be sourced from municipal green‑funds or CSR budgets, while the community earns a share of the energy/compost sales.
 
-**English**  
-- **What it is:** A membership‑based app where professionals exchange short‑term, hands‑on workshops (e.g., a carpenter teaches “basic furniture repair” while a graphic designer teaches “quick branding hacks”). Credits are earned by teaching and spent by learning.  
-- **Why it works:** People love learning new practical skills but often can’t afford pricey courses; swapping creates a win‑win economy and builds a community.  
-- **How to start:**  
-  1. Build a minimal MVP using no‑code tools (Bubble, Glide) – users create a profile, list “skills to teach” and “skills to learn”.  
-  2. Introduce a credit system: 1 hour taught = 1 credit; 1 hour learned = 1 credit.  
-  3. Charge a low monthly subscription ($8‑$12) for unlimited swaps and platform support.  
-  4. Pilot in a single city or professional niche (e.g., “creative‑industry swap”). Promote through LinkedIn groups, coworking spaces, and local chambers of commerce.  
-- **Revenue model:** Subscription fees + a small transaction fee (5 %) for paid “expert‑only” sessions.  
-
-**తెలుగు**  
-- **ఏమిటి:** ఒక మెంబర్షిప్‑బేస్డ్ యాప్, ఇందులో ప్రొఫెషనల్స్ చిన్న‑కాల హ్యాండ్‑ఆన్ వర్క్‌షాప్‌లను పంచుకుంటారు (ఉదా: ఒక కార్పెంటర్ “ఫర్నిచర్ చిన్న‑మరమ్మత్తు” నేర్పి, గ్రాఫిక్ డిజైనర్ “త్వరిత బ్రాండింగ్ హ్యాక్స్” నేర్పుతారు). బోధిస్తే క్రెడిట్ సంపాదించబడుతుంది, అర్థం చేసుకుంటే ఖర్చవుతుంది.  
-- **ఎందుకు పని చేస్తుంది:** ప్రజలు కొత్త ఉపయోగకరమైన నైపుణ్యాలు నేర్చుకోవాలనుకుంటారు, కానీ ఖరీదైన కోర్సులు తీసుకోవడానికి సామర్ధ్యం లేనప్పుడు, మార్పిడితో అందరూ లబ్ధి పొందుతారు, సమాజం కూడా బలపడుతుంది.  
-- **ఎలా ప్రారంభించాలి:**  
-  1. Bubble, Glide പോലె నో‑కోడ్ టూల్స్‌తో సింపుల్ MVP (minimum viable product) తయారు చేసి, యూజర్లు ప్రొఫైల్, “బోధించు నైపుణ్యం” మరియు “చెందుకోవలసిన నైపుణ్యం” లిస్టు చేసుకోగలరు.  
-  2. క్రెడిట్ వ్యవస్థ ప్రవేశపెట్టండి: 1 గంట బోధన = 1 క్రెడిట్; 1 గంట నేర్చుకోవడం = 1 క్రెడిట్.  
-  3. నెలకు $8‑$12 సబ్‌స్క్రిప్షన్ ఫీజు వసూలు చేసి, అపరిమిత స్వాప్‌లు, ప్లాట్‌ఫాం సపోర్ట్ ఇవ్వండి.  
-  4. ఒక నగరం లేదా ప్రత్యేక ప్రొఫెషనల్ గ్రూప్ (ఉదా: “క్రియేటివ్‑ఇండస్ట్రీ స్వాప్”) తో పయన్ట్‑టెస్ట్ చేయండి. LinkedIn గ్రూప్స్, కో‑వర్కింగ్ స్పేస్‌లు, స్థానిక చాంబర్ ఆఫ్ కామర్స్ ద్వారా ప్రమోట్ చేయండి.  
-- **ఆదాయ మోడల్:** సబ్‌స్క్రిప్షన్ ఫీజు + “ఎక్స్‌పర్ట్‑ఓన్లీ” సెషన్‌లకు 5 % ట్రాన్సాక్షన్ ఛార్జ్.  
+**Telugu** – పండల తొక్కలు, గార్డెన్ మురుగు వంటి ఆర్గానిక్ వృథాను ఉత్పత్తి చేసే పక్కన, చిన్న‑స్థాయి అనేరోబిక్ డైజెస్టర్లు లేదా గ్యాస్‑క్యాప్చర్ యూనిట్లు టెక్నికల్‌గా ఏర్పాటు చేయండి. అందులో ఉత్పన్నమైన బియోజిన్‌ను స్థానిక గృహ‑స్థాయి వంట గ్యాసులు లేదా చిన్న జనరేటర్లకు విక్రయించవచ్చు, మిగిలిన కంపోస్ట్‌ను పట్టణ తోటల కోసం ప్రీమియం ఎరువుగా ప్యాకేజ్ చేయవచ్చు. నగర గ్రీన్‑ఫండ్లు లేదా CSR బడ్జెట్ల ద్వారా ఫండ్ తీసుకుని, సమాజానికి శక్తి/కంపోస్ట్ విక్రయాల నుంచి రెవెన్యూ భాగస్వామ్యం ఇస్తారు.
 
 ---
 
-### Quick Recap
+### Quick Implementation Checklist (for any of the ideas)
 
-| # | Idea (English) | Core Revenue Streams |
-|---|----------------|----------------------|
-| 1 | AI‑Generated Prompt Marketplace | Prompt pack sales, subscription, tuning add‑ons |
-| 2 | Local‑Experience Pop‑Up Tours | Ticket price, food/merch commissions |
-| 3 | Digital Legacy Service for Seniors | Hourly digitization, website/book packages |
-| 4 | Green‑Roof Rental for Urban Buildings | Monthly lease fee, seasonal re‑planting premium |
-| 5 | Skill‑Swap Subscription Platform | Membership fee, optional expert‑session fee |
+| Step | What to Do | Tools / Resources |
+|------|------------|--------------------|
+| 1️⃣ | Market Research – verify local demand & competition | Google Trends, local surveys, community groups |
+| 2️⃣ | Prototype / Minimal Viable Product (MVP) | Simple website, QR‑code generator, basic hardware |
+| 3️⃣ | Legal & Compliance (permits, data‑privacy, safety) | Municipal office, GDPR/IT Act consultants |
+| 4️⃣ | Partnerships – secure supply or distribution partners | Nurseries, tourism boards, local SMEs |
+| 5️⃣ | Launch & Gather Feedback – iterate quickly | WhatsApp Business, Mailchimp, SurveyMonkey |
+| 6️⃣ | Scale – add more units, subscription tiers, or geographic zones | Cloud‑based admin dashboard, payment gateway integration |
 
-These concepts are designed to be **low‑to‑moderate upfront cost**, **scalable**, and **distinct from the usual freelancing / blogging / dropshipping routes**. Pick one that aligns with your interests, local market, or available resources, and start testing the smallest viable version today! 🚀
+Pick the idea that excites you most, test a tiny version, and let the feedback guide your growth. Good luck!
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-06-28-02-06.md](notes/2026-06-28-02-06.md)
 - [2026-06-27-22-51.md](notes/2026-06-27-22-51.md)
 - [2026-06-27-20-47.md](notes/2026-06-27-20-47.md)
 - [2026-06-27-19-00.md](notes/2026-06-27-19-00.md)
