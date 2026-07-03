@@ -4,200 +4,34 @@ Updated every 2 hours 🚀
 
 ## 🆕 Latest Idea
 
-**5 NEW & PRACTICAL MONEY‑MAKING IDEAS**  
-*(Each idea is presented in English and then translated into Telugu. They avoid the usual “freelancing / blogging / dropshipping” routes and focus on fresh, doable concepts you can start with modest resources.)*  
+**5 Fresh Money‑Making Ideas – English + Telugu (తెలుగు)**  
+
+| # | English Idea (Brief & Practical) | Telugu (తెలుగులో) – సంక్షిప్త వివరణ |
+|---|----------------------------------|------------------------------------------|
+| **1** | **Micro‑Urban Farming as a Service** – Design, install, and maintain compact hydroponic or aeroponic kits that fit on balconies, kitchen counters, or office desks. Charge a **monthly subscription** for seedlings, nutrients, remote monitoring (IoT sensors) and occasional visits. Ideal for city dwellers who want fresh produce but lack space or gardening expertise. | **మైక్రో‑అర్బన్ ఫార్మింగ్ సర్వీస్** – బాల్కనీలు, వంటగదులు లేదా ఆఫీస్ డెస్క్‌కి సరిపడే చిన్న హైడ్రోపోనిక్ లేదా 에రోపోనిక్ కిట్‌లను రూపకల్పన చేయండి, ఇన్‌స్టాల్ చేయండి, నిర్వహించండి. నూనె‑పూలుగల, మని‑సబ్స్క్రిప్షన్ ద్వారా పంటలు, పోషకాలు, IoT‑సెన్సార్‌ల ద్వారా రిమోట్ మానిటరింగ్, కాల‑కాలంలో సందర్శనల సేవలు. నగరాల్లో కొత్త కూరగాయలు కోరుకునే వారికి ఆదర్శం. |
+| **2** | **Pop‑Up VR Experience Booths for Events** – Build portable “VR story rooms” (10‑15 ft²) with themed immersive experiences (historical tours, escape‑room puzzles, product demos). Rent them out to weddings, corporate team‑building, festivals, or malls. Offer **hourly rates + custom‑branding** for sponsors. | **పాప్‑అప్ VR ఎక్స్‌పీరియన్స్ బూత్‌లు** – 10‑15 చ.మీ. పరిమాణంలో మొబైల్ “VR స్టోరీ రూమ్”లు నిర్మించండి (చరిత్రాత్మక టూర్, ఎస్కేప్ రూమ్ పజిల్‌లు, ఉత్పత్తి ప్రదర్శనలు). వివాహాలు, కార్పొరేట్ టీం‑బిల్డింగ్, పండుగలు, షాపింగ్ మాల్‌లలో అద్దెకి ఇవ్వండి. గంట‑వారీ రేటు + బ్రాండ్‑కస్టమ్ చేయడానికి అదనపు ఫీజు. |
+| **3** | **Digital Legacy & Data‑Organisation Service** – Many people struggle to sort their digital assets (photos, crypto wallets, passwords, social‑media accounts) for themselves or heirs. Offer a **consultation + secure vault + step‑by‑step hand‑off** service. Charge a **one‑time setup fee** plus an **annual maintenance** subscription for updates and secure storage. | **డిజిటల్ లెగసీ & డేటా ఆర్గనైజేషన్ సర్వీస్** – ఫోటోలు, క్రిప్టో వాలెట్‌లు, పాస్వర్డ్‌లు, సోషల్‑మీడియా ఖాతాలు వంటి డిజిటల్ ఆస్తులను వారసులు లేదా స్వయంగా నిర్వహించడానికి అనేక మంది ఇబ్బంది పడుతున్నారు. కన్సల్టింగ్, సురక్షిత వాల్ట్, దశ‑దశ మార్గదర్శక సేవలను అందించండి. **ఒక్కసారి సెటప్ ఫీజు** + **వార్షిక నిర్వహణ సబ్‌స్క్రిప్షన్** ద్వారా ఆదాయం పొందండి. |
+| **4** | **AI‑Powered Personal Chef Planner** – Develop a subscription‑based app that uses AI to generate weekly meal plans based on individual health goals, dietary restrictions, and pantry inventory. The app auto‑creates a **smart grocery list** that can be sent directly to local grocery‑delivery services. Offer **premium add‑ons** like virtual cooking classes or on‑demand chef video calls. | **AI‑చేతనం పర్సనల్ చెఫ్ ప్లానర్** – వ్యక్తిగత ఆరోగ్య లక్ష్యాలు, ఆహార పరిమితులు, ప్యాండ్రీలో ఉన్న పదార్థాలు ఆధారంగా AI వారపు మెనూ ప్లాన్స్‌లను రూపొందిస్తుంది. యాప్ ఆటోమేటిక్‌గా **స్మార్ట్ గొరుక్కు జాబితాను** సృష్టించి, స్థానిక గ్రోసరీ‑డెలివరీకి పంపుతుంది. **ప్రీమియం ఆడ్‑ఆన్లు** – వర్చువల్ వంట తరగతులు, చెఫ్ వీడియో కాల్స్. |
+| **5** | **Hyper‑Local Artisanal Snack Subscription Box** – Curate a monthly box of 6‑8 unique snacks made by micro‑manufacturers (e.g., a village‑made millet biscuit, a small‑town chutney, a craft‑brew popcorn). Use a **geo‑targeted e‑commerce platform** that only ships within a 50‑km radius, creating a sense of community pride. Charge a **subscription fee** and take a small commission from each artisan. | **అత్యంత లోకల్ ఆర్టిసనల్ స్నాక్ సబ్‌స్క్రిప్షన్ బాక్స్** – గ్రామ‑స్థాయి మిల్లెట్ బిస్కెట్, చిన్న‑నగర చట్నీ, క్రాఫ్ట్‑బ్రూ పాప్కorn వంటి 6‑8 ప్రత్యేక స్నాక్‌లను నెలవారీగా ఎంపిక చేయండి. 50 km పరిధిలోనే డెలివరీ చేసే **జియో‑టార్గెటెడ్ ఈ‑కామర్స్** ద్వారా స్థానిక గర్వ భావనను పెంచండి. **సబ్‌స్క్రిప్షన్ ఫీజు** + ప్రతి ఉత్పత్తిదారుని నుంచి చిన్న కమిషన్. |
 
 ---
 
-## 1️⃣  **Neighborhood “Pop‑Up Skill‑Swap” Hubs**  
-**What it is:**  
-Turn a small spare room, a garage, or a local community hall into a weekly pop‑up where neighbors trade short, hands‑on lessons (e.g., basic carpentry, cooking a traditional dish, smartphone photography, quick Excel tricks). Charge a tiny entry fee or a “skill‑credit” per session and keep a 10‑15 % commission on any material sales (paint, spices, tools).  
+### Quick Tips to Launch Any of These Ideas
 
-**Why it works:**  
-- People love learning locally and saving travel time.  
-- The model creates a recurring community event → steady foot‑traffic.  
-- Low overhead – you only need a space and basic promotion.  
+| Step | What to Do |
+|------|------------|
+| **1️⃣ Validate** | Survey 50‑100 potential customers (use Google Forms, Instagram polls). Confirm willingness to pay & price range. |
+| **2️⃣ Minimum Viable Product (MVP)** | Build the simplest version: a single hydroponic kit, one VR theme, a basic data‑vault template, a demo AI menu, or a pilot snack box. |
+| **3️⃣ Legal & Compliance** | Register the business, get any required food safety permits, data‑privacy policies (GDPR/Indian IT Act), or health‑code for AI nutrition advice. |
+| **4️⃣ Marketing** | Leverage hyper‑local Facebook groups, WhatsApp broadcasting, or community influencers. Offer a *first‑month free* or *refer‑a‑friend* incentive. |
+| **5️⃣ Scale** | Automate recurring tasks (Zapier for subscriptions, IoT dashboards for farms, AI back‑end for menus). Add new variants (more VR stories, extra snack regions, premium chef sessions). |
 
-**How to start (quick checklist):**  
-1. Find a low‑cost venue (your own garage, a community center room, a co‑working space).  
-2. Create a simple schedule (e.g., “Monday – Home Repairs, Thursday – Quick Indian Snacks”).  
-3. Use WhatsApp/Telegram groups or a free Eventbrite page to invite locals.  
-4. Charge ₹100–₹300 per session; collect a 10 % fee on any supplies sold.  
-
-**తెలుగులో:**  
-**1️⃣  పక్కింటి “పాప్‑అప్ స్కిల్‑స్వాప్” కేంద్రాలు**  
-**ఇది ఏమిటి:**  
-చిన్న గది, గ్యారేజ్ లేదా స్థానిక హాల్‌ను వారం ఒక్కసారి పెద్దగా లేకుండా, పొరుగువారికి శీఘ్ర‑కుటుంబ పాఠాలు ఇవ్వడానికి స్థలం చేసుకోండి (ఉదా. బేసిక్ కార్పెంట్రీ, మిర్చి వంట, ఫోన్ ఫోటోగ్రఫీ, ఎక్సెల్ టిప్స్). ప్రతి క్లాసుకి చిన్న ప్రవేశ ఫీజు లేదా “స్కిల్‑క్రెడిట్” తీసుకోండి, అలాగే పదార్థాలు (పెయింట్, మసాలాలు, సాధనాలు) విక్రయించడంపై 10‑15 % కమిషన్ వసూలు చేయండి.  
-
-**ఎందుకు పనిచేస్తుంది:**  
-- స్థానికంగా నేర్చుకోవడం, ప్రయాణ సమయాన్ని తగ్గించుకోవడం ప్రజలకు నచ్చుతుంది.  
-- ఈ కార్యక్రమం పునరావృతంగా జరిగే సంఘటన కావడంతో స్థిరమైన ఆదాయ వనరు.  
-- ప్రారంభ ఖర్చు తక్కువ – ఒక స్థలం మరియు సరళమైన ప్రమోషన్ మాత్రమే అవసరం.  
-
-**ప్రారంభించడానికి దశలు:**  
-1. తక్కువ‑వుల్యూడ్ స్థలాన్ని (మీ గ్యారేజ్, సముదాయ కేంద్రం) కనుగొనండి.  
-2. షెడ్యూల్ రూపొందించండి (ఉదా. “సోమవారం‑హోమ్ రిపేర్, గురువారం‑త్వరగా ఇండియన్ స్నాక్స్”).  
-3. WhatsApp/Telegram గ్రూప్‌ లేదా ఫ్రీ Eventbrite పేజీ ద్వారా పంపండి.  
-4. ప్రతి క్లాస్‌కి ₹100‑₹300 ఛార్జ్‌ చేయండి; విక్రయించే పదార్థాలపై 10 % ఫీజు తీసుకోండి.  
-
-
-
----
-
-## 2️⃣  **“Micro‑Urban Farm‑In‑A‑Box” Rental Service**  
-**What it is:**  
-Design a compact, self‑watering gardening box (≈30 × 30 cm) that can sit on balconies or small patios. Rent the boxes out to apartment dwellers for a monthly fee, including the starter soil, seeds (herbs, micro‑greens, cherry tomatoes) and a QR‑code guide. Offer an optional “harvest‑pickup” service for a small extra charge.  
-
-**Why it works:**  
-- Urban residents want fresh greens but lack space.  
-- Subscription model ensures recurring revenue.  
-- Minimal inventory – a few dozen boxes can serve dozens of customers.  
-
-**How to start:**  
-1. Prototype a box using recycled plastic or bamboo.  
-2. Partner with a local nursery for seed packs.  
-3. Create a simple website/WhatsApp catalog.  
-4. Charge ₹800‑₹1,200 per month per box; add ₹150 for harvest pickup.  
-
-**తెలుగులో:**  
-**2️⃣  “మైక్రో‑అర్బన్ ఫాం‑ఇన్‑ఎ‑బాక్స్” అద్దె సేవ**  
-**ఇది ఏమిటి:**  
-బల్కనీ లేదా చిన్న తోటలకి సరిపడే (30 × 30 సెం.మీ) స్వయంచాలక నీటిపొందటానికి చిన్న గార్డెనింగ్ బాక్స్‌ను రూపొందించండి. అపార్ట్‌మెంట్住民లు నెలకి వసూలు చేసుకునే బాక్స్‌ను అద్దెకు ఇవ్వండి, అందులో ప్రారంభ మట్టీ, గింజలు (హెర్బ్స్, మైక్రో‑గ్రీన్, చెర్రీ టమాటో) మరియు QR‑కోడ్ ద్వారా శిక్షణా వీడియో ఉంటాయి. అదనంగా, పంట వేసే సేవ (harvest‑pickup) కూడా చిన్న ఫీజుతో ఇవ్వండి.  
-
-**ఎందుకు పనిచేస్తుంది:**  
-- నగర నివాసితులు తాజా కూరగాయలు కోరుకుంటారు, కానీ స్థలం తక్కువగా ఉంటుంది.  
-- సబ్‌స్క్రిప్షన్ మోడల్‌ అంటే పునరావృత ఆదాయం.  
-- స్టాక్‌ తక్కువ — కొన్ని బాక్స్‌లు అనేక కస్టమర్లకు సేవిస్తాయి.  
-
-**ప్రారంభ దశలు:**  
-1. రీసైకిల్‌ చేసిన ప్లాస్టిక్ లేదా బంబు ఉపయోగించి బాక్స్‌ రూపొందించండి.  
-2. స్థానిక నర్సరీతో సీడ్స్‌ ప్యాకుల కోసం భాగస్వామ్యం చేయండి.  
-3. సింపుల్ వెబ్‌సైటు లేదా WhatsApp కాటలాగ్‌ సృష్టించండి.  
-4. బాక్స్‌కి ₹800‑₹1,200/మాసం ఛార్జ్‌ వసూలు చేయండి; పంట‑పికప్‌కి ₹150 అదనంగా.  
-
-
-
----
-
-## 3️⃣  **AI‑Powered Personal Data‑Health Audit Service**  
-**What it is:**  
-Create a lightweight SaaS that scans a user’s digital footprint (social‑media posts, email newsletters, app permissions) and rates the “privacy‑health” of each. Offer a monthly subscription that delivers a simple scorecard, actionable privacy‑tips, and optional “data‑clean‑up” where you help unsubscribe or revoke permissions for a fee.  
-
-**Why it works:**  
-- Data‑privacy is a hot concern; most people lack the time/skill to audit themselves.  
-- The AI core can be built with existing LLM APIs, keeping development cost low.  
-- Subscription + one‑off clean‑up packages generate two revenue streams.  
-
-**How to start:**  
-1. Use OpenAI/Gemini APIs to parse public data (with user consent).  
-2. Build a minimal dashboard (no‑code tools like Bubble or Softr).  
-3. Offer a free 1‑click “Privacy Score” and convert to a ₹499/month plan.  
-4. Upsell a “Deep Clean” service at ₹1,500 per incident.  
-
-**తెలుగులో:**  
-**3️⃣  AI‑ఆధారిత వ్యక్తిగత డేటా‑హెల్త్ ఆడిట్ సేవ**  
-**ఇది ఏమిటి:**  
-వినియోగదారుడు ఇచ్చిన అనుమతితో అతని/ఆమె సోషల్‑మీడియా, ఇ‑మెయిల్స్, యాప్ అనుమతులు మొదలైన డిజిటల్ ట్రేస్‌ను స్కాన్ చేసి, “ప్రైవసీ‑హెల్త్” రేటింగ్ ఇచ్చే సులభ SaaS. నెలవారీ సబ్‌స్క్రిప్షన్‌లో స్కోర్‌కార్డ్, వాస్తవిక ప్రైవసీ టిప్స్, అలాగే “డేటా‑క్లిన్‑అప్” (unsubscribe లేదా permissions రద్దు) సేవను అదనపు ఫీజుతో అందించండి.  
-
-**ఎందుకు పనిచేస్తుంది:**  
-- డేటా‑ప్రైవసీకి ప్రజలు ఆందోళన చేస్తున్నారు, కానీ స్వయంగా audit చేయడానికి సమయం/నైపుణ్యం లేదు.  
-- LLM API (OpenAI, Gemini) తో AI‑కోర్‌ను తక్కువ ఖర్చులో నిర్మించవచ్చు.  
-- సబ్‌స్క్రిప్షన్ + ఒక్క‑సారి “డీప్ క్లిన్” ప్యాకేజ్‌ల ద్వారా రెండు ఆదాయ వనరులు.  
-
-**ప్రారంభ దశలు:**  
-1. OpenAI/Gemini APIలతో వినియోగదారు‑సమ్మతించిన పబ్లిక్ డేటా పార్స్ చేయండి.  
-2. Bubble లేదా Softr వంటి No‑Code టూల్స్‌తో డాష్‌బోర్డ్ నిర్మించండి.  
-3. 1‑click “Privacy Score” ను ఉచితంగా అందించి, ₹499/మాసం ప్లాన్‌కి మార్చండి.  
-4. “Deep Clean” సేవను ఒక్క సారి ₹1,500 కు upsell చేయండి.  
-
-
-
----
-
-## 4️⃣  **“Smart‑Shelf” Rental for Small Retailers**  
-**What it is:**  
-Develop an IoT‑enabled portable shelf (with weight sensors and Bluetooth) that small street vendors, kirana stores, or pop‑up stalls can rent. The shelf sends inventory‑level alerts to the owner’s phone and can automatically reorder low‑stock items through a partnered wholesaler. Charge a weekly rental plus a small transaction fee on every auto‑reorder.  
-
-**Why it works:**  
-- Many micro‑retailers lack inventory‑management tools.  
-- The hardware is cheap (sensors, Arduino/ESP32) and can be mass‑produced.  
-- Recurring rental + commission on reorders = steady cash flow.  
-
-**How to start:**  
-1. Build a prototype shelf with ESP32, load‑cell sensors, and a Battery pack.  
-2. Develop a simple Android app for alerts.  
-3. Partner with a local wholesale market for API‑based reordering.  
-4. Rent for ₹500/week; take 5 % on each auto‑reorder (minimum ₹50).  
-
-**తెలుగులో:**  
-**4️⃣  “స్మార్ట్‑షెల్ఫ్” అద్దె సేవ చిన్న రిటైలర్లు కోసం**  
-**ఇది ఏమిటి:**  
-బరువు సెన్సార్‌లు, Bluetooth ఉన్న పోర్టబుల్ షెల్‌ను (IoT‑enabled) అభివృద్ధి చేసి, చిన్న స్టాల్స్, కిరాణా స్టోర్లు, పాప్‑అప్ లకు అద్దెకు ఇవ్వండి. షెల్ఫ్‌లో నిల్వ స్థాయిని ఫోన్‌కు అలర్ట్‌ చేస్తుంది, తక్కువగా ఉన్న వస్తువులను భాగస్వామ్యోత్పత్తిదారు ద్వారా స్వయంచాలకంగా రీ‑ఆర్డర్ చేయవచ్చు. వారపు అద్దె + ప్రతి ఆటో‑రిఅర్డర్‌లో చిన్న లావాదేవీ ఫీజు తీసుకోండి.  
-
-**ఎందుకు పనిచేస్తుంది:**  
-- చిన్న రిటైలు దారులకు ఇన్వెంట్‌రీ‑మ్యానేజ్‌మెంట్ టూల్స్‌ లేకుండా.  
-- సెన్సార్, ESP32, Arduino లేదా ESP32 తో హార్డ్‌వేర్ తక్కువ ఖర్చులో తయారు‑చేయొచ్చు.  
-- పునరావృత అద్దె + రీ‑ఆర్డర్ కమిషన్ ద్వారా స్థిర ఆదాయం.  
-
-**ప్రారంభ దశలు:**  
-1. ESP32, లోడ్‑సెల్, బాటరీ ప్యాక్‌ కలిగిన షెల్ఫ్ ప్రోటోటైప్‌ తయారు చేయండి.  
-2. అలర్ట్‌లకు సింపుల్ Android యాప్‌ అభివృద్ధి చేయండి.  
-3. స్థానిక హోల్‌సేల్ మార్కెట్‌తో API‑ఆధారిత రీఆర్డర్‌ కోసం భాగస్వామ్యం చేయండి.  
-4. వారానికి ₹500 రేటు, ప్రతి ఆటో‑రిఅర్డర్‌లో 5 % (కనిష్టం ₹50) ఫీజు వసూలు చేయండి.  
-
-
-
----
-
-## 5️⃣  **“Cultural‑Experience‑Box” Subscription for Tourists**  
-**What it is:**  
-Curate monthly “experience boxes” that let travelers at home (or staying in a hotel) taste, smell, and feel a specific Indian region’s culture: spices, miniature craft items, a QR‑code video of a local folk‑dance, and a short recipe card. Ship the box nationwide and partner with local artisans for authentic items. Charge a subscription fee and take a margin on the artisan products.  
-
-**Why it works:**  
-- Post‑COVID travelers crave immersive experiences even before they set foot in a place.  
-- Artisans gain a new sales channel beyond their local market.  
-- Subscription model ensures predictable revenue, and each box can be produced for ≤₹400 and sold for ₹800‑₹1,000.  
-
-**How to start:**  
-1. Choose a region each month (e.g., “Kerala Monsoon”).  
-2. Source 3–4 small items from local NGOs/artisans (spice blend, sandalwood incense, hand‑loom coaster).  
-3. Record a 1‑minute video of a folk‑song/dance and host on YouTube (private link).  
-4. Offer a 3‑month starter subscription at ₹2,200 (₹733/month) with free shipping.  
-
-**తెలుగులో:**  
-**5️⃣  “సాంస్కృతిక‑అనుభవ‑బాక్స్” టూరిస్టుల కోసం సబ్‌స్క్రిప్షన్**  
-**ఇది ఏమిటి:**  
-ప్రతి నెల ఒక ప్రాంతం (ఉదా. “కేరళ మొన్సూన్”) యొక్క సువాసన, రుచి, అనుభూతిని అందించే బాక్స్‌ను సృష్టించండి – మసాలాలు, చిన్న క్రాఫ్ట్ ఐటమ్స్, ఆ ప్రాంతపు ఫోక్‑డాన్స్‌ వీడియోకు QR‑కోడ్, ఒక రెసిపీ కార్డ్. దేశవ్యాప్తంగా షిప్ చేయండి, స్థానిక కళాకారులతో భాగస్వామ్యం చేసి అసలు ఉత్పత్తులను పొందండి. సబ్‌స్క్రిప్షన్ ఫీజు వసూళ్లు, కళాకారులపై మార్జిన్ తీసుకోండి.  
-
-**ఎందుకు పనిచేస్తుంది:**  
-- COVID‑తరువాత ప్రయాణికులు, సందర్శించకముందే ప్రాంతం అనుభవించాలనుకుంటున్నారు.  
-- స్థానిక కళాకారులకు కొత్త మార్కెట్ లభిస్తుంది.  
-- సబ్‌స్క్రిప్షన్‌ మోడల్‌లో స్థిర ఆదాయం, ప్రతి బాక్స్‌ను ≤₹400 లో తయారు చేసి, ₹800‑₹1,000కి అమ్మవచ్చు.  
-
-**ప్రారంభ దశలు:**  
-1. ప్రతి నెల ఒక ప్రాంతాన్ని ఎంచుకోండి (ఉదా. “కేరళ మోన్సూన్”).  
-2. 3‑4 చిన్న వస్తువులను (మసాలా బ్లెండ్, సాండెల్‌వుడ్ ఇన్సెన్స్, హ్యాండ్‑లోమ్ కోస్టర్) స్థానిక NGOs/కళాకారుల నుండి పొందండి.  
-3. 1‑నిమిషం ఫోక్‑సాంగ్/డాన్స్‌ వీడియో రికార్డు చేసి, యూట్యూబ్‌లో ప్రైవేట్ లింక్‌ గా పెట్టండి.  
-4. 3‑మాసాల స్టార్టర్‌ సబ్‌స్క్రిప్షన్‌ను ₹2,200 (₹733/మాసం)గా, ఫ్రీ షిప్పింగ్‌తో అందించండి.  
-
-
-
----  
-
-### Quick Tips to Turn Any of These Ideas Into Cash  
-
-| Step | Action |
-|------|--------|
-| **Validate** | Run a 1‑week survey in your locality or on a local FB group. If ≥30 % show interest, you have a market. |
-| **Bootstrap** | Use existing tools – WhatsApp, Google Forms, No‑Code platforms – to keep initial costs < ₹10,000. |
-| **Iterate** | Collect feedback after the first month and tweak pricing, product mix or features. |
-| **Scale** | Once you have 20–30 steady customers, automate (e.g., subscription billing, IoT alerts) and expand to nearby neighborhoods or online. |
-
-Pick the one that excites you the most, start small, and let the recurring‑revenue model do the heavy lifting! Happy entrepreneuring! 🚀  
+Feel free to mix‑and‑match elements (e.g., a VR experience that showcases the story of the artisans behind the snack box) to create a truly unique offering! 🚀
 
 ---
 
 ## 📂 Previous Ideas
+- [2026-07-03-01-30.md](notes/2026-07-03-01-30.md)
 - [2026-07-02-22-54.md](notes/2026-07-02-22-54.md)
 - [2026-07-02-20-49.md](notes/2026-07-02-20-49.md)
 - [2026-07-02-19-05.md](notes/2026-07-02-19-05.md)
